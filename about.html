@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Meet the person behind Wellness Guide - your trusted source for health information.">
+    <title>About Me - Wellness Guide</title>
+    
+    <style>
+        /* ===== ATTRACTIVE BUILT-IN CSS FOR ABOUT PAGE ===== */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #f5f5f5 0%, #fff 100%);
+        }
+
+        /* Header Styles */
+        .header {
+            background: rgba(255,255,255,0.95);
+            backdrop-filter: blur(10px);
+            box-shadow: 0 2px 20px rgba(0,0,0,0.08);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            padding: 1rem 0;
+        }
+
+        .nav-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #2E7D32;
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+
+        .logo:hover {
+            transform: scale(1.05);
+            text-shadow: 0 2px 10px rgba(46,125,50,0.3);
+        }
+
+        .nav-links a {
+            color: #333;
+            text-decoration: none;
+            margin-left: 2rem;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            position: relative;
+        }
+
+        .nav-links a::after {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 0;
+            height: 2px;
+            background: #2E7D32;
+            transition: width 0.3s ease;
+        }
+
+        .nav-links a:hover::after,
+        .nav-links a.active::after {
+            width: 100%;
+        }
+
+        .nav-links a:hover {
+            color: #2E7D32;
+        }
+
+        /* Container */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* ===== ABOUT PAGE SPECIFIC STYLES ===== */
+        .about-page {
+            animation: fadeIn 0.8s ease-out;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Hero Quote */
+        .about-hero {
+            text-align: center;
+            padding: 3rem 0 1rem;
+        }
+
+        .about-hero h1 {
+            font-size: 3rem;
+            background: linear-gradient(135deg, #1B5E20, #2E7D32, #4CAF50);
+            background-size: 300% 300%;
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            animation: gradientShift 3s ease infinite;
+            margin-bottom: 1rem;
+        }
+
+        @keyframes gradientShift {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        .hero-divider {
+            width: 80px;
+            height: 4px;
+            background: linear-gradient(90deg, #2E7D32, #4CAF50, #2E7D32);
+            margin: 1.5rem auto;
+            border-radius: 2px;
+            animation: pulseWidth 2s ease-in-out infinite;
+        }
+
+        @keyframes pulseWidth {
+            0%, 100% { width: 80px; opacity: 0.6; }
+            50% { width: 120px; opacity: 1; }
+        }
+
+        /* Mission Section */
+        .mission-section {
+            max-width: 900px;
+            margin: 2rem auto 4rem;
+            perspective: 1000px;
+        }
+
+        .mission-card {
+            background: linear-gradient(135deg, #E8F5E9, #C8E6C9);
+            padding: 3rem;
+            border-radius: 30px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+            transition: all 0.4s ease;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+        }
+
+        .mission-card::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(255,255,255,0.3) 0%, transparent 70%);
+            transform: rotate(45deg);
+            transition: transform 0.6s ease;
+        }
+
+        .mission-card:hover::before {
+            transform: rotate(45deg) translate(10%, 10%);
+        }
+
+        .mission-card:hover {
+            transform: translateY(-10px) scale(1.02);
+            box-shadow: 0 30px 50px rgba(0,0,0,0.15);
+        }
+
+        .mission-icon {
+            font-size: 4rem;
+            margin-bottom: 1rem;
+            display: inline-block;
+            animation: bounce 2s ease-in-out infinite;
+        }
+
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+
+        .mission-card h2 {
+            font-size: 2rem;
+            color: #1B5E20;
+            margin-bottom: 1rem;
+        }
+
+        .mission-text {
+            font-size: 1.2rem;
+            line-height: 1.8;
+            color: #2E5A2E;
+            font-weight: 500;
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        /* Story Grid */
+        .story-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 4rem;
+            margin-bottom: 4rem;
+            align-items: center;
+        }
+
+        .story-image {
+            position: relative;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+            transition: all 0.4s ease;
+        }
+
+        .story-image::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, rgba(46,125,50,0.3), transparent);
+            z-index: 1;
+            opacity: 0;
+            transition: opacity 0.4s ease;
+        }
+
+        .story-image:hover::before {
+            opacity: 1;
+        }
+
+        .story-image:hover {
+            transform: scale(1.02);
+            box-shadow: 0 30px 50px rgba(0,0,0,0.2);
+        }
+
+        .story-image img {
+            width: 100%;
+            height: auto;
+            display: block;
+            transition: transform 0.4s ease;
+        }
+
+        .story-image:hover img {
+            transform: scale(1.05);
+        }
+
+        .story-content h2 {
+            font-size: 2rem;
+            color: #1B5E20;
+            margin-bottom: 1.5rem;
+            position: relative;
+            display: inline-block;
+        }
+
+        .story-content h2::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 0;
+            width: 50px;
+            height: 3px;
+            background: #2E7D32;
+            border-radius: 2px;
+        }
+
+        .story-content p {
+            font-size: 1.1rem;
+            color: #555;
+            margin-bottom: 2rem;
+            line-height: 1.8;
+        }
+
+        /* Values List */
+        .values-list {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .value-item {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            padding: 0.75rem;
+            background: #f9f9f9;
+            border-radius: 12px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .value-item:hover {
+            background: linear-gradient(90deg, #E8F5E9, #f9f9f9);
+            transform: translateX(10px);
+        }
+
+        .value-icon {
+            width: 30px;
+            height: 30px;
+            background: #2E7D32;
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+        }
+
+        .value-item:hover .value-icon {
+            transform: scale(1.1);
+            background: #1B5E20;
+        }
+
+        /* Disclosure Card */
+        .disclosure-card {
+            background: linear-gradient(135deg, #FFF8E1, #FFECB3);
+            padding: 2rem 2.5rem;
+            border-radius: 20px;
+            display: flex;
+            gap: 2rem;
+            align-items: center;
+            margin-bottom: 4rem;
+            border-left: 5px solid #FF9800;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .disclosure-card:hover {
+            transform: translateX(10px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+
+        .disclosure-icon {
+            font-size: 3rem;
+            transition: transform 0.3s ease;
+        }
+
+        .disclosure-card:hover .disclosure-icon {
+            transform: rotate(10deg) scale(1.1);
+        }
+
+        .disclosure-content h3 {
+            color: #E65100;
+            font-size: 1.3rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .disclosure-content p {
+            color: #5D4037;
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+
+        /* Welcome Section */
+        .welcome-section {
+            margin-bottom: 4rem;
+        }
+
+        .welcome-card {
+            background: linear-gradient(135deg, #2E7D32, #1B5E20);
+            color: white;
+            padding: 4rem 3rem;
+            border-radius: 30px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+            transition: all 0.4s ease;
+        }
+
+        .welcome-card::before {
+            content: '✨';
+            position: absolute;
+            top: -20px;
+            right: -20px;
+            font-size: 150px;
+            opacity: 0.1;
+            transform: rotate(15deg);
+        }
+
+        .welcome-card::after {
+            content: '🌿';
+            position: absolute;
+            bottom: -20px;
+            left: -20px;
+            font-size: 120px;
+            opacity: 0.1;
+            transform: rotate(-10deg);
+        }
+
+        .welcome-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 30px 50px rgba(0,0,0,0.2);
+        }
+
+        .welcome-card h2 {
+            color: white;
+            font-size: 2rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .welcome-text {
+            font-size: 1.2rem;
+            max-width: 700px;
+            margin: 0 auto 2rem;
+            opacity: 0.95;
+            line-height: 1.8;
+        }
+
+        .signature-line {
+            font-size: 1.2rem;
+            margin-bottom: 0.5rem;
+            opacity: 0.9;
+            font-style: italic;
+        }
+
+        .signature {
+            font-size: 2rem;
+            font-weight: 300;
+            font-style: italic;
+            letter-spacing: 2px;
+        }
+
+        /* Stats Grid */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+            margin-bottom: 3rem;
+            text-align: center;
+        }
+
+        .stat-item {
+            background: white;
+            padding: 2rem 1rem;
+            border-radius: 20px;
+            transition: all 0.3s ease;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+        }
+
+        .stat-item:hover {
+            transform: translateY(-10px) scale(1.05);
+            box-shadow: 0 20px 40px rgba(46,125,50,0.15);
+            background: linear-gradient(135deg, #fff, #f5f5f5);
+        }
+
+        .stat-number {
+            font-size: 3rem;
+            font-weight: bold;
+            background: linear-gradient(135deg, #2E7D32, #4CAF50);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            transition: all 0.3s ease;
+        }
+
+        .stat-item:hover .stat-number {
+            transform: scale(1.05);
+        }
+
+        .stat-label {
+            color: #666;
+            font-size: 1rem;
+            margin-top: 0.5rem;
+            font-weight: 500;
+        }
+
+        /* Footer */
+        .footer {
+            background: #1B5E20;
+            color: white;
+            padding: 3rem 0 1.5rem;
+            margin-top: 3rem;
+        }
+
+        .footer-grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr;
+            gap: 3rem;
+            margin-bottom: 2rem;
+        }
+
+        .footer-section h4 {
+            color: white;
+            margin-bottom: 1rem;
+            font-size: 1.2rem;
+        }
+
+        .footer-section p {
+            color: rgba(255,255,255,0.8);
+            font-size: 0.9rem;
+            line-height: 1.6;
+        }
+
+        .footer-section a {
+            color: rgba(255,255,255,0.8);
+            text-decoration: none;
+            display: block;
+            margin-bottom: 0.5rem;
+            transition: all 0.3s ease;
+        }
+
+        .footer-section a:hover {
+            color: white;
+            transform: translateX(5px);
+        }
+
+        .copyright {
+            text-align: center;
+            padding-top: 2rem;
+            border-top: 1px solid rgba(255,255,255,0.1);
+            color: rgba(255,255,255,0.6);
+            font-size: 0.9rem;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 992px) {
+            .story-grid {
+                gap: 2rem;
+            }
+            
+            .about-hero h1 {
+                font-size: 2.5rem;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .nav-container {
+                flex-direction: column;
+                gap: 1rem;
+            }
+            
+            .nav-links a {
+                margin: 0 1rem;
+            }
+            
+            .about-hero h1 {
+                font-size: 2rem;
+            }
+            
+            .story-grid {
+                grid-template-columns: 1fr;
+                gap: 2rem;
+            }
+            
+            .mission-card {
+                padding: 2rem;
+            }
+            
+            .mission-text {
+                font-size: 1rem;
+            }
+            
+            .disclosure-card {
+                flex-direction: column;
+                text-align: center;
+                padding: 1.5rem;
+            }
+            
+            .welcome-card {
+                padding: 2rem 1.5rem;
+            }
+            
+            .welcome-text {
+                font-size: 1rem;
+            }
+            
+            .signature {
+                font-size: 1.5rem;
+            }
+            
+            .footer-grid {
+                grid-template-columns: 1fr;
+                gap: 2rem;
+                text-align: center;
+            }
+            
+            .stats-grid {
+                grid-template-columns: 1fr;
+                gap: 1rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 0 15px;
+            }
+            
+            .about-hero h1 {
+                font-size: 1.8rem;
+            }
+            
+            .mission-card h2 {
+                font-size: 1.5rem;
+            }
+            
+            .stat-number {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="nav-container">
+            <a href="index.html" class="logo">🌿 Wellness Guide</a>
+            <nav class="nav-links">
+                <a href="index.html">Home</a>
+                <a href="blog.html">Blog</a>
+                <a href="about.html" class="active">About</a>
+                <a href="privacy.html">Privacy</a>
+                <a href="contact.html">Contact</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container about-page">
+        <!-- Hero Quote -->
+        <div class="about-hero">
+            <h1>Your Trusted Guide to a Healthier, Happier Life</h1>
+            <div class="hero-divider"></div>
+        </div>
+
+        <!-- Main Mission -->
+        <div class="mission-section">
+            <div class="mission-card">
+                <div class="mission-icon">🎯</div>
+                <h2>Our Mission</h2>
+                <p class="mission-text">This website exists for one reason — to help people like you cut through the noise and find health and wellness solutions that are backed by results, not just marketing hype.</p>
+            </div>
+        </div>
+
+        <!-- Story Grid -->
+        <div class="story-grid">
+            <div class="story-image">
+                <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 400 400'%3E%3Crect width='400' height='400' fill='%232E7D32' opacity='0.1'/%3E%3Ctext x='50%25' y='50%25' text-anchor='middle' dy='.3em' fill='%232E7D32' font-size='24'%3E🌱%3C/text%3E%3C/svg%3E"
+                     alt="Wellness journey illustration" 
+                     loading="lazy"
+                     width="400" 
+                     height="400">
+            </div>
+            <div class="story-content">
+                <h2>My Journey</h2>
+                <p>I research and review some of the most effective health, fitness, nutrition, and wellness programs available today. Every product I recommend is something I genuinely believe can make a difference in your life.</p>
+                
+                <div class="values-list">
+                    <div class="value-item">
+                        <span class="value-icon">✓</span>
+                        <span>Evidence-based research</span>
+                    </div>
+                    <div class="value-item">
+                        <span class="value-icon">✓</span>
+                        <span>No marketing hype</span>
+                    </div>
+                    <div class="value-item">
+                        <span class="value-icon">✓</span>
+                        <span>Honest recommendations</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Affiliate Disclosure Card - Prominently Displayed -->
+        <div class="disclosure-card">
+            <div class="disclosure-icon">🔗</div>
+            <div class="disclosure-content">
+                <h3>Affiliate Disclosure</h3>
+                <p>Some links on this site are affiliate links, meaning I may earn a small commission if you purchase through them — at no extra cost to you. I only recommend products I genuinely believe in.</p>
+            </div>
+        </div>
+
+        <!-- Welcome Message -->
+        <div class="welcome-section">
+            <div class="welcome-card">
+                <h2>I'm Glad You're Here</h2>
+                <p class="welcome-text">Whether you're just starting your wellness journey or looking for that next breakthrough, I'm glad you're here. Explore the site, find what resonates, and take that next step toward the life you deserve.</p>
+                <div class="signature-line">🌿 With gratitude,</div>
+                <div class="signature">Your Wellness Guide</div>
+            </div>
+        </div>
+
+        <!-- Quick Stats -->
+        <div class="stats-grid">
+            <div class="stat-item">
+                <div class="stat-number">50+</div>
+                <div class="stat-label">Articles Published</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number">10K+</div>
+                <div class="stat-label">Monthly Readers</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number">100%</div>
+                <div class="stat-label">Honest Reviews</div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-section">
+                    <h4>Wellness Guide</h4>
+                    <p>Your trusted resource for evidence-based health and wellness information.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <a href="about.html">About</a>
+                    <a href="privacy.html">Privacy Policy</a>
+                    <a href="blog.html">Blog</a>
+                    <a href="contact.html">Contact</a>
+                </div>
+                <div class="footer-section">
+                    <h4>Disclosure</h4>
+                    <p>This site contains affiliate links. We only recommend products we genuinely believe in.</p>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>&copy; 2024 Wellness Guide. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
