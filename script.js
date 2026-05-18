@@ -163,17 +163,17 @@ const posts = [
     date: "May 20, 2024",
     category: "Weight Loss",
     readTime: "7 min read",
-    image: ""https://images.pexels.com/photos/3768894/weight-loss-measuring-tape-2022-03-10.jpg?w=600&h=400&fit=crop"",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFigthMfl2p-TWDPv2dBAr_3pXSUoN884u9w&s",
     excerpt: "After struggling with stubborn weight for years, I tested MetaboSana for 8 weeks. Here's what actually happened to my metabolism and energy levels.",
     content: `
-        <div class="post-featured-image" style="height:300px;background-image:url('https://images.pexels.com/photos/3768894/weight-loss-measuring-tape-2022-03-10.jpg?w=800&h=400&fit=crop');background-size:cover;background-position:center;border-radius:12px;"></div>
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFigthMfl2p-TWDPv2dBAr_3pXSUoN884u9w&s');background-size:cover;background-position:center;border-radius:12px;"></div>
         
         <p>Like many of you, I've tried countless weight loss supplements over the years. Most didn't work. Some had terrible side effects. A few gave temporary results that vanished within weeks.</p>
         
         <p>When I first heard about MetaboSana, I was skeptical. The claims seemed too good to be true. But after 8 weeks of consistent testing, I'm genuinely impressed with the results.</p>
         
         <div class="affiliate-recommendation">
-            <img src="https://images.pexels.com/photos/3768894/weight-loss-measuring-tape-2022-03-10.jpg?w=100&h=100&fit=crop" alt="MetaboSana product" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFigthMfl2p-TWDPv2dBAr_3pXSUoN884u9w&s" alt="MetaboSana product" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;">
             <h4>✅ My Top Recommended Weight Loss Support</h4>
             <p>After testing dozens of products, MetaboSana is the only one that actually helped my metabolism.</p>
             <a href="https://metabosana.com/metabosana-pdp-fe#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
@@ -224,17 +224,17 @@ const posts = [
     date: "May 18, 2024",
     category: "Natural Health",
     readTime: "6 min read",
-    image: "https://images.pexels.com/photos/2753940/medicinal-herbs-garden-plants-2022-03-10.jpg?w=600&h=400&fit=crop",
+    image: "https://img.freepik.com/premium-photo/global-healthcare-earth-stethoscope-white-isolated-background-3d_505080-614.jpg?semt=ais_hybrid&w=740&q=80",
     excerpt: "I spent 3 months growing my own medicinal garden. Here's everything I learned and whether it's worth the investment for natural health enthusiasts.",
     content: `
-        <div class="post-featured-image" style="height:300px;background-image:url('https://images.pexels.com/photos/2753940/medicinal-herbs-garden-plants-2022-03-10.jpg?w=800&h=400&fit=crop');background-size:cover;background-position:center;border-radius:12px;"></div>
+        <div class="post-featured-image" style="height:300px;background-image:url('https://img.freepik.com/premium-photo/global-healthcare-earth-stethoscope-white-isolated-background-3d_505080-614.jpg?semt=ais_hybrid&w=740&q=80');background-size:cover;background-position:center;border-radius:12px;"></div>
         
         <p>For years, I've been buying expensive herbal remedies from health stores. The cost adds up quickly, and I never truly knew where the ingredients came from.</p>
         
         <p>That's why I was intrigued by the Medicinal Garden Kit. The concept is simple: grow your own medicinal herbs at home, then use them to create natural remedies for common ailments.</p>
         
         <div class="affiliate-recommendation">
-            <img src="https://images.pexels.com/photos/2753940/medicinal-herbs-garden-plants-2022-03-10.jpg?w=100&h=100&fit=crop" alt="Medicinal Garden Kit" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;">
+            <img src="https://img.freepik.com/premium-photo/global-healthcare-earth-stethoscope-white-isolated-background-3d_505080-614.jpg?semt=ais_hybrid&w=740&q=80" alt="Medicinal Garden Kit" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;">
             <h4>✅ My Top Recommended Home Garden Kit</h4>
             <p>After testing dozens of wellness products, this is the one that keeps giving back week after week.</p>
             <a href="https://medicinalseedkit.com/kit/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
@@ -302,17 +302,17 @@ const posts = [
     date: "May 15, 2024",
     category: "Energy & Vitality",
     readTime: "8 min read",
-    image: "https://images.pexels.com/photos/6994590/energy-boost-supplements-2022-03-10.jpg?w=600&h=400&fit=crop",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl8eCwXHflxmorMeVPtfHnBrMhOLBSxysfwA&s",
     excerpt: "After 2 months of using the Advanced Mitochondrial Formula, my energy levels have completely transformed. Here's my honest before-and-after experience.",
     content: `
-        <div class="post-featured-image" style="height:300px;background-image:url('https://images.pexels.com/photos/6994590/energy-boost-supplements-2022-03-10.jpg?w=800&h=400&fit=crop');background-size:cover;background-position:center;border-radius:12px;"></div>
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl8eCwXHflxmorMeVPtfHnBrMhOLBSxysfwA&s');background-size:cover;background-position:center;border-radius:12px;"></div>
         
         <p>For years, I accepted chronic fatigue as normal. I woke up tired. Needed coffee to function. Crashed by 2 PM. Slept poorly. Repeat.</p>
         
         <p>I thought this was just "getting older." But then I discovered mitochondrial health, and everything changed.</p>
         
         <div class="affiliate-recommendation">
-            <img src="https://images.pexels.com/photos/6994590/energy-boost-supplements-2022-03-10.jpg?w=100&h=100&fit=crop" alt="Advanced Mitochondrial Formula" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl8eCwXHflxmorMeVPtfHnBrMhOLBSxysfwA&s" alt="Advanced Mitochondrial Formula" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;">
             <h4>✅ My Top Recommended Energy Supplement</h4>
             <p>After testing dozens of energy boosters, this is the only one that addressed the root cause of my fatigue.</p>
             <a href="https://www.advancedbionutritionals.com/DS24/Advanced-Mitochondrial/Too-Tired-To-Enjoy-It/HD.htm#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
