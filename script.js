@@ -843,7 +843,7 @@ const posts = [
         <p>My hair isn't perfect, but it's significantly better than 6 months ago. Consistency is key with hair vitamins.</p>
     `,
     author: "Wellness Guide"
-},
+}
 
     
 ];
