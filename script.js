@@ -843,6 +843,341 @@ const posts = [
         <p>My hair isn't perfect, but it's significantly better than 6 months ago. Consistency is key with hair vitamins.</p>
     `,
     author: "Wellness Guide"
+},
+{
+    id: 24,
+    title: "Moringa Magic: My 60-Day Natural Supplement Journey",
+    date: "May 28, 2024",
+    category: "Natural Health",
+    readTime: "6 min read",
+    image: "https://www.shutterstock.com/image-photo/closeup-tropical-moringa-leaves-natural-260nw-2565508051.jpg",
+    excerpt: "I tried Moringa Magic for 60 days. Here's what happened to my energy, skin, and overall health with this natural supplement.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.shutterstock.com/image-photo/closeup-tropical-moringa-leaves-natural-260nw-2565508051.jpg');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I've always preferred natural solutions over synthetic supplements. When I discovered Moringa Magic, I was intrigued by its reputation as a "superfood" packed with essential nutrients.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.shutterstock.com/image-photo/closeup-tropical-moringa-leaves-natural-260nw-2565508051.jpg" alt="Moringa leaves" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Top Recommended Natural Supplement</h4>
+            <p>After 60 days of testing, here's why Moringa Magic earned a permanent spot in my routine.</p>
+            <a href="YOUR-DIGISTORE24-LINK-FOR-MORINGA-MAGIC-HERE" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What Is Moringa Magic?</h3>
+        <p>Moringa Magic is a concentrated supplement made from the leaves of the moringa oleifera tree, often called the "miracle tree" for its impressive nutritional profile.</p>
+        
+        <h3>My 60-Day Results</h3>
+        <ul>
+            <li><strong>Week 1-2:</strong> Subtle energy increase. No more afternoon crash.</li>
+            <li><strong>Week 3-4:</strong> Skin started glowing. Digestion improved.</li>
+            <li><strong>Week 5-6:</strong> Better focus. Reduced brain fog.</li>
+            <li><strong>Week 7-8:</strong> Stronger nails. Less hair fall. Overall vitality improved.</li>
+        </ul>
+        
+        <h3>Key Benefits I Noticed</h3>
+        <ul>
+            <li>Sustained energy without jitters</li>
+            <li>Clearer, brighter skin</li>
+            <li>Better digestion and less bloating</li>
+            <li>Improved immune response (fewer colds)</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Moringa Magic is now part of my daily routine. It's natural, effective, and I genuinely feel the difference when I don't take it.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 25,
+    title: "proDentim Review: My Honest Experience for Dental Health",
+    date: "May 25, 2024",
+    category: "Dental Health",
+    readTime: "7 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ27csqigXXWnZtClk6os4QhgD3kQcIXywQNg&s",
+    excerpt: "I tried proDentim for 90 days. Here's what happened to my gum health, fresh breath, and overall oral hygiene.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ27csqigXXWnZtClk6os4QhgD3kQcIXywQNg&s');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I've always taken care of my teeth – brushing, flossing, regular dentist visits. But I still struggled with occasional gum sensitivity and bad breath. That's when I discovered proDentim.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ27csqigXXWnZtClk6os4QhgD3kQcIXywQNg&s" alt="Dental health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Top Recommended Dental Health Supplement</h4>
+            <p>After 90 days, here's how proDentim transformed my oral health.</p>
+            <a href="YOUR-DIGISTORE24-LINK-FOR-PRODENTIM-HERE" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What Makes proDentim Different?</h3>
+        <p>Unlike traditional dental products that focus only on cleaning, proDentim uses probiotics to balance the oral microbiome – the good bacteria in your mouth.</p>
+        
+        <h3>My 90-Day Results</h3>
+        <ul>
+            <li><strong>Month 1:</strong> Fresher breath. Less morning mouth.</li>
+            <li><strong>Month 2:</strong> Gums stopped bleeding when flossing.</li>
+            <li><strong>Month 3:</strong> Dentist noticed less plaque. My teeth felt cleaner.</li>
+        </ul>
+        
+        <h3>Who Should Try proDentim?</h3>
+        <p>If you struggle with bad breath, gum sensitivity, or frequent cavities despite good oral hygiene, proDentim addresses the root cause – your oral microbiome.</p>
+        
+        <p><strong>The Bottom Line:</strong> proDentim is now part of my daily routine alongside brushing and flossing. My dentist approves, and my mouth feels healthier than ever.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 26,
+    title: "Quietum Plus Review: My 6-Month Hearing Health Journey",
+    date: "May 22, 2024",
+    category: "Hearing Health",
+    readTime: "8 min read",
+    image: "https://media.istockphoto.com/id/1633930224/photo/senior-woman-doctor-and-otoscope-for-ear-hearing-test-and-exam-audio-check-or-consultation.jpg?s=612x612&w=0&k=20&c=A0ma99ENWZSLCDubTUvbin8un6A7xubFU8bQy3gabWA=",
+    excerpt: "As I've gotten older, I noticed changes in my hearing. After 6 months of Quietum Plus, here's what improved and what didn't.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://media.istockphoto.com/id/1633930224/photo/senior-woman-doctor-and-otoscope-for-ear-hearing-test-and-exam-audio-check-or-consultation.jpg?s=612x612&w=0&k=20&c=A0ma99ENWZSLCDubTUvbin8un6A7xubFU8bQy3gabWA=');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Hearing loss runs in my family, and as I entered my 50s, I started noticing subtle changes – struggling to hear conversations in noisy restaurants, asking people to repeat themselves. That's when I discovered Quietum Plus.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://media.istockphoto.com/id/1633930224/photo/senior-woman-doctor-and-otoscope-for-ear-hearing-test-and-exam-audio-check-or-consultation.jpg?s=612x612&w=0&k=20&c=A0ma99ENWZSLCDubTUvbin8un6A7xubFU8bQy3gabWA=" alt="Hearing health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Top Recommended Hearing Support Supplement</h4>
+            <p>After 6 months of consistent use, here are my honest results.</p>
+            <a href="YOUR-DIGISTORE24-LINK-FOR-QUIETUM-PLUS-HERE" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What Is Quietum Plus?</h3>
+        <p>Quietum Plus is a natural supplement formulated with vitamins, minerals, and plant extracts designed to support ear health and cognitive function related to hearing.</p>
+        
+        <h3>My 6-Month Results</h3>
+        <ul>
+            <li><strong>Month 1-2:</strong> Reduced tinnitus (ringing) at night.</li>
+            <li><strong>Month 3-4:</strong> Noticed clearer sound quality in conversations.</li>
+            <li><strong>Month 5-6:</strong> Less ear fatigue. Better comprehension in background noise.</li>
+        </ul>
+        
+        <h3>Who Should Consider Quietum Plus?</h3>
+        <p>This is ideal for adults over 40 experiencing age-related hearing changes, tinnitus, or anyone wanting to support their long-term ear health.</p>
+        
+        <p><strong>The Bottom Line:</strong> Quietum Plus isn't a miracle cure, but after 6 months, I'm genuinely hearing better. My spouse noticed I ask "what?" less often!</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 27,
+    title: "Kerassentials Review: My Nail & Skin Health Transformation",
+    date: "May 20, 2024",
+    category: "Beauty & Wellness",
+    readTime: "6 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqb8fzf-2di_3jaaHiZiCEi2qrgOAx4LFaEg&s",
+    excerpt: "I struggled with brittle nails and dry skin for years. Here's how Kerassentials helped restore my nail and skin health naturally.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqb8fzf-2di_3jaaHiZiCEi2qrgOAx4LFaEg&s');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>My nails were weak, brittle, and always breaking. My skin was dry and dull. I tried countless creams and treatments, but nothing worked long-term. Then I discovered Kerassentials.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqb8fzf-2di_3jaaHiZiCEi2qrgOAx4LFaEg&s" alt="Nail health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Top Recommended Nail & Skin Health Product</h4>
+            <p>After 4 months, here's how Kerassentials transformed my nails and skin.</p>
+            <a href="YOUR-DIGISTORE24-LINK-FOR-KERASSENTIALS-HERE" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What Is Kerassentials?</h3>
+        <p>Kerassentials is a topical oil formula that targets nail and skin health from the outside in, using natural antifungal and nourishing ingredients.</p>
+        
+        <h3>My Results Timeline</h3>
+        <ul>
+            <li><strong>Month 1:</strong> Nails stopped breaking. Skin felt more hydrated.</li>
+            <li><strong>Month 2:</strong> Noticeable improvement in nail strength and appearance.</li>
+            <li><strong>Month 3:</strong> Skin looked healthier, more radiant.</li>
+            <li><strong>Month 4:</strong> Nails growing longer without breaking. Cuticles healthy.</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Kerassentials works. It's not overnight, but with consistent use, my nails and skin have genuinely improved.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 28,
+    title: "Pineal XT Review: My Brain Health & Mental Clarity Journey",
+    date: "May 18, 2024",
+    category: "Brain Health",
+    readTime: "7 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OvcdqHXYLpSpEPJChldP4VLOdBJoHgVTZg&s",
+    excerpt: "Brain fog was affecting my work and daily life. After 90 days of Pineal XT, here's what changed with my focus, memory, and mental clarity.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OvcdqHXYLpSpEPJChldP4VLOdBJoHgVTZg&s');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>As I got older, I noticed my thinking wasn't as sharp. I'd walk into a room and forget why. I struggled to focus on tasks. Brain fog was real, and it was frustrating.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OvcdqHXYLpSpEPJChldP4VLOdBJoHgVTZg&s" alt="Brain health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Top Recommended Brain Health Supplement</h4>
+            <p>After 90 days of Pineal XT, here's how my mental clarity improved.</p>
+            <a href="https://pxt.pinealxt.com/ds/presentation/index.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What Is Pineal XT?</h3>
+        <p>Pineal XT is formulated to support the pineal gland and overall brain function using natural ingredients known for cognitive benefits.</p>
+        
+        <h3>My 90-Day Results</h3>
+        <ul>
+            <li><strong>Month 1:</strong> Less mental fatigue at the end of the day.</li>
+            <li><strong>Month 2:</strong> Better focus during work. Fewer distractions.</li>
+            <li><strong>Month 3:</strong> Sharper memory. Easier recall of names and details.</li>
+        </ul>
+        
+        <h3>Who Should Try Pineal XT?</h3>
+        <p>If you experience brain fog, poor concentration, or want to support long-term brain health, Pineal XT is worth considering.</p>
+        
+        <p><strong>The Bottom Line:</strong> Pineal XT helped me think clearer and remember better. I feel more productive and less frustrated by mental fog.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 29,
+    title: "Primal Grow Pro Review: My Honest Men's Health Experience",
+    date: "May 15, 2024",
+    category: "Men's Health",
+    readTime: "7 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj6VfSuWzGKZ2-4rMCKzNK6nYJeKMB080oPA&s",
+    excerpt: "I tested Primal Grow Pro for 120 days. Here's what happened to my energy, confidence, and overall vitality.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj6VfSuWzGKZ2-4rMCKzNK6nYJeKMB080oPA&s');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>As men, we don't talk enough about age-related changes in our bodies. I decided to try Primal Grow Pro and document my honest results over 4 months.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj6VfSuWzGKZ2-4rMCKzNK6nYJeKMB080oPA&s" alt="Men's health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Top Recommended Men's Health Supplement</h4>
+            <p>After 120 days, here's what Primal Grow Pro did for my confidence and vitality.</p>
+            <a href="YOUR-DIGISTORE24-LINK-FOR-PRIMAL-GROW-PRO-HERE" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What Is Primal Grow Pro?</h3>
+        <p>Primal Grow Pro is a natural supplement designed to support male vitality, libido, and confidence through a blend of herbs and nutrients.</p>
+        
+        <h3>My 120-Day Results</h3>
+        <ul>
+            <li><strong>Month 1:</strong> Increased energy. Better morning stamina.</li>
+            <li><strong>Month 2:</strong> Noticeable boost in confidence and mood.</li>
+            <li><strong>Month 3:</strong> Improved sleep quality and recovery.</li>
+            <li><strong>Month 4:</strong> Overall sense of vitality and well-being.</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Primal Grow Pro isn't magic, but it supported my body's natural functions. I feel more like my younger self.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 30,
+    title: "TonicGreens Review: My 90-Day Natural Health Supplement Journey",
+    date: "May 12, 2024",
+    category: "Health Supplement",
+    readTime: "6 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3YOE1qhg4oTP-1lpIhdwLijdoww6EN-iwuA&s",
+    excerpt: "Getting enough greens daily is hard. Here's what happened after 90 days of using TonicGreens as my daily supplement.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3YOE1qhg4oTP-1lpIhdwLijdoww6EN-iwuA&s');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I knew I should eat more vegetables, but life got in the way. TonicGreens seemed like an easy solution to fill the nutritional gaps in my diet. Here's my honest review after 90 days.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3YOE1qhg4oTP-1lpIhdwLijdoww6EN-iwuA&s" alt="Green supplement" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Top Recommended Greens Supplement</h4>
+            <p>After 90 days, here's how TonicGreens improved my daily health.</p>
+            <a href="https://tonicgreens.cc/vsl1/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>My Results Timeline</h3>
+        <ul>
+            <li><strong>Month 1:</strong> Better digestion. Less bloating.</li>
+            <li><strong>Month 2:</strong> More consistent energy. No afternoon crash.</li>
+            <li><strong>Month 3:</strong> Clearer skin. Stronger immune system.</li>
+        </ul>
+        
+        <h3>Why TonicGreens Stands Out</h3>
+        <p>Unlike other greens powders, TonicGreens tastes good and mixes easily. I actually look forward to my morning drink now.</p>
+        
+        <p><strong>The Bottom Line:</strong> For anyone who struggles to eat enough vegetables, TonicGreens is a game-changer for daily nutrition.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 31,
+    title: "NanoDefense Pro Review: My Alternative Health Experience",
+    date: "May 10, 2024",
+    category: "Alternative Health",
+    readTime: "7 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAOli_j5EAGcqw57S1XV-CaXfzqqRZQlGOw&s",
+    excerpt: "I'm always curious about alternative health approaches. Here's my honest experience with NanoDefense Pro after 4 months of consistent use.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAOli_j5EAGcqw57S1XV-CaXfzqqRZQlGOw&s');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Alternative health has always interested me. When I learned about NanoDefense Pro's unique approach to wellness, I decided to test it for 4 months.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAOli_j5EAGcqw57S1XV-CaXfzqqRZQlGOw&s" alt="Health defense" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Top Recommended Alternative Health Supplement</h4>
+            <p>After 4 months, here's what I experienced with NanoDefense Pro.</p>
+            <a href="YOUR-DIGISTORE24-LINK-FOR-NANODEFENSE-PRO-HERE" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What Is NanoDefense Pro?</h3>
+        <p>NanoDefense Pro uses advanced formulation to support the body's natural defense systems at a cellular level.</p>
+        
+        <h3>My Results</h3>
+        <ul>
+            <li>Fewer seasonal issues throughout the year</li>
+            <li>Faster recovery when I did feel run down</li>
+            <li>Overall sense of better immune resilience</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> For those interested in alternative approaches to wellness, NanoDefense Pro offers a unique perspective worth exploring.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 32,
+    title: "Gluco Shield Pro Review: My Blood Sugar Support Journey",
+    date: "May 8, 2024",
+    category: "Blood Sugar Health",
+    readTime: "7 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcgbT-WNS3Lp8AFm9DBb7ncwBrUNvYiSwYFw&s",
+    excerpt: "Blood sugar concerns run in my family. Here's my honest experience with Gluco Shield Pro after 90 days of consistent use.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcgbT-WNS3Lp8AFm9DBb7ncwBrUNvYiSwYFw&s');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>With a family history of blood sugar issues, I wanted to be proactive about my metabolic health. Gluco Shield Pro seemed like a natural support option. Here's what I discovered after 90 days.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcgbT-WNS3Lp8AFm9DBb7ncwBrUNvYiSwYFw&s" alt="Blood sugar health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Top Recommended Blood Sugar Support Supplement</h4>
+            <p>After 90 days, here's how Gluco Shield Pro supported my metabolic health.</p>
+            <a href="YOUR-DIGISTORE24-LINK-FOR-GLUCO-SHIELD-PRO-HERE" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>My Results Timeline</h3>
+        <ul>
+            <li><strong>Month 1:</strong> Fewer sugar cravings. More stable energy.</li>
+            <li><strong>Month 2:</strong> Less hunger between meals. Better portion control.</li>
+            <li><strong>Month 3:</strong> Doctor noted improved glucose markers at checkup.</li>
+        </ul>
+        
+        <h3>Who Should Consider Gluco Shield Pro?</h3>
+        <p>If you have blood sugar concerns, a family history of diabetes, or struggle with energy crashes after meals, this is worth discussing with your doctor.</p>
+        
+        <p><strong>Important Note:</strong> Always consult your healthcare provider before starting any supplement, especially if you take diabetes medication.</p>
+    `,
+    author: "Wellness Guide"
 }
 
     
