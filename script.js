@@ -905,7 +905,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ27csqigXXWnZtClk6os4QhgD3kQcIXywQNg&s" alt="Dental health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Dental Health Supplement</h4>
             <p>After 90 days, here's how proDentim transformed my oral health.</p>
-            <a href="YOUR-DIGISTORE24-LINK-FOR-PRODENTIM-HERE" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="http://elprodentim24.com/text.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -943,7 +943,7 @@ const posts = [
             <img src="https://media.istockphoto.com/id/1633930224/photo/senior-woman-doctor-and-otoscope-for-ear-hearing-test-and-exam-audio-check-or-consultation.jpg?s=612x612&w=0&k=20&c=A0ma99ENWZSLCDubTUvbin8un6A7xubFU8bQy3gabWA=" alt="Hearing health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Hearing Support Supplement</h4>
             <p>After 6 months of consistent use, here are my honest results.</p>
-            <a href="YOUR-DIGISTORE24-LINK-FOR-QUIETUM-PLUS-HERE" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://quietumplus24.com/text.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -981,7 +981,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqb8fzf-2di_3jaaHiZiCEi2qrgOAx4LFaEg&s" alt="Nail health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Nail & Skin Health Product</h4>
             <p>After 4 months, here's how Kerassentials transformed my nails and skin.</p>
-            <a href="YOUR-DIGISTORE24-LINK-FOR-KERASSENTIALS-HERE" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/533765/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1055,7 +1055,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj6VfSuWzGKZ2-4rMCKzNK6nYJeKMB080oPA&s" alt="Men's health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Men's Health Supplement</h4>
             <p>After 120 days, here's what Primal Grow Pro did for my confidence and vitality.</p>
-            <a href="YOUR-DIGISTORE24-LINK-FOR-PRIMAL-GROW-PRO-HERE" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://primalgrowpro24.com/text.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1126,7 +1126,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAOli_j5EAGcqw57S1XV-CaXfzqqRZQlGOw&s" alt="Health defense" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Alternative Health Supplement</h4>
             <p>After 4 months, here's what I experienced with NanoDefense Pro.</p>
-            <a href="YOUR-DIGISTORE24-LINK-FOR-NANODEFENSE-PRO-HERE" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://nanodefensepro24.com/text.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1161,7 +1161,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcgbT-WNS3Lp8AFm9DBb7ncwBrUNvYiSwYFw&s" alt="Blood sugar health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Blood Sugar Support Supplement</h4>
             <p>After 90 days, here's how Gluco Shield Pro supported my metabolic health.</p>
-            <a href="YOUR-DIGISTORE24-LINK-FOR-GLUCO-SHIELD-PRO-HERE" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/551789/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
             <div style="clear:both"></div>
         </div>
         
