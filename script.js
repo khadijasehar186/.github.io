@@ -1178,6 +1178,290 @@ const posts = [
         <p><strong>Important Note:</strong> Always consult your healthcare provider before starting any supplement, especially if you take diabetes medication.</p>
     `,
     author: "Wellness Guide"
+},
+{
+    id: 33,
+    title: "Mental Time Travel System: Rewire Your Past, Transform Your Future",
+    date: "June 10, 2024",
+    category: "Personal Development",
+    readTime: "8 min read",
+    image: "https://media.gettyimages.com/id/1096030754/vector/burnout-syndrome.jpg?s=612x612&w=gi&k=20&c=5dgmBNJsWp1AcXUMGU8E0sPh0pfsJUmq5vzR2p-mXUs=",
+    excerpt: "I tried the Mental Time Travel System for 60 days. Here's how revisiting past experiences helped me heal trauma and create a better future.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://media.gettyimages.com/id/1096030754/vector/burnout-syndrome.jpg?s=612x612&w=gi&k=20&c=5dgmBNJsWp1AcXUMGU8E0sPh0pfsJUmq5vzR2p-mXUs=');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>For years, I was stuck in patterns I couldn't break. I knew my past was affecting my present, but I didn't know how to change it. Then I discovered the Mental Time Travel System.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://media.gettyimages.com/id/1096030754/vector/burnout-syndrome.jpg?s=612x612&w=gi&k=20&c=5dgmBNJsWp1AcXUMGU8E0sPh0pfsJUmq5vzR2p-mXUs=" alt="Mental time travel" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Top Recommended Personal Development System</h4>
+            <p>After 60 days, here's how this system changed my relationship with my past.</p>
+            <a href="https://www.advancedbionutritionals.com/DS24/Advanced-Memory/Nobel-Prize-Winning-Memory-Breakthroughs/HD.htm#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What Is the Mental Time Travel System?</h3>
+        <p>This isn't science fiction. The Mental Time Travel System uses psychological techniques to help you reframe past experiences, release emotional baggage, and create new neural pathways for a healthier future.</p>
+        
+        <h3>How I Used It</h3>
+        <p>Each day, I spent 20 minutes working through specific exercises that helped me revisit difficult memories from a new perspective. The system guides you to see past events as lessons rather than wounds.</p>
+        
+        <h3>My 60-Day Results</h3>
+        <ul>
+            <li><strong>Week 1-2:</strong> Emotional release. I cried unexpectedly. Old feelings surfaced.</li>
+            <li><strong>Week 3-4:</strong> Started sleeping better. Nightmares decreased significantly.</li>
+            <li><strong>Week 5-6:</strong> Noticed fewer triggers. Reacted less to old wounds.</li>
+            <li><strong>Week 7-8:</strong> Felt lighter. More present. Less haunted by the past.</li>
+        </ul>
+        
+        <h3>Who Is This For?</h3>
+        <p>If you're carrying emotional baggage from your past, struggling with recurring negative patterns, or feel stuck in old stories about yourself, this system offers a unique approach to healing.</p>
+        
+        <p><strong>The Bottom Line:</strong> The Mental Time Travel System isn't magic, but it's powerful. For the first time in years, I feel free from my past. Highly recommend for anyone doing inner work.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 34,
+    title: "No Grid Survival Projects: Complete Off-Grid Living Guide",
+    date: "June 8, 2024",
+    category: "Survival & Preparedness",
+    readTime: "9 min read",
+    image: "https://img.magnific.com/free-photo/beautiful-modern-house-cement-view-from-garden_1127-3209.jpg",
+    excerpt: "I tested 20 off-grid survival projects. Here's what worked, what didn't, and how to actually prepare for emergencies without wasting money.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://img.magnific.com/free-photo/beautiful-modern-house-cement-view-from-garden_1127-3209.jpg');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>After watching the news, I realized I wasn't prepared for anything. Power outage? No plan. Water interruption? No backup. That's when I started building my off-grid skills.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://img.magnific.com/free-photo/beautiful-modern-house-cement-view-from-garden_1127-3209.jpg" alt="Survival projects" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Top Recommended Survival Guide</h4>
+            <p>Complete off-grid projects that actually work for real emergencies.</p>
+            <a href="YOUR-DIGISTORE24-LINK-FOR-NO-GRID-SURVIVAL-HERE" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What's Inside the No Grid Survival Projects Guide?</h3>
+        <ul>
+            <li>Water collection and purification systems</li>
+            <li>Off-grid power solutions (solar, backup, etc.)</li>
+            <li>Food preservation without electricity</li>
+            <li>Emergency shelter and heating options</li>
+            <li>First aid and medical preparedness</li>
+        </ul>
+        
+        <h3>Top 5 Projects I Built</h3>
+        <p><strong>1. Rainwater Collection System:</strong> Built for under $50. Now have a 50-gallon backup water supply.</p>
+        <p><strong>2. Solar Phone Charger:</strong> Works perfectly during power outages. Keeps devices running.</p>
+        <p><strong>3. Emergency Heat Source:</strong> DIY candle heater that raised room temperature by 10 degrees.</p>
+        <p><strong>4. Long-Term Food Storage:</strong> Properly stored rice, beans, and oats that last 25+ years.</p>
+        <p><strong>5. Off-Grid Cooking:</strong> Rocket stove made from cheap materials. Boils water in minutes.</p>
+        
+        <h3>What I Wish I Knew Earlier</h3>
+        <p>Start with basics first – water, warmth, food. Don't buy expensive gear you don't know how to use. Simple skills matter more than fancy equipment.</p>
+        
+        <p><strong>The Bottom Line:</strong> The No Grid Survival Projects guide is practical, actionable, and beginner-friendly. I feel genuinely more prepared after completing these projects.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 35,
+    title: "Billionaire Brain Wave: Activate Abundance Mindset",
+    date: "June 5, 2024",
+    category: "Manifestation",
+    readTime: "7 min read",
+    image: "https://www.shutterstock.com/image-illustration/translucent-tealcolored-digital-rendering-human-600nw-2708141127.jpg",
+    excerpt: "I tried the Billionaire Brain Wave audio program for 45 days. Here's how it changed my money mindset and attracted unexpected opportunities.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.shutterstock.com/image-illustration/translucent-tealcolored-digital-rendering-human-600nw-2708141127.jpg');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I was skeptical. An audio program that rewires your brain for abundance? It sounded too good to be true. But after 45 days of consistent listening, I noticed real shifts in my thinking and results.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.shutterstock.com/image-illustration/translucent-tealcolored-digital-rendering-human-600nw-2708141127.jpg" alt="Brain wave" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Top Recommended Abundance Program</h4>
+            <p>After 45 days, here's how the Billionaire Brain Wave changed my money mindset.</p>
+            <a href="YOUR-DIGISTORE24-LINK-FOR-BILLIONAIRE-BRAIN-WAVE-HERE" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>How It Works</h3>
+        <p>The Billionaire Brain Wave uses specific sound frequencies designed to stimulate theta brain waves associated with creativity, intuition, and abundance mindset. You simply listen for 7 minutes daily.</p>
+        
+        <h3>My 45-Day Experience</h3>
+        <ul>
+            <li><strong>Week 1-2:</strong> Felt calmer. Less money anxiety. More hopeful about the future.</li>
+            <li><strong>Week 3-4:</strong> Started noticing unexpected opportunities. A refund arrived. A side project earned money.</li>
+            <li><strong>Week 5-6:</strong> Bigger shifts. A new income source appeared. My mindset around wealth completely changed.</li>
+        </ul>
+        
+        <h3>What Changed For Me</h3>
+        <p>Before, I thought about money with fear. Now, I think about it with possibility. I stopped seeing wealthy people as "the other" and started seeing them as teachers. Small daily listening created a massive mindset shift.</p>
+        
+        <p><strong>The Bottom Line:</strong> This isn't magic money that appears overnight. But if you want to rewire your brain for abundance, the Billionaire Brain Wave is a powerful tool that actually works.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 36,
+    title: "Miracle Money Magnets: Attract Wealth With Simple Techniques",
+    date: "June 3, 2024",
+    category: "Wealth Manifestation",
+    readTime: "6 min read",
+    image: "https://t4.ftcdn.net/jpg/00/49/37/27/360_F_49372725_KsxISUJFanxBgFlySu9MVVrFz2z9Wuig.jpg",
+    excerpt: "I tried the Miracle Money Magnets techniques for 60 days. Here's what happened to my bank account, opportunities, and money mindset.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://t4.ftcdn.net/jpg/00/49/37/27/360_F_49372725_KsxISUJFanxBgFlySu9MVVrFz2z9Wuig.jpg');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I've always believed that mindset creates reality, but I struggled to apply it to money. The Miracle Money Magnets system gave me simple, daily practices that actually shifted my financial situation.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://t4.ftcdn.net/jpg/00/49/37/27/360_F_49372725_KsxISUJFanxBgFlySu9MVVrFz2z9Wuig.jpg" alt="Money magnets" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Top Recommended Wealth Attraction Program</h4>
+            <p>Simple techniques that helped me attract unexpected money.</p>
+            <a href="https://www.digistore24.com/redir/423307/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>The Core Techniques</h3>
+        <ul>
+            <li>Daily abundance visualization (5 minutes)</li>
+            <li>Money gratitude practice</li>
+            <li>Releasing scarcity beliefs through journaling</li>
+            <li>Acting "as if" wealth is already present</li>
+        </ul>
+        
+        <h3>My 60-Day Results</h3>
+        <ul>
+            <li><strong>Month 1:</strong> Small unexpected money appeared. A refund. A gift. A discount.</li>
+            <li><strong>Month 2:</strong> A new client found me. My side hustle income doubled. Received a surprise bonus.</li>
+        </ul>
+        
+        <h3>What I Noticed</h3>
+        <p>The techniques didn't just attract money – they changed how I SEE money. I stopped checking my bank account with fear. I started expecting abundance. And that expectation became reality.</p>
+        
+        <p><strong>The Bottom Line:</strong> Miracle Money Magnets works if you actually do the daily practices. Simple, consistent, and surprisingly effective.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 37,
+    title: "Midas Manifestation System: Turn Desires Into Reality",
+    date: "June 1, 2024",
+    category: "Manifestation",
+    readTime: "7 min read",
+    image: "https://www.shutterstock.com/image-photo/silhouette-person-jumping-dream-reality-600nw-2587883367.jpg",
+    excerpt: "Everything I touched seemed to turn to gold? Not exactly. But after 90 days of the Midas Manifestation System, my life changed in unexpected ways.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.shutterstock.com/image-photo/silhouette-person-jumping-dream-reality-600nw-2587883367.jpg');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>The name sounded overpromising. Midas Manifestation claims to help you manifest desires quickly. I was skeptical, but after 90 days, I'm a believer – not because of magic, but because of the mindset shift it created.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.shutterstock.com/image-photo/silhouette-person-jumping-dream-reality-600nw-2587883367.jpg" alt="Midas manifestation" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Top Recommended Manifestation System</h4>
+            <p>After 90 days, here's how Midas Manifestation changed my reality.</p>
+            <a href="https://www.digistore24.com/redir/439776/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What Makes Midas Different</h3>
+        <p>Unlike vague manifestation advice, Midas provides specific frameworks for identifying desires, removing blocks, and taking aligned action. It's mindset meets practical steps.</p>
+        
+        <h3>My 90-Day Journey</h3>
+        <ul>
+            <li><strong>Month 1:</strong> Clarified what I actually wanted (not what I thought I should want).</li>
+            <li><strong>Month 2:</strong> Removed subconscious blocks around deserving success.</li>
+            <li><strong>Month 3:</strong> Took aligned action. Unexpected opportunities appeared.</li>
+        </ul>
+        
+        <h3>What Manifested</h3>
+        <p>A freelance client found me through Instagram. A relationship healed unexpectedly. I received an invitation to speak at an event. Not overnight magic, but clear, undeniable results.</p>
+        
+        <p><strong>The Bottom Line:</strong> The Midas Manifestation System gave me a practical framework for turning desires into reality. If you're tired of vague "just think positive" advice, this system actually helps.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 38,
+    title: "The Language of Abundance: Rewire Your Money Story",
+    date: "May 30, 2024",
+    category: "Personal Development",
+    readTime: "6 min read",
+    image: "https://storage.googleapis.com/accesswire/logos/subaccounts/62161.png?v=2",
+    excerpt: "The words we use create our reality. After 60 days using The Language of Abundance, my money conversations – and my bank account – changed completely.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://storage.googleapis.com/accesswire/logos/subaccounts/62161.png?v=2');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I never thought about the words I used around money. "I can't afford that." "Money is tight." "We're struggling." The Language of Abundance showed me how these phrases were keeping me stuck.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://storage.googleapis.com/accesswire/logos/subaccounts/62161.png?v=2" alt="Language of abundance" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Top Recommended Mindset Shift Program</h4>
+            <p>Changing my words changed my wealth. Here's how.</p>
+            <a href="https://www.digistore24.com/redir/471596/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>The Simple Shift That Changed Everything</h3>
+        <p>Instead of "I can't afford this," I started saying "How can I afford this?" Instead of "money is tight," "money is flowing in new ways." Small word changes. Massive mindset shifts.</p>
+        
+        <h3>My 60-Day Results</h3>
+        <ul>
+            <li><strong>Week 1-2:</strong> Felt uncomfortable saying new phrases. But I kept going.</li>
+            <li><strong>Week 3-4:</strong> Started believing the new words. Felt less stressed about money.</li>
+            <li><strong>Week 5-6:</strong> Unexpected income appeared. A $500 refund. A $200 gift.</li>
+            <li><strong>Week 7-8:</strong> New opportunities. A raise at work. A side hustle client.</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> The Language of Abundance is simple but profound. Change your words, change your mindset, change your reality. It worked for me.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 39,
+    title: "The Lost Book of Remedies: Natural Healing Rediscovered",
+    date: "May 28, 2024",
+    category: "Natural Health",
+    readTime: "8 min read",
+    image: "https://books.google.com/books/content?id=6Fgb0AEACAAJ&printsec=frontcover&img=1&zoom=5",
+    excerpt: "I tried 20 remedies from The Lost Book of Remedies. Here's what worked for my family's health issues and what I learned about natural healing.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://books.google.com/books/content?id=6Fgb0AEACAAJ&printsec=frontcover&img=1&zoom=5');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Modern medicine is amazing, but I wanted natural options for everyday health issues. The Lost Book of Remedies rediscovered traditional healing methods that our grandparents knew. I tested 20 remedies on myself and my family.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://books.google.com/books/content?id=6Fgb0AEACAAJ&printsec=frontcover&img=1&zoom=5" alt="Natural remedies" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Top Recommended Natural Health Resource</h4>
+            <p>Rediscovered remedies that actually work for common health issues.</p>
+            <a href="https://ultimatesurvivalfoods.com/book/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What's Inside The Lost Book of Remedies</h3>
+        <ul>
+            <li>300+ natural remedies for common ailments</li>
+            <li>Herbal medicine making guides</li>
+            <li>Foraged medicine from your backyard</li>
+            <li>First aid with natural ingredients</li>
+            <li>Preservation of medicinal herbs</li>
+        </ul>
+        
+        <h3>Top 5 Remedies That Worked For Me</h3>
+        <p><strong>1. Cold and Flu Remedy:</strong> Elderberry syrup. Reduced my cold duration from 7 days to 4.</p>
+        <p><strong>2. Sleep Aid:</strong> Homemade chamomile-lavender tea. Works better than over-the-counter sleep aids.</p>
+        <p><strong>3. Digestive Bitters:</strong> DIY digestive tincture. Eliminated my post-meal bloating completely.</p>
+        <p><strong>4. Headache Relief:</strong> Peppermint oil application. Helped without painkillers.</p>
+        <p><strong>5. Wound Healing Salve:</strong> Plantain and calendula salve. Healed cuts faster than antibiotic cream.</p>
+        
+        <h3>What I Learned</h3>
+        <p>Natural remedies aren't magic. They work gently over time. And having the knowledge to make my own medicine feels incredibly empowering. This book is my go-to reference now.</p>
+        
+        <p><strong>The Bottom Line:</strong> The Lost Book of Remedies is worth every penny. Even using 5-10 remedies regularly makes it invaluable for natural health families.</p>
+    `,
+    author: "Wellness Guide"
 }
 
     
