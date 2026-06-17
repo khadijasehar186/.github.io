@@ -3114,6 +3114,441 @@ const posts = [
         <p><strong>The Bottom Line:</strong> Starting is the hardest part. But once you start, momentum builds. You don't need to be perfect. You just need to begin. Today is the best day to start your fitness journey. You've got this.</p>
     `,
     author: "Wellness Guide"
+},
+{
+    id: 56,
+    title: "Sleep Hygiene: 7 Science-Backed Tips for Better Rest",
+    date: "June 30, 2024",
+    category: "Sleep",
+    readTime: "8 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_CQS1aHgYUOBd5izJbZWcY4QAyaUCrLtDXA&s",
+    excerpt: "I struggled with poor sleep for years. These 7 science-backed sleep hygiene tips finally helped me get the deep, restorative rest my body needed.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_CQS1aHgYUOBd5izJbZWcY4QAyaUCrLtDXA&s');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>For years, I accepted poor sleep as normal. I'd toss and turn for hours. Wake up multiple times. Feel exhausted every morning. I tried everything—melatonin, sleep teas, even prescription medication. Nothing worked consistently.</p>
+        
+        <p>Then I discovered sleep hygiene—the science-backed habits that prepare your body and mind for rest. These 7 tips transformed my sleep quality within weeks. Now I fall asleep within 15 minutes and wake up genuinely rested.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_CQS1aHgYUOBd5izJbZWcY4QAyaUCrLtDXA&s" alt="Sleep hygiene" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Sleep Optimization Toolkit</h4>
+            <p>These are the tools and supplements that helped me fix my sleep.</p>
+            <a href="https://www.digistore24.com/redir/544084/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Tip #1: Stick to a Consistent Sleep Schedule (Even on Weekends)</h3>
+        <p><strong>The science:</strong> Your body has an internal clock called the circadian rhythm. Going to bed and waking up at different times confuses this rhythm, making it harder to fall asleep and wake up naturally.</p>
+        <p><strong>What I did:</strong> I set a fixed bedtime (10:30 PM) and wake time (6:30 AM) and stuck to it every single day—including weekends. Within a week, I started waking up naturally without an alarm.</p>
+        <p><strong>How to start:</strong> Choose a bedtime and wake time that allows for 7-8 hours of sleep. Stick to it for 7 days. Your body will adapt.</p>
+        
+        <h3>Tip #2: Create a Wind-Down Routine (30-60 Minutes Before Bed)</h3>
+        <p><strong>The science:</strong> Your brain needs time to transition from "awake mode" to "sleep mode." A consistent wind-down routine signals your brain that sleep is coming.</p>
+        <p><strong>What I did:</strong> I created a 30-minute routine: dim lights, light stretching, journaling, and reading fiction (no screens!). This ritual became a powerful sleep trigger.</p>
+        <p><strong>How to start:</strong> Pick 2-3 calming activities. Dim your lights. No screens. Do the same activities in the same order every night.</p>
+        
+        <h3>Tip #3: Optimize Your Bedroom Environment</h3>
+        <p><strong>The science:</strong> Your bedroom should be cool (65-68°F), dark, and quiet. These conditions signal to your body that it's time to sleep and help maintain deep sleep throughout the night.</p>
+        <p><strong>What I did:</strong> I invested in blackout curtains (total darkness), set my thermostat to 67°F, and used a white noise machine to block outside sounds.</p>
+        <p><strong>How to start:</strong> Block all light sources. Lower the temperature. Use earplugs or a fan if noise is an issue.</p>
+        
+        <h3>Tip #4: Stop Caffeine by 2 PM</h3>
+        <p><strong>The science:</strong> Caffeine has a half-life of 5-6 hours. That means half the caffeine from your 2 PM coffee is still in your system at 8 PM, disrupting your ability to fall and stay asleep.</p>
+        <p><strong>What I did:</strong> I cut off all caffeine after 2 PM. No coffee, no black tea, no soda. I switched to herbal tea after lunch.</p>
+        <p><strong>How to start:</strong> Gradually reduce afternoon caffeine. Switch to decaf or herbal alternatives. Notice how much better you sleep within a few days.</p>
+        
+        <h3>Tip #5: Ban Screens from the Bedroom</h3>
+        <p><strong>The science:</strong> Blue light from phones, tablets, and TVs suppresses melatonin production—your body's sleep hormone. Even dim screen light disrupts sleep quality.</p>
+        <p><strong>What I did:</strong> I removed all screens from my bedroom. No TV. No phone on the nightstand. I bought a traditional alarm clock.</p>
+        <p><strong>How to start:</strong> Charge your phone in another room. Use a physical alarm clock. Stop screen use at least 1 hour before bed.</p>
+        
+        <h3>Tip #6: Get Morning Sunlight Within 30 Minutes of Waking</h3>
+        <p><strong>The science:</strong> Morning light exposure sets your circadian rhythm for the entire day. It suppresses melatonin (keeping you awake) and signals your body to produce cortisol (your wake-up hormone).</p>
+        <p><strong>What I did:</strong> I now step outside for 10-15 minutes within 30 minutes of waking. No sunglasses. No looking at the sun—just being outdoors.</p>
+        <p><strong>How to start:</strong> Open your curtains immediately upon waking. Step outside for a few minutes. Drink your morning coffee outdoors if possible.</p>
+        
+        <h3>Tip #7: Stop Eating 2-3 Hours Before Bed</h3>
+        <p><strong>The science:</strong> Eating late triggers digestion, raises blood sugar, and increases body temperature—all of which interfere with sleep onset and quality.</p>
+        <p><strong>What I did:</strong> I moved my dinner earlier (by 6:30 PM) and stopped snacking after 8 PM. If I'm genuinely hungry before bed, I have a small protein-rich snack (Greek yogurt or a hard-boiled egg).</p>
+        <p><strong>How to start:</strong> Gradually shift your dinner earlier. If you snack at night, choose protein over carbs or sugar.</p>
+        
+        <h3>My Results After 30 Days</h3>
+        <ul>
+            <li><strong>Fall asleep time:</strong> From 60+ minutes to under 15 minutes</li>
+            <li><strong>Night wakings:</strong> From 3-4 times to 0-1 times</li>
+            <li><strong>Morning energy:</strong> From 3/10 to 8/10</li>
+            <li><strong>Sleep duration:</strong> From 5-6 hours to 7.5-8 hours</li>
+            <li><strong>Need for caffeine:</strong> Reduced from 3 cups to 1 cup daily</li>
+        </ul>
+        
+        <h3>What to Do If These Tips Don't Work Immediately</h3>
+        <ul>
+            <li><strong>Be patient:</strong> Sleep improvements take time—sometimes 2-4 weeks of consistent practice</li>
+            <li><strong>Don't stress about sleep:</strong> Anxiety about sleep makes it harder to sleep. Trust the process.</li>
+            <li><strong>Consider professional help:</strong> If you still struggle after 6-8 weeks, talk to your doctor about sleep disorders.</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> These 7 science-backed tips changed my sleep for the better. Start with 2-3 tips—don't try to change everything at once. Master those, then add more. Your sleep will transform.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 57,
+    title: "Why You're Sleeping Wrong: 7 Sleep Habits You Need to Fix",
+    date: "June 28, 2024",
+    category: "Sleep",
+    readTime: "7 min read",
+    image: "https://www.shutterstock.com/image-photo/png-girl-pillow-isolated-on-260nw-2377126577.jpg",
+    excerpt: "I thought I was a 'bad sleeper.' Turns out, I was just making these 7 common sleep mistakes. Here's how fixing them transformed my rest.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.shutterstock.com/image-photo/png-girl-pillow-isolated-on-260nw-2377126577.jpg');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I blamed my poor sleep on everything—stress, genetics, my busy mind. I thought I was just a 'bad sleeper' and nothing could change that. Then I discovered I was making common sleep mistakes that were sabotaging my rest.</p>
+        
+        <p>Once I identified and fixed these 7 habits, my sleep transformed. If you're struggling with sleep, you might be making these mistakes too.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.shutterstock.com/image-photo/png-girl-pillow-isolated-on-260nw-2377126577.jpg" alt="Sleep mistakes" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Sleep Improvement Toolkit</h4>
+            <p>These resources helped me fix my sleep mistakes.</p>
+            <a href="https://www.digistore24.com/redir/544084/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Mistake #1: Using Your Phone as an Alarm Clock</h3>
+        <p><strong>Why it's a mistake:</strong> Having your phone on your nightstand tempts you to check it before sleep or during the night. Blue light suppresses melatonin, and notifications disrupt sleep architecture.</p>
+        <p><strong>The fix:</strong> Get a traditional alarm clock. Charge your phone in another room. This single change reduced my night wakings by 70%.</p>
+        
+        <h3>Mistake #2: Hitting Snooze</h3>
+        <p><strong>Why it's a mistake:</strong> Those 9-minute snooze cycles fragment your sleep and trigger sleep inertia—that groggy feeling that lingers for hours. It confuses your body's wake-up signals.</p>
+        <p><strong>The fix:</strong> Set your alarm for the time you actually need to wake up. Place it across the room so you have to stand up to turn it off. No more snooze.</p>
+        
+        <h3>Mistake #3: Weekend Sleep Catch-Up</h3>
+        <p><strong>Why it's a mistake:</strong> Sleeping 5 hours on weekdays and 9 hours on weekends confuses your circadian rhythm. It's like giving your body jet lag every week.</p>
+        <p><strong>The fix:</strong> Maintain the same sleep schedule within 1 hour every day—even on weekends. Consistency matters more than total hours.</p>
+        
+        <h3>Mistake #4: Exercising Late in the Evening</h3>
+        <p><strong>Why it's a mistake:</strong> Intense exercise raises your core body temperature and releases adrenaline. Both interfere with sleep onset. Your body needs 2-3 hours to cool down and relax after intense activity.</p>
+        <p><strong>The fix:</strong> Schedule intense workouts for morning or early afternoon. If you exercise in the evening, keep it light—gentle stretching or walking.</p>
+        
+        <h3>Mistake #5: Alcohol as a Sleep Aid</h3>
+        <p><strong>Why it's a mistake:</strong> Alcohol helps you fall asleep faster, but it disrupts REM sleep—the restorative stage of sleep. It also increases night wakings and reduces sleep quality overall.</p>
+        <p><strong>The fix:</strong> Stop drinking alcohol 3-4 hours before bed. You might fall asleep slower initially, but your sleep quality will improve dramatically.</p>
+        
+        <h3>Mistake #6: Taking Melatonin Incorrectly</h3>
+        <p><strong>Why it's a mistake:</strong> Most people take melatonin too late or in doses too high (5-10mg). This can disrupt your body's natural production and cause grogginess the next day.</p>
+        <p><strong>The fix:</strong> If you need melatonin, take 0.3-0.5mg (not 5mg!) 2-3 hours before bed. For most people, sleep hygiene works better than supplements.</p>
+        
+        <h3>Mistake #7: Lying in Bed Awake</h3>
+        <p><strong>Why it's a mistake:</strong> Lying awake for 20+ minutes creates an association between your bed and wakefulness (anxiety). Your brain starts seeing bed as a place of frustration rather than rest.</p>
+        <p><strong>The fix:</strong> If you can't fall asleep after 20 minutes, get up. Go to another room. Do something calming (read, listen to calm music) until you feel sleepy. Then return to bed.</p>
+        
+        <h3>My Results After Fixing These Mistakes</h3>
+        <ul>
+            <li>Falling asleep: From 60+ minutes to under 20 minutes</li>
+            <li>Night wakings: From multiple times to 0-1 times</li>
+            <li>Morning grogginess: From 2 hours to 10 minutes</li>
+            <li>Total sleep: From 5-6 hours to 7-8 hours</li>
+            <li>Daytime energy: Completely transformed</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> If you're struggling with sleep, stop blaming yourself. You're likely just making these common mistakes. Fix them, and your sleep will improve dramatically.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 58,
+    title: "Can't Fall Asleep? These 7 Sleep Hygiene Tips Actually Work",
+    date: "June 26, 2024",
+    category: "Sleep",
+    readTime: "7 min read",
+    image: "https://www.shutterstock.com/image-photo/png-girl-bed-isolated-on-260nw-2380483291.jpg",
+    excerpt: "I spent countless nights staring at the ceiling, desperate for sleep. These 7 tips finally helped me fall asleep quickly and stay asleep through the night.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.shutterstock.com/image-photo/png-girl-bed-isolated-on-260nw-2380483291.jpg');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I know that feeling. It's 2 AM. You've been staring at the ceiling for hours. Your mind is racing. You're calculating how many hours of sleep you'll get if you fall asleep RIGHT NOW. The anxiety makes it even harder to sleep.</p>
+        
+        <p>I lived like this for years. Then I discovered these 7 proven sleep hygiene tips—and they changed everything. If you can't fall asleep, try these. They actually work.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.shutterstock.com/image-photo/png-girl-bed-isolated-on-260nw-2380483291.jpg" alt="Insomnia help" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Insomnia Relief Toolkit</h4>
+            <p>These are the tools that finally helped me sleep.</p>
+            <a href="https://www.digistore24.com/redir/544084/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Tip #1: The 4-7-8 Breathing Technique</h3>
+        <p><strong>Why it works:</strong> This specific breathing pattern activates your parasympathetic nervous system—the 'rest and digest' mode that signals your body it's safe to sleep.</p>
+        <p><strong>How to do it:</strong></p>
+        <ol>
+            <li>Breathe in through your nose for 4 seconds</li>
+            <li>Hold your breath for 7 seconds</li>
+            <li>Exhale slowly through your mouth for 8 seconds</li>
+            <li>Repeat 4-8 times</li>
+        </ol>
+        <p><strong>My experience:</strong> I was skeptical at first. After 3 nights of consistent practice, I fell asleep within 15 minutes. It's surprisingly effective.</p>
+        
+        <h3>Tip #2: Progressive Muscle Relaxation</h3>
+        <p><strong>Why it works:</strong> Physical tension and mental anxiety are connected. Releasing physical tension signals your brain to relax. This technique reduces anxiety and prepares your body for sleep.</p>
+        <p><strong>How to do it:</strong></p>
+        <ol>
+            <li>Start with your toes. Tense them for 5 seconds. Release and relax for 10 seconds.</li>
+            <li>Move to your feet. Tense for 5 seconds. Release for 10 seconds.</li>
+            <li>Continue up your body: calves, thighs, glutes, stomach, chest, hands, arms, shoulders, neck, face.</li>
+            <li>By the time you reach your face, you'll feel significantly more relaxed.</li>
+        </ol>
+        
+        <h3>Tip #3: The 20-Minute Rule</h3>
+        <p><strong>Why it works:</strong> Lying awake creates anxiety, which makes sleep even harder. The 20-minute rule breaks this cycle.</p>
+        <p><strong>How to do it:</strong> If you can't fall asleep within 20 minutes, get up. Go to another room. Read a book (no screens) or listen to calm music until you feel sleepy. Then return to bed.</p>
+        <p><strong>My experience:</strong> This was hard at first. I didn't want to leave my warm bed. But it works. I only had to get up 2-3 times before my brain learned to associate bed with sleep.</p>
+        
+        <h3>Tip #4: Write Down Your Worries</h3>
+        <p><strong>Why it works:</strong> Racing thoughts are a common cause of insomnia. Writing them down helps your brain 'offload' them, reducing the mental activity that keeps you awake.</p>
+        <p><strong>How to do it:</strong> Keep a notebook by your bed. Before sleep, write down everything on your mind—things you need to do, worries, anything you're thinking about. Get it all out of your head and onto paper.</p>
+        <p><strong>My experience:</strong> I thought I'd be writing for hours. After 5-10 minutes, my mind felt quiet. This is now part of my nightly routine.</p>
+        
+        <h3>Tip #5: The Temperature Trick</h3>
+        <p><strong>Why it works:</strong> Your body temperature naturally drops when you sleep. Cooling your bedroom helps trigger this drop, signaling it's time to sleep.</p>
+        <p><strong>How to do it:</strong> Lower your thermostat to 65-68°F (18-20°C). If that's not possible, use a fan, open a window, or cool your forehead with a damp cloth.</p>
+        <p><strong>My experience:</strong> I was shocked how much temperature affected my sleep. Warmer nights were always my worst sleep nights. Cooling my room made a significant difference.</p>
+        
+        <h3>Tip #6: Morning Light Exposure</h3>
+        <p><strong>Why it works:</strong> Morning light suppresses melatonin and sets your circadian rhythm. This helps you feel alert during the day and sleepy at night.</p>
+        <p><strong>How to do it:</strong> Spend 10-15 minutes outdoors within 30 minutes of waking. If it's dark when you wake, use a bright light therapy lamp (10,000 lux) for 15 minutes.</p>
+        <p><strong>My experience:</strong> I started walking my dog immediately after waking. Within a week, I felt more alert in the morning and sleepier at bedtime.</p>
+        
+        <h3>Tip #7: Create a Consistent Pre-Sleep Routine</h3>
+        <p><strong>Why it works:</strong> Your brain craves patterns. A consistent pre-sleep routine signals to your brain that sleep is coming. Over time, this becomes a powerful trigger.</p>
+        <p><strong>How to do it:</strong> Do the same 2-3 calming activities every night, 30-60 minutes before bed. For example: dim lights → warm bath → read → bed. Same order, every night.</p>
+        <p><strong>My experience:</strong> My routine became: dim lights → herbal tea → 4-7-8 breathing → read → bed. Within 2 weeks, I fell asleep almost immediately.</p>
+        
+        <h3>Emergency Sleep Tips (When Nothing Else Works)</h3>
+        <ul>
+            <li><strong>Don't look at the clock:</strong> Watching time pass creates anxiety. Turn your clock away from you.</li>
+            <li><strong>Listen to calming sounds:</strong> Rainfall, ocean waves, or brown noise can help distract racing thoughts.</li>
+            <li><strong>Try visualization:</strong> Imagine yourself in a peaceful place—a beach, a forest, a quiet room. Describe it to yourself in detail.</li>
+            <li><strong>Remember: One night won't ruin you:</strong> Stress about lack of sleep makes it worse. Trust your body.</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> If you can't fall asleep, don't panic. These 7 tips are designed to help you break the cycle of insomnia. Start with 2-3 tips, master them, and add more. You can learn to sleep well again.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 59,
+    title: "How to Sleep Better Naturally: 7 Healthy Night Habits Backed by Science",
+    date: "June 24, 2024",
+    category: "Sleep",
+    readTime: "8 min read",
+    image: "https://as1.ftcdn.net/jpg/05/74/57/42/1000_F_574574227_XbRCr5h1nNtewhDAaFQT44Arvx9k0CPg.jpg",
+    excerpt: "I wanted to sleep better without medication or supplements. These 7 natural, science-backed night habits transformed my sleep quality—and they can do the same for you.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://as1.ftcdn.net/jpg/05/74/57/42/1000_F_574574227_XbRCr5h1nNtewhDAaFQT44Arvx9k0CPg.jpg');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I was tired of relying on sleep aids. Melatonin gave me groggy mornings. Prescription sleep meds felt risky. I wanted to sleep better naturally—but I didn't know how.</p>
+        
+        <p>After researching the science of sleep, I discovered these 7 natural habits that prepare your brain and body for rest. No medication. No supplements. Just simple, science-backed practices that actually work.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://as1.ftcdn.net/jpg/05/74/57/42/1000_F_574574227_XbRCr5h1nNtewhDAaFQT44Arvx9k0CPg.jpg" alt="Natural sleep" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Natural Sleep Toolkit</h4>
+            <p>These tools support my natural sleep habits without medication.</p>
+            <a href="https://www.digistore24.com/redir/544084/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Habit #1: The 1-Hour Wind-Down (Screen-Free)</h3>
+        <p><strong>The science:</strong> Blue light from screens suppresses melatonin for up to 2 hours. Giving your brain an hour of screen-free time before bed allows melatonin to rise naturally.</p>
+        <p><strong>What I do:</strong> I now stop using screens at 9:30 PM. I read a physical book, journal, or listen to calming podcasts. No phone. No laptop. No TV.</p>
+        <p><strong>Results:</strong> My sleep latency (time to fall asleep) dropped from 45 minutes to under 20 minutes.</p>
+        
+        <h3>Habit #2: Evening Sunlight (Yes, Sunlight!)</h3>
+        <p><strong>The science:</strong> Exposure to natural light during the day—especially early morning and late afternoon—strengthens your circadian rhythm. Evening sunlight (sunset) specifically signals your body to prepare for sleep.</p>
+        <p><strong>What I do:</strong> I now take a 10-15 minute walk outdoors around sunset (if possible). This exposure to natural evening light helps my body recognize when it's time to sleep.</p>
+        <p><strong>Results:</strong> Within a week, I started feeling naturally sleepy around 10 PM.</p>
+        
+        <h3>Habit #3: The 2-Hour Dinner Rule</h3>
+        <p><strong>The science:</strong> Eating too close to bedtime raises your core body temperature and increases insulin levels—both of which interfere with sleep. Your digestive system needs time to process food before you sleep.</p>
+        <p><strong>What I do:</strong> I finish my last meal at least 2 hours before bed. If I need a small snack (tuna, eggs, Greek yogurt), I eat it 1.5 hours before bed.</p>
+        <p><strong>Results:</strong> Better sleep quality and no more indigestion at night.</p>
+        
+        <h3>Habit #4: Daily Morning Sunlight Exposure</h3>
+        <p><strong>The science:</strong> Morning light sets your circadian rhythm and signals your body when to wake up. It also produces cortisol (the alertness hormone) and suppresses melatonin.</p>
+        <p><strong>What I do:</strong> Within 30 minutes of waking, I spend 10 minutes outdoors. No sunglasses. If it's cloudy, I spend 15 minutes.</p>
+        <p><strong>Results:</strong> Waking up feels easier. Nighttime sleep arrives more naturally.</p>
+        
+        <h3>Habit #5: The Bedtime Journaling Practice</h3>
+        <p><strong>The science:</strong> Racing thoughts keep many people awake. Journaling reduces this 'cognitive arousal' by giving your brain a way to process emotions and worries before sleep.</p>
+        <p><strong>What I do:</strong> I write 3 things that went well today + 1 worry I want to release + 1 thing I'm grateful for. Total time: 5-10 minutes.</p>
+        <p><strong>Results:</strong> My mind feels quieter at night. I no longer replay the day's events on a loop.</p>
+        
+        <h3>Habit #6: Nightly Temperature Regulation</h3>
+        <p><strong>The science:</strong> Your core body temperature naturally drops 1-2 degrees as you fall asleep. Supporting this drop helps you fall asleep faster and stay asleep longer.</p>
+        <p><strong>What I do:</strong> I keep my bedroom cool (65-68°F). I take a warm bath 1 hour before bed (the post-bath temperature drop mimics this cooling). I wear light, breathable pajamas.</p>
+        <p><strong>Results:</strong> Deeper, more continuous sleep. Fewer night wakings.</p>
+        
+        <h3>Habit #7: Regular Exercise (But Not Too Late)</h3>
+        <p><strong>The science:</strong> Exercise increases deep sleep and improves sleep quality. But intense exercise too close to bedtime raises body temperature and disrupts sleep.</p>
+        <p><strong>What I do:</strong> I exercise in the morning (walks) or early afternoon (strength training). My cardio ends by 6 PM.</p>
+        <p><strong>Results:</strong> Better sleep quality and more restorative deep sleep.</p>
+        
+        <h3>My 30-Day Natural Sleep Journey</h3>
+        
+        <h4>Week 1: Starting</h4>
+        <p>I felt awkward practicing these habits. It took effort to remember to wind down early and get morning sunlight. Sleep improvement was minimal.</p>
+        
+        <h4>Week 2: Consistency</h4>
+        <p>Habits felt more natural. I noticed falling asleep slightly faster and waking up feeling more rested.</p>
+        
+        <h4>Week 3: Real Change</h4>
+        <p>My sleep quality improved significantly. I started waking up BEFORE my alarm, feeling genuinely rested. No more groggy mornings.</p>
+        
+        <h4>Week 4: New Normal</h4>
+        <p>These habits became automatic. I'm sleeping 7.5-8 hours consistently. No sleep aids needed. My energy transformed completely.</p>
+        
+        <h3>My Results Without Medication</h3>
+        <ul>
+            <li>Falling asleep: From 45+ minutes to under 20 minutes</li>
+            <li>Night wakings: From 2-3 times to 0-1 times</li>
+            <li>Total sleep: From 5-6 hours to 7.5-8 hours</li>
+            <li>Morning energy: From 3/10 to 8/10</li>
+            <li>Daytime fatigue: Dramatically reduced</li>
+            <li>No more reliance on sleep aids</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> You don't need medication to sleep better. These 7 natural, science-backed habits helped me transform my sleep completely. Start with 2-3 habits, and gradually build from there. Your body is designed to sleep well—you just need to support its natural rhythms.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 60,
+    title: "7 Proven Sleep Hygiene Habits That Improve Deep Sleep Naturally",
+    date: "June 22, 2024",
+    category: "Sleep",
+    readTime: "8 min read",
+    image: "https://img.freepik.com/premium-vector/sleeping-man-bed-silhouette-cartoon-vector_1322553-59792.jpg?semt=ais_hybrid&w=740&q=80",
+    excerpt: "Light sleep is better than no sleep, but deep sleep is where the magic happens. These 7 proven habits helped me increase my deep sleep from 45 to 90 minutes nightly.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://img.freepik.com/premium-vector/sleeping-man-bed-silhouette-cartoon-vector_1322553-59792.jpg?semt=ais_hybrid&w=740&q=80');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I could fall asleep easily. But I woke up tired. I was getting 'enough' sleep (7-8 hours), but I felt exhausted every day. My sleep tracker revealed the problem: very little deep sleep.</p>
+        
+        <p>Deep sleep is the restorative stage where your body repairs tissue, strengthens your immune system, and consolidates memory. Without it, no amount of sleep will make you feel rested.</p>
+        
+        <p>These 7 proven habits helped me increase my deep sleep naturally—from 45 minutes to 90 minutes nightly. Here's exactly how I did it.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://img.freepik.com/premium-vector/sleeping-man-bed-silhouette-cartoon-vector_1322553-59792.jpg?semt=ais_hybrid&w=740&q=80" alt="Deep sleep" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Deep Sleep Toolkit</h4>
+            <p>These tools helped me increase my deep sleep naturally.</p>
+            <a href="https://www.digistore24.com/redir/544084/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What Is Deep Sleep and Why Does It Matter?</h3>
+        <p>Deep sleep (also called slow-wave sleep) occurs in the first half of the night. During this stage:</p>
+        <ul>
+            <li>Your body repairs muscles and tissues</li>
+            <li>Your immune system strengthens</li>
+            <li>Your brain processes and consolidates memories</li>
+            <li>Growth hormone is released</li>
+            <li>Energy is restored</li>
+        </ul>
+        <p>Without adequate deep sleep, you may sleep 8 hours but still feel exhausted. Your body hasn't completed its repair work.</p>
+        
+        <h3>Habit #1: Consistent Sleep Schedule (Crucial for Deep Sleep)</h3>
+        <p><strong>The science:</strong> Your body releases the most growth hormone and repair chemicals during deep sleep. This release follows your circadian rhythm—which needs a consistent sleep schedule to function optimally.</p>
+        <p><strong>What I did:</strong> I sleep within the same 30-minute window every night (10:15-10:45 PM) and wake at the same time (6:30 AM). Even on weekends.</p>
+        <p><strong>My result:</strong> My deep sleep increased from 45 minutes to 60 minutes within 2 weeks of consistent scheduling.</p>
+        
+        <h3>Habit #2: Morning Sunlight (Sets Your Circadian Rhythm)</h3>
+        <p><strong>The science:</strong> Morning light exposure sets your circadian rhythm, which determines when your body releases sleep hormones. This directly affects the timing and quality of deep sleep.</p>
+        <p><strong>What I did:</strong> I go outside for 10 minutes within 30 minutes of waking. No sunglasses. If I can't go outside, I sit by a bright window.</p>
+        <p><strong>My result:</strong> My deep sleep increased by another 10-15 minutes within 3 weeks.</p>
+        
+        <h3>Habit #3: Exercise (But Not Too Late)</h3>
+        <p><strong>The science:</strong> Physical activity increases deep sleep significantly—particularly if you exercise outdoors. However, intense exercise too close to bedtime raises core temperature and suppresses deep sleep.</p>
+        <p><strong>What I did:</strong> I exercise in the morning (walking) and early afternoon (strength training). All intense workouts end by 6 PM.</p>
+        <p><strong>My result:</strong> Adding morning walks increased my deep sleep to 75 minutes.</p>
+        
+        <h3>Habit #4: Avoid Alcohol and Caffeine After 2 PM</h3>
+        <p><strong>The science:</strong> Caffeine blocks adenosine receptors (adenosine is what makes you sleepy). Alcohol suppresses deep sleep and causes rebound wakefulness later in the night.</p>
+        <p><strong>What I did:</strong> I cut off caffeine by 2 PM. I eliminated alcohol completely (it wasn't helping my sleep).</p>
+        <p><strong>My result:</strong> My deep sleep increased to 85 minutes within a week.</p>
+        
+        <h3>Habit #5: Eat Dinner Earlier</h3>
+        <p><strong>The science:</strong> Late meals increase core body temperature and raise blood sugar—both disrupt deep sleep. Your body needs time to process food before entering deep sleep.</p>
+        <p><strong>What I did:</strong> I moved dinner to 6:30 PM (at least 3 hours before bed). If I need a snack, it's small and protein-rich (Greek yogurt, cheese).</p>
+        <p><strong>My result:</strong> My deep sleep consistently hit 90 minutes within 2 weeks of moving dinner earlier.</p>
+        
+        <h3>Habit #6: Cool Bedroom (65-68°F)</h3>
+        <p><strong>The science:</strong> Your core body temperature naturally drops as you enter deep sleep. A cooler bedroom supports this natural drop, making deep sleep more accessible and longer-lasting.</p>
+        <p><strong>What I did:</strong> I keep my thermostat at 67°F. I use breathable sheets and light blankets. I open windows when possible.</p>
+        <p><strong>My result:</strong> I maintain 85-90 minutes of deep sleep nightly.</p>
+        
+        <h3>Habit #7: Magnesium Supplement (Natural Support)</h3>
+        <p><strong>The science:</strong> Magnesium is a natural muscle relaxant and nerve regulator. Studies show magnesium increases deep sleep by supporting GABA production (a calming neurotransmitter).</p>
+        <p><strong>What I did:</strong> I take 200-400mg of magnesium glycinate (the most bioavailable form) 1 hour before bed.</p>
+        <p><strong>My result:</strong> Combined with my other habits, I consistently achieve 90+ minutes of deep sleep nightly.</p>
+        
+        <h3>My Deep Sleep Journey (Measured)</h3>
+        
+        <table style="width:100%; border-collapse: collapse; margin: 1rem 0;">
+            <tr style="background: #2E7D32; color: white;">
+                <th style="padding: 10px; text-align: left;">Time</th>
+                <th style="padding: 10px; text-align: left;">Average Deep Sleep</th>
+                <th style="padding: 10px; text-align: left;">Habits Added</th>
+            </tr>
+            <tr style="background: #f5f5f5;">
+                <td style="padding: 8px;">Baseline (Week 0)</td>
+                <td style="padding: 8px;">45 minutes</td>
+                <td style="padding: 8px;">—</td>
+            </tr>
+            <tr>
+                <td style="padding: 8px;">Week 2</td>
+                <td style="padding: 8px;">60 minutes</td>
+                <td style="padding: 8px;">Consistent sleep schedule</td>
+            </tr>
+            <tr style="background: #f5f5f5;">
+                <td style="padding: 8px;">Week 4</td>
+                <td style="padding: 8px;">75 minutes</td>
+                <td style="padding: 8px;">+ Morning sunlight + No caffeine after 2 PM</td>
+            </tr>
+            <tr>
+                <td style="padding: 8px;">Week 6</td>
+                <td style="padding: 8px;">85 minutes</td>
+                <td style="padding: 8px;">+ Early dinner + Cool bedroom</td>
+            </tr>
+            <tr style="background: #f5f5f5;">
+                <td style="padding: 8px;">Week 8</td>
+                <td style="padding: 8px;">90+ minutes</td>
+                <td style="padding: 8px;">+ Magnesium + No alcohol</td>
+            </tr>
+        </table>
+        
+        <h3>How to Track Your Deep Sleep</h3>
+        <ul>
+            <li><strong>Wearable trackers:</strong> Fitbit, Apple Watch, or Oura Ring measure sleep stages</li>
+            <li><strong>How you feel:</strong> If you wake up refreshed and energetic, you're likely getting sufficient deep sleep</li>
+            <li><strong>Note:</strong> Trackers aren't 100% accurate for sleep stages. Use them as a general guide.</li>
+        </ul>
+        
+        <h3>Signs You're Getting Enough Deep Sleep</h3>
+        <ul>
+            <li>Waking up without an alarm</li>
+            <li>Feeling rested and clear-headed in the morning</li>
+            <li>No need for afternoon caffeine</li>
+            <li>Good memory and cognitive function</li>
+            <li>Healthy immune system (fewer illnesses)</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Deep sleep is where the magic happens. These 7 proven habits helped me double my deep sleep naturally. Start with 2-3 habits and gradually add more. Your body will thank you.</p>
+    `,
+    author: "Wellness Guide"
 }
 
 
