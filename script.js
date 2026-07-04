@@ -7780,6 +7780,703 @@ const posts = [
         <p><strong>The Bottom Line:</strong> You don't need big confrontations to build boundaries. These 7 simple daily habits helped me strengthen my emotional boundaries naturally. Start with one habit and add more as you go.</p>
     `,
     author: "Wellness Guide"
+},
+{
+    id: 107,
+    title: "25 Easy Vegan Baking Recipes Beginners Can Master in One Weekend",
+    date: "August 10, 2024",
+    category: "Vegan Baking",
+    readTime: "9 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMEHcktR-RS4PYwOqVRqFdDbcaBOAM2Y8qoEaXxbOdJQ&s=10",
+    excerpt: "I never thought I could bake vegan until I discovered these 25 simple recipes. In just one weekend, I mastered cakes, cookies, breads, and more—all without eggs or dairy.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMEHcktR-RS4PYwOqVRqFdDbcaBOAM2Y8qoEaXxbOdJQ&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>When I first went vegan, I thought I'd never bake again. Eggs and dairy seemed essential for everything—cakes, cookies, breads, pastries. I was wrong.</p>
+        
+        <p>After years of experimenting, I've discovered 25 vegan baking recipes that are so simple, I mastered them in a single weekend. Here's everything I learned—including the recipes that actually work.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMEHcktR-RS4PYwOqVRqFdDbcaBOAM2Y8qoEaXxbOdJQ&s=10" alt="Vegan baking" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Vegan Baking Toolkit</h4>
+            <p>These resources helped me master vegan baking in just one weekend.</p>
+            <a href="https://www.digistore24.com/redir/525847/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>My Vegan Baking Weekend: The Recipes That Worked</h3>
+        
+        <h4>Day 1: Cookies (15 Recipes)</h4>
+        <p><strong>Classic Vegan Chocolate Chip Cookies:</strong> Almond flour, coconut oil, maple syrup, dairy-free chocolate chips.</p>
+        <p><strong>Peanut Butter Oatmeal Cookies:</strong> Peanut butter, oats, banana, maple syrup.</p>
+        <p><strong>Double Chocolate Cookies:</strong> Cocoa powder, almond flour, coconut oil, and dark chocolate chunks.</p>
+        <p><strong>Macadamia White Chip:</strong> Macadamia nuts, plant-based white chips.</p>
+        <p><strong>Snickerdoodle:</strong> Coconut sugar and cinnamon coated cookie dough.</p>
+        <p><strong>Gingerbread:</strong> Molasses, ginger, cloves, and cinnamon.</p>
+        <p><strong>Lemon Poppy Seed:</strong> Lemon zest, poppy seeds, and fresh lemon juice.</p>
+        <p><strong>Almond Thumbprints:</strong> Almond flour, jam center, and vanilla glaze.</p>
+        <p><strong>Oatmeal Raisin:</strong> Oats, raisins, and cinnamon.</p>
+        <p><strong>Chocolate Mint:</strong> Chocolate base with peppermint extract.</p>
+        <p><strong>Coconut Macaroons:</strong> Shredded coconut and sweetened condensed coconut milk.</p>
+        <p><strong>Pecan Sandies:</strong> Pecan pieces, butter substitute, and brown sugar.</p>
+        <p><strong>Shortbread:</strong> Simple butter, sugar, and flour base.</p>
+        <p><strong>Almond Biscotti:</strong> Almond meal, toasted almonds, and coffee.</p>
+        <p><strong>Ginger Molasses:</strong> Molasses, ginger, and brown sugar.</p>
+        
+        <h4>Day 2: Cakes and Breads (10 Recipes)</h4>
+        <p><strong>Classic Vanilla Cake:</strong> Simple, fluffy, perfect for any occasion.</p>
+        <p><strong>Moist Chocolate Cake:</strong> Rich, fudgy, and easy to make.</p>
+        <p><strong>Lemon Blueberry Cake:</strong> Fresh blueberries and lemon zest.</p>
+        <p><strong>Carrot Cake:</strong> With creamy vegan cream cheese frosting.</p>
+        <p><strong>Banana Bread:</strong> Overripe bananas, walnuts, and cinnamon.</p>
+        <p><strong>Pumpkin Bread:</strong> Pumpkin puree and warm spices.</p>
+        <p><strong>Zucchini Bread:</strong> Fresh grated zucchini and chocolate chips.</p>
+        <p><strong>Chocolate Chip Banana Bread:</strong> Double the banana, double the chips.</p>
+        <p><strong>Apple Cinnamon Bread:</strong> Diced apples and crunchy crumb topping.</p>
+        <p><strong>Pumpkin Chocolate Chip Bread:</strong> The best of both worlds.</p>
+        
+        <h3>Essential Tips for Vegan Baking Success</h3>
+        <ul>
+            <li><strong>Use flax eggs:</strong> 1 tbsp ground flax + 3 tbsp water = 1 egg. Let sit 10 minutes.</li>
+            <li><strong>Choose the right flour:</strong> All-purpose, whole wheat, or gluten-free blends all work.</li>
+            <li><strong>Don't overmix:</strong> Overmixing develops gluten and makes baked goods tough.</li>
+            <li><strong>Measure accurately:</strong> Use a kitchen scale for best results.</li>
+            <li><strong>Room temperature ingredients:</strong> Cold ingredients don't mix as well.</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Vegan baking is easier than you think. These 25 recipes transformed my baking in just one weekend. Start with cookies—they're forgiving and delicious. Then move to cakes and breads. You've got this!</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 108,
+    title: "The Ultimate Guide to Egg Replacements in Vegan Baking",
+    date: "August 8, 2024",
+    category: "Vegan Baking",
+    readTime: "8 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsq9U3BpvIxYds2F2D-0zCwk4M5b9425e-OSsVaVotPMUrBZz4EzBXBzA&s=10",
+    excerpt: "I tried every egg replacement to find what works. Here's my complete guide to vegan egg substitutes—which ones work for cookies, cakes, breads, and more.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsq9U3BpvIxYds2F2D-0zCwk4M5b9425e-OSsVaVotPMUrBZz4EzBXBzA&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>When I first went vegan, I thought eggs were irreplaceable in baking. I tried every substitute and failed. Some recipes crumbled. Others never rose.</p>
+        
+        <p>After years of testing, I've finally figured out which egg replacement works for each type of baking. Here's my complete guide—so you can skip the trial and error.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsq9U3BpvIxYds2F2D-0zCwk4M5b9425e-OSsVaVotPMUrBZz4EzBXBzA&s=10" alt="Egg replacements" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Vegan Baking Toolkit</h4>
+            <p>These are the egg replacements I use for every type of baking.</p>
+            <a href="https://www.digistore24.com/redir/525847/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Best Egg Replacements by Baking Type</h3>
+        
+        <h4>For Cookies: Flax Egg</h4>
+        <p><strong>How to make:</strong> 1 tbsp ground flaxseed + 3 tbsp water = 1 egg. Let sit 10 minutes until gel-like.</p>
+        <p><strong>Why it works:</strong> Binds ingredients well. Adds slight nuttiness. Best for chocolate chip, oatmeal, and peanut butter cookies.</p>
+        <p><strong>Tip:</strong> Use golden flax for lighter-colored cookies.</p>
+        
+        <h4>For Cakes: Aquafaba (Chickpea Brine)</h4>
+        <p><strong>How to make:</strong> Use 3 tbsp of liquid from a can of chickpeas = 1 egg.</p>
+        <p><strong>Why it works:</strong> Creates light, fluffy texture. Whips like egg whites. Best for sponges, angel food, and light cakes.</p>
+        <p><strong>Tip:</strong> Reduce the liquid down for stronger structure.</p>
+        
+        <h4>For Brownies: Applesauce</h4>
+        <p><strong>How to make:</strong> 1/4 cup unsweetened applesauce = 1 egg.</p>
+        <p><strong>Why it works:</strong> Adds moisture and natural sweetness. Best for dense, fudgy baked goods.</p>
+        <p><strong>Tip:</strong> Reduce other liquid in recipe by 1 tbsp.</p>
+        
+        <h4>For Breads: Mashed Banana</h4>
+        <p><strong>How to make:</strong> 1/4 cup mashed ripe banana = 1 egg.</p>
+        <p><strong>Why it works:</strong> Adds moisture and binds. Best for banana breads, muffins, and quick breads.</p>
+        <p><strong>Tip:</strong> Use overripe bananas for best binding.</p>
+        
+        <h4>For Quick Breads: Vinegar + Baking Soda</h4>
+        <p><strong>How to make:</strong> 1 tbsp vinegar + 1 tsp baking soda = 1 egg.</p>
+        <p><strong>Why it works:</strong> Reacts to create lift. Best for pancakes, muffins, and soda breads.</p>
+        <p><strong>Tip:</strong> Apple cider vinegar or white vinegar both work.</p>
+        
+        <h4>For Pastry: Cornstarch Slurry</h4>
+        <p><strong>How to make:</strong> 1 tbsp cornstarch + 3 tbsp water = 1 egg.</p>
+        <p><strong>Why it works:</strong> Binds without adding flavor. Best for pie crusts and pastry.</p>
+        <p><strong>Tip:</strong> Mix until smooth before adding.</p>
+        
+        <h4>For Custards: Silken Tofu</h4>
+        <p><strong>How to make:</strong> 1/4 cup blended silken tofu = 1 egg.</p>
+        <p><strong>Why it works:</strong> Creamy, dense texture. Best for custards, puddings, and cheesecakes.</p>
+        <p><strong>Tip:</strong> Blend until completely smooth.</p>
+        
+        <h3>Egg Replacement Quick Reference</h3>
+        
+        <table style="width:100%; border-collapse: collapse; margin: 1rem 0;">
+            <tr style="background: #2E7D32; color: white;">
+                <th style="padding: 10px; text-align: left;">Baking Type</th>
+                <th style="padding: 10px; text-align: left;">Best Replacement</th>
+                <th style="padding: 10px; text-align: left;">Amount</th>
+            </tr>
+            <tr style="background: #f5f5f5;">
+                <td style="padding: 8px;">Cookies</td>
+                <td style="padding: 8px;">Flax egg</td>
+                <td style="padding: 8px;">1 tbsp flax + 3 tbsp water</td>
+            </tr>
+            <tr>
+                <td style="padding: 8px;">Cakes</td>
+                <td style="padding: 8px;">Aquafaba</td>
+                <td style="padding: 8px;">3 tbsp chickpea liquid</td>
+            </tr>
+            <tr style="background: #f5f5f5;">
+                <td style="padding: 8px;">Brownies</td>
+                <td style="padding: 8px;">Applesauce</td>
+                <td style="padding: 8px;">1/4 cup</td>
+            </tr>
+            <tr>
+                <td style="padding: 8px;">Breads</td>
+                <td style="padding: 8px;">Mashed banana</td>
+                <td style="padding: 8px;">1/4 cup</td>
+            </tr>
+            <tr style="background: #f5f5f5;">
+                <td style="padding: 8px;">Quick breads</td>
+                <td style="padding: 8px;">Vinegar + baking soda</td>
+                <td style="padding: 8px;">1 tbsp vinegar + 1 tsp baking soda</td>
+            </tr>
+            <tr>
+                <td style="padding: 8px;">Pastry</td>
+                <td style="padding: 8px;">Cornstarch slurry</td>
+                <td style="padding: 8px;">1 tbsp cornstarch + 3 tbsp water</td>
+            </tr>
+            <tr style="background: #f5f5f5;">
+                <td style="padding: 8px;">Custards</td>
+                <td style="padding: 8px;">Silken tofu</td>
+                <td style="padding: 8px;">1/4 cup blended</td>
+            </tr>
+        </table>
+        
+        <h3>My Testing Experience</h3>
+        <ul>
+            <li><strong>Worst mistake:</strong> Using the wrong replacement for the wrong recipe</li>
+            <li><strong>Best discovery:</strong> Aquafaba whips like egg whites for light cakes</li>
+            <li><strong>Most surprising:</strong> Apple cider vinegar + baking soda creates amazing lift</li>
+            <li><strong>Best overall:</strong> Flax egg for cookies is foolproof</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Different egg replacements work for different recipes. Use this guide to choose the right one—and your vegan baking will be perfect every time.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 109,
+    title: "15 Common Vegan Baking Mistakes and How to Avoid Them",
+    date: "August 6, 2024",
+    category: "Vegan Baking",
+    readTime: "7 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUWNGDdVGB4MjmJRKqyAtT-O_N51c6rt8I5HxnCy87Ad-SeCY80f9bgGY&s=10",
+    excerpt: "I made every vegan baking mistake possible. Here are 15 common errors I learned the hard way—and how to avoid them for perfect results every time.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUWNGDdVGB4MjmJRKqyAtT-O_N51c6rt8I5HxnCy87Ad-SeCY80f9bgGY&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>My first vegan baking attempts were disasters. Sunken cakes. Crumbly cookies. Dense breads. I wanted to give up.</p>
+        
+        <p>But I kept learning. After years of mistakes, I've identified 15 common errors that ruin vegan baked goods—and exactly how to fix them.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUWNGDdVGB4MjmJRKqyAtT-O_N51c6rt8I5HxnCy87Ad-SeCY80f9bgGY&s=10" alt="Baking mistakes" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Vegan Baking Fix-It Toolkit</h4>
+            <p>These resources helped me correct common vegan baking mistakes.</p>
+            <a href="https://www.digistore24.com/redir/525847/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Mistake #1: Using the Wrong Egg Replacement</h3>
+        <p><strong>The problem:</strong> Not all egg replacements work for all recipes.</p>
+        <p><strong>The fix:</strong> Match the replacement to the recipe. Aquafaba for light cakes, flax for cookies, applesauce for dense goods.</p>
+        
+        <h3>Mistake #2: Overmixing the Batter</h3>
+        <p><strong>The problem:</strong> Vegan batters are more sensitive to overmixing than traditional ones.</p>
+        <p><strong>The fix:</strong> Mix just until ingredients are combined. Stop when you see flour streaks disappearing.</p>
+        
+        <h3>Mistake #3: Ignoring Oven Temperature</h3>
+        <p><strong>The problem:</strong> Ovens are often inaccurate. Vegan baked goods are sensitive to temperature.</p>
+        <p><strong>The fix:</strong> Use an oven thermometer. Adjust temperature if needed. Vegan goods often bake at lower temperatures.</p>
+        
+        <h3>Mistake #4: Not Letting Batters Rest</h3>
+        <p><strong>The problem:</strong> Vegan batters need time for ingredients to hydrate.</p>
+        <p><strong>The fix:</strong> Let cake and cookie batters rest 15-30 minutes before baking. This improves texture significantly.</p>
+        
+        <h3>Mistake #5: Using Cold Ingredients</h3>
+        <p><strong>The problem:</strong> Cold vegan butter and milk don't mix properly.</p>
+        <p><strong>The fix:</strong> Bring all ingredients to room temperature before baking. Takes 30 minutes.</p>
+        
+        <h3>Mistake #6: Baking with Alternative Flours Without Adjustments</h3>
+        <p><strong>The problem:</strong> Almond flour, coconut flour, and others absorb differently.</p>
+        <p><strong>The fix:</strong> Adjust liquid accordingly. Coconut flour needs more liquid, almond flour needs less.</p>
+        
+        <h3>Mistake #7: Not Using Enough Fat</h3>
+        <p><strong>The problem:</strong> Vegan baked goods can be dry without enough fat.</p>
+        <p><strong>The fix:</strong> Add coconut oil, vegan butter, or apple sauce to maintain moisture.</p>
+        
+        <h3>Mistake #8: Overcrowding the Pan</h3>
+        <p><strong>The problem:</strong> Cookies spread too close, cakes don't rise properly.</p>
+        <p><strong>The fix:</strong> Leave 2-3 inches between cookies. Use the right size pan for cakes.</p>
+        
+        <h3>Mistake #9: Not Testing for Doneness</h3>
+        <p><strong>The problem:</strong> Vegan baked goods are harder to judge by appearance.</p>
+        <p><strong>The fix:</strong> Use a toothpick test. It should come out clean or with few crumbs.</p>
+        
+        <h3>Mistake #10: Opening the Oven Door Too Early</h3>
+        <p><strong>The problem:</strong> Cold air causes cakes to fall.</p>
+        <p><strong>The fix:</strong> Don't open the door for the first 75% of baking time.</p>
+        
+        <h3>Mistake #11: Not Using Parchment Paper</h3>
+        <p><strong>The problem:</strong> Vegan baked goods stick more easily to pans.</p>
+        <p><strong>The fix:</strong> Always line pans with parchment paper for easy release.</p>
+        
+        <h3>Mistake #12: Overfilling Muffin Tins</h3>
+        <p><strong>The problem:</strong> Batter overflows, creates flat tops.</p>
+        <p><strong>The fix:</strong> Fill muffin cups 2/3 full. Not more.</p>
+        
+        <h3>Mistake #13: Not Cooling Properly</h3>
+        <p><strong>The problem:</strong> Cutting into hot cake causes crumbling.</p>
+        <p><strong>The fix:</strong> Cool cakes in pan for 10 minutes, then transfer to wire rack. Cool completely before frosting.</p>
+        
+        <h3>Mistake #14: Using Old Baking Soda/Powder</h3>
+        <p><strong>The problem:</strong> Expired leaveners mean flat baked goods.</p>
+        <p><strong>The fix:</strong> Test baking soda with vinegar—should fizz. Baking powder with water—should bubble.</p>
+        
+        <h3>Mistake #15: Giving Up After One Failure</h3>
+        <p><strong>The problem:</strong> First attempts often fail in vegan baking.</p>
+        <p><strong>The fix:</strong> Learn from mistakes. Adjust. Try again. Vegan baking has a learning curve.</p>
+        
+        <h3>My Vegan Baking Journey</h3>
+        <ul>
+            <li><strong>Attempt 1:</strong> Flat cookies, dense cake, crumbly bread</li>
+            <li><strong>Attempt 10:</strong> Still learning, but improving</li>
+            <li><strong>Attempt 50:</strong> Confident baker, consistently good results</li>
+            <li><strong>Now:</strong> Vegan baking is second nature</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Vegan baking has a learning curve. Expect mistakes. Learn from them. These 15 fixes will save you time and frustration.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 110,
+    title: "Essential Vegan Baking Pantry: 20 Ingredients Every Baker Needs",
+    date: "August 4, 2024",
+    category: "Vegan Baking",
+    readTime: "8 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKE3_S6uGL6UYW3euaYhAyGOchqoah06AqChWbckt7o-BfEecqVDve1_cN&s=10",
+    excerpt: "I wasted money buying random vegan baking ingredients. After years of experience, here are the 20 essentials I actually use—and the ones I don't.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKE3_S6uGL6UYW3euaYhAyGOchqoah06AqChWbckt7o-BfEecqVDve1_cN&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>When I started vegan baking, I bought every specialty ingredient I found. My pantry was full of things I never used. I wasted money and space.</p>
+        
+        <p>After years of baking, I've narrowed down the 20 essential ingredients every vegan baker needs. Here's my complete pantry list.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKE3_S6uGL6UYW3euaYhAyGOchqoah06AqChWbckt7o-BfEecqVDve1_cN&s=10" alt="Vegan pantry" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Vegan Baking Pantry Essentials</h4>
+            <p>These are the 20 ingredients I use in every vegan bake.</p>
+            <a href="https://www.digistore24.com/redir/525847/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Flours (4 Essentials)</h3>
+        <p><strong>1. All-Purpose Flour:</strong> Your foundation flour. Works for most recipes. Choose unbleached.</p>
+        <p><strong>2. Whole Wheat Flour:</strong> For heartier breads and cookies.</p>
+        <p><strong>3. Almond Flour:</strong> Essential for gluten-free baking and perfect texture.</p>
+        <p><strong>4. Oat Flour:</strong> Easy to make at home. Great for quick breads and muffins.</p>
+        
+        <h3>Sweeteners (3 Essentials)</h3>
+        <p><strong>5. Coconut Sugar:</strong> Perfect replacement for brown sugar. Works 1:1.</p>
+        <p><strong>6. Maple Syrup:</strong> Liquid sweetener for cookies, cakes, and glazes.</p>
+        <p><strong>7. Powdered Sugar:</strong> For frostings and dusting.</p>
+        
+        <h3>Fats (3 Essentials)</h3>
+        <p><strong>8. Vegan Butter:</strong> Choose a quality brand. Earth Balance or Miyoko's are excellent.</p>
+        <p><strong>9. Coconut Oil:</strong> Solid at room temperature. Great for cookies and pastry.</p>
+        <p><strong>10. Vegetable Oil:</strong> Neutral oil for cakes and quick breads.</p>
+        
+        <h3>Egg Replacements (3 Essentials)</h3>
+        <p><strong>11. Ground Flaxseed:</strong> Flax egg for binding.</p>
+        <p><strong>12. Applesauce:</strong> For moisture in dense bakes.</p>
+        <p><strong>13. Aquafaba:</strong> The liquid from canned chickpeas.</p>
+        
+        <h3>Leaveners (2 Essentials)</h3>
+        <p><strong>14. Baking Soda:</strong> Essential for rising.</p>
+        <p><strong>15. Baking Powder:</strong> For lift without acid.</p>
+        
+        <h3>Milks (2 Essentials)</h3>
+        <p><strong>16. Soy Milk:</strong> Best for baking—protein content mimics dairy.</p>
+        <p><strong>17. Almond Milk:</strong> Mild flavor, works in most recipes.</p>
+        
+        <h3>Flavor Enhancers (4 Essentials)</h3>
+        <p><strong>18. Vanilla Extract:</strong> Essential for baked goods.</p>
+        <p><strong>19. Cinnamon:</strong> Most-used spice in vegan baking.</p>
+        <p><strong>20. Non-Dairy Chocolate Chips:</strong> For cookies, brownies, and more.</p>
+        
+        <h3>Nice-to-Have Extras</h3>
+        <ul>
+            <li><strong>Vinegar:</strong> Apple cider vinegar creates lift with baking soda</li>
+            <li><strong>Lemon juice:</strong> Adds brightness and helps with rising</li>
+            <li><strong>Nuts:</strong> Almonds, walnuts, pecans for texture</li>
+            <li><strong>Dried fruit:</strong> Raisins, cranberries, dates for sweetness</li>
+            <li><strong>Shredded coconut:</strong> For macaroons and toppings</li>
+        </ul>
+        
+        <h3>What I Don't Buy Anymore</h3>
+        <ul>
+            <li><strong>Specialty vegan egg replacers:</strong> Flax works just as well for less money</li>
+            <li><strong>Expensive "vegan" sugars:</strong> Regular sugar is vegan unless bone char is used</li>
+            <li><strong>Multiple non-dairy milks:</strong> Soy milk works for everything</li>
+            <li><strong>Pre-made vegan mixes:</strong> From scratch is cheaper and better</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> You don't need a massive pantry for vegan baking. These 20 essentials are all you need. Start with these and add specialty ingredients as you find recipes you love.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 111,
+    title: "Healthy Vegan Desserts That Taste Better Than Traditional Treats",
+    date: "August 2, 2024",
+    category: "Vegan Baking",
+    readTime: "7 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj621HPRFpqTKAfh3KVUOMcvmLrsqFVt9gICc6Jf5hEvcc9h1P2Lrob0Y&s=10",
+    excerpt: "I thought healthy desserts would taste like cardboard. Then I discovered these vegan recipes—and they're better than traditional treats I used to love.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj621HPRFpqTKAfh3KVUOMcvmLrsqFVt9gICc6Jf5hEvcc9h1P2Lrob0Y&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>When I switched to healthy eating, I thought dessert was over. I'd have to settle for bland, unsatisfying alternatives that only reminded me of what I was missing.</p>
+        
+        <p>Then I discovered these vegan dessert recipes—and they're BETTER than the traditional versions I used to love. Here's how to make healthy desserts that actually taste amazing.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj621HPRFpqTKAfh3KVUOMcvmLrsqFVt9gICc6Jf5hEvcc9h1P2Lrob0Y&s=10" alt="Healthy vegan desserts" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Healthy Dessert Toolkit</h4>
+            <p>These recipes and ingredients helped me make desserts that taste incredible.</p>
+            <a href="https://www.digistore24.com/redir/550988/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Recipe #1: Chocolate Avocado Mousse</h3>
+        <p><strong>Ingredients:</strong> 2 ripe avocados, 1/4 cup cocoa powder, 1/4 cup maple syrup, 1 tsp vanilla.</p>
+        <p><strong>Why it's better:</strong> Creamy, rich, chocolatey—without dairy or refined sugar. The healthy fats from avocado make it satisfying.</p>
+        
+        <h3>Recipe #2: Raw Brownies</h3>
+        <p><strong>Ingredients:</strong> Dates, walnuts, cocoa powder, vanilla.</p>
+        <p><strong>Why it's better:</strong> Fudgy, sweet, and full of nutrients. No baking required. No refined sugar.</p>
+        
+        <h3>Recipe #3: Nice Cream</h3>
+        <p><strong>Ingredients:</strong> Frozen bananas, plant milk, optional flavors (cocoa, berries, peanut butter).</p>
+        <p><strong>Why it's better:</strong> Ice cream texture without dairy or sugar. Naturally sweet from ripe bananas.</p>
+        
+        <h3>Recipe #4: Coconut Yogurt Parfait</h3>
+        <p><strong>Ingredients:</strong> Coconut yogurt, berries, granola, honey/maple syrup.</p>
+        <p><strong>Why it's better:</strong> Creamy, crunchy, and full of probiotics. Better than traditional yogurt with added sugar.</p>
+        
+        <h3>Recipe #5: Baked Apples with Cinnamon</h3>
+        <p><strong>Ingredients:</strong> Apples, cinnamon, maple syrup, optional nuts.</p>
+        <p><strong>Why it's better:</strong> Warm, comforting, naturally sweet. Feels indulgent but is actually healthy.</p>
+        
+        <h3>Recipe #6: Chia Pudding</h3>
+        <p><strong>Ingredients:</strong> Chia seeds, plant milk, maple syrup, vanilla.</p>
+        <p><strong>Why it's better:</strong> Pudding texture, full of fiber and omega-3s. Customizable with toppings.</p>
+        
+        <h3>Recipe #7: Berry Sorbet</h3>
+        <p><strong>Ingredients:</strong> Frozen berries, plant milk, optional sweetener.</p>
+        <p><strong>Why it's better:</strong> Refreshing, fruity, and naturally sweet. No added sugar needed.</p>
+        
+        <h3>Recipe #8: Chocolate Covered Fruit</h3>
+        <p><strong>Ingredients:</strong> Strawberries, bananas, melted vegan chocolate.</p>
+        <p><strong>Why it's better:</strong> Satisfies chocolate cravings while getting fruit nutrients.</p>
+        
+        <h3>What Makes These Desserts Better</h3>
+        <ul>
+            <li><strong>No refined sugar:</strong> Sweetened naturally with fruit and maple syrup</li>
+            <li><strong>No dairy:</strong> Uses plant-based alternatives</li>
+            <li><strong>Nutrient-dense:</strong> Full of vitamins, minerals, and fiber</li>
+            <li><strong>Satisfying:</strong> Rich enough to stop cravings</li>
+            <li><strong>No guilt:</strong> Enjoy without overthinking</li>
+        </ul>
+        
+        <h3>My Healthy Dessert Transformation</h3>
+        <ul>
+            <li><strong>Before:</strong> Sugar cravings, guilt, energy crashes</li>
+            <li><strong>After:</strong> Satisfied cravings, clear conscience, steady energy</li>
+            <li><strong>Key lesson:</strong> Healthy can be delicious</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Healthy vegan desserts don't taste like cardboard. These 8 recipes are proof that plant-based treats can be better than traditional desserts. Try one and see for yourself.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 112,
+    title: "10 Plant-Based Baking Hacks That Save Time and Improve Every Recipe",
+    date: "July 31, 2024",
+    category: "Vegan Baking",
+    readTime: "7 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS0e3176nG1yzRBqdBmtWr6ozSBkF1cOuvfKQz33Wcgtkg0m2WgudYSjjE&s=10",
+    excerpt: "I've learned plant-based baking hacks that save time and make everything taste better. Here are 10 tricks every vegan baker should know.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS0e3176nG1yzRBqdBmtWr6ozSBkF1cOuvfKQz33Wcgtkg0m2WgudYSjjE&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>After years of vegan baking, I've discovered shortcuts and tricks that save time and improve every recipe. These 10 hacks will transform your plant-based baking.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS0e3176nG1yzRBqdBmtWr6ozSBkF1cOuvfKQz33Wcgtkg0m2WgudYSjjE&s=10" alt="Baking hacks" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Vegan Baking Hack Toolkit</h4>
+            <p>These tricks save me time and improve every recipe I make.</p>
+            <a href="https://www.digistore24.com/redir/550988/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Hack #1: Freeze Your Vegan Butter</h3>
+        <p><strong>Why it works:</strong> Cold butter creates flaky texture in pastry and scones.</p>
+        <p><strong>How to do it:</strong> Grate frozen butter directly into flour for easy, even distribution.</p>
+        
+        <h3>Hack #2: Use Aquafaba as Egg White</h3>
+        <p><strong>Why it works:</strong> Whipped aquafaba holds air like egg whites.</p>
+        <p><strong>How to do it:</strong> Chill aquafaba, then whip with cream of tartar for stiff peaks.</p>
+        
+        <h3>Hack #3: Make Vegan Buttermilk</h3>
+        <p><strong>Why it works:</strong> Adds tang and rise to baked goods.</p>
+        <p><strong>How to do it:</strong> 1 tbsp apple cider vinegar + 1 cup plant milk. Let sit 10 minutes.</p>
+        
+        <h3>Hack #4: Rest Your Batter</h3>
+        <p><strong>Why it works:</strong> Allows flours to hydrate, improving texture.</p>
+        <p><strong>How to do it:</strong> Rest cookie dough in fridge for 30 minutes before baking.</p>
+        
+        <h3>Hack #5: Add Vinegar to Cakes</h3>
+        <p><strong>Why it works:</strong> Reacts with baking soda for extra lift.</p>
+        <p><strong>How to do it:</strong> Add 1 tsp vinegar to cake batter for lighter texture.</p>
+        
+        <h3>Hack #6: Use Parchment Paper Sling</h3>
+        <p><strong>Why it works:</strong> Easy removal without sticking.</p>
+        <p><strong>How to do it:</strong> Cut parchment to fit pan with overhanging edges.</p>
+        
+        <h3>Hack #7: Double Sift Dry Ingredients</h3>
+        <p><strong>Why it works:</strong> Ensures even distribution of leaveners.</p>
+        <p><strong>How to do it:</strong> Sift flour, baking powder, and salt together twice.</p>
+        
+        <h3>Hack #8: Measure With a Scale</h3>
+        <p><strong>Why it works:</strong> Precise measurements prevent dense or dry results.</p>
+        <p><strong>How to do it:</strong> 1 cup flour = 120g. Scale ensures consistency.</p>
+        
+        <h3>Hack #9: Use Room Temperature Ingredients</h3>
+        <p><strong>Why it works:</strong> Better mixing and texture.</p>
+        <p><strong>How to do it:</strong> Take ingredients out 30 minutes before baking.</p>
+        
+        <h3>Hack #10: Save Your Failures</h3>
+        <p><strong>Why it works:</strong> Crumbs can become toppings, cake pops, or trifle.</p>
+        <p><strong>How to do it:</strong> Crumble failed cake, mix with frosting, form into balls, or layer in a trifle.</p>
+        
+        <h3>Time-Saving Tips</h3>
+        <ul>
+            <li><strong>Pre-measure dry ingredients:</strong> For frequent recipes, pre-mix dry ingredients in jars.</li>
+            <li><strong>Freeze cookie dough:</strong> Scoop and freeze for cookies-on-demand.</li>
+            <li><strong>Make double batches:</strong> Freeze extras for later.</li>
+            <li><strong>Clean as you go:</strong> Saves cleanup time.</li>
+        </ul>
+        
+        <h3>My Results With These Hacks</h3>
+        <ul>
+            <li><strong>Time saved:</strong> 30 minutes per baking session</li>
+            <li><strong>Better texture:</strong> Lighter cakes, flakier pastry</li>
+            <li><strong>More confidence:</strong> Consistent results every time</li>
+            <li><strong>Less waste:</strong> Fewer failed batches</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> These 10 hacks made me a better, faster vegan baker. Start with 2-3 hacks and add more as you get comfortable. Your baking will improve immediately.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 113,
+    title: "Why More Families Are Choosing Plant-Based Baking in 2026",
+    date: "July 29, 2024",
+    category: "Vegan Baking",
+    readTime: "6 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmt2tI-NSq8Yo5oaz-MWNEn_A7Nq4ZjMb26KePY2PwLAsBZcQiEmircJ59&s=10",
+    excerpt: "Plant-based baking is exploding in popularity. Here's why families are making the switch—and how you can start baking healthier treats your kids will love.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmt2tI-NSq8Yo5oaz-MWNEn_A7Nq4ZjMb26KePY2PwLAsBZcQiEmircJ59&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>My family went plant-based for health reasons. But I was nervous about baking. Would the kids still enjoy treats? Would it be complicated?</p>
+        
+        <p>Two years later, I can't imagine going back. Plant-based baking is simpler, healthier, and our family actually enjoys it more. Here's why more families are making the switch in 2024.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmt2tI-NSq8Yo5oaz-MWNEn_A7Nq4ZjMb26KePY2PwLAsBZcQiEmircJ59&s=10" alt="Family baking" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Family Baking Toolkit</h4>
+            <p>These resources helped our family transition to plant-based baking.</p>
+            <a href="https://www.digistore24.com/redir/550988/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Reason #1: Healthier Ingredients</h3>
+        <p>Plant-based baking uses whole-food ingredients—flours, fruits, nuts, seeds—instead of processed dairy and eggs. Less saturated fat, more fiber, and more nutrients.</p>
+        
+        <h3>Reason #2: Allergy-Friendly</h3>
+        <p>Eggs and dairy are common allergens. Plant-based baking makes it easy to accommodate everyone—without special recipes.</p>
+        
+        <h3>Reason #3: Better Taste</h3>
+        <p>Surprisingly, plant-based baked goods often taste better. The natural sweetness of fruits and nuts shines through.</p>
+        
+        <h3>Reason #4: Kids Love It</h3>
+        <p>Kids enjoy baking—and plant-based recipes are fun and engaging. They can help with measuring, mixing, and tasting.</p>
+        
+        <h3>Reason #5: Environmental Impact</h3>
+        <p>Families are becoming more environmentally conscious. Plant-based baking has a lower environmental footprint.</p>
+        
+        <h3>Reason #6: Simpler Pantry</h3>
+        <p>You don't need specialty ingredients. Most plant-based baking uses staples you already have—flour, sugar, oil, plant milk.</p>
+        
+        <h3>Reason #7: Budget-Friendly</h3>
+        <p>Plant-based baking is often cheaper. No expensive eggs, butter, or dairy. Flaxseeds and applesauce are inexpensive alternatives.</p>
+        
+        <h3>Our Family's Plant-Based Baking Story</h3>
+        <ul>
+            <li><strong>Before:</strong> Loaded with dairy, refined sugar, processed ingredients</li>
+            <li><strong>After:</strong> Whole foods, natural sweetness, wholesome ingredients</li>
+            <li><strong>The result:</strong> Happier kids, healthier family, better baking</li>
+        </ul>
+        
+        <h3>How to Start With Your Family</h3>
+        <ul>
+            <li><strong>Start with familiar recipes:</strong> Try plant-based versions of favorites</li>
+            <li><strong>Get kids involved:</strong> Let them help with measuring and mixing</li>
+            <li><strong>Start with cookies:</strong> They're forgiving and fun</li>
+            <li><strong>Be patient:</strong> Some recipes need adjustments</li>
+            <li><strong>Enjoy the process:</strong> It's about time together</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Families are choosing plant-based baking because it's healthier, simpler, and just as delicious. Start with one recipe—and see why millions are making the switch.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 114,
+    title: "The Complete Beginner's Guide to Vegan Cakes, Cookies, and Bread",
+    date: "July 27, 2024",
+    category: "Vegan Baking",
+    readTime: "10 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUMlY4JQJUGHMeU8ywpHyE4DHfhK8RK5p_Tm-so05qXZRspc7u8yTvA1ln&s=10",
+    excerpt: "I went from never baking vegan to making cakes, cookies, and bread that impress everyone. This complete beginner's guide will get you started—no experience needed.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUMlY4JQJUGHMeU8ywpHyE4DHfhK8RK5p_Tm-so05qXZRspc7u8yTvA1ln&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>When I started vegan baking, I was terrified. All those recipes with eggs and butter seemed impossible to recreate. I made mistakes. I burned things. But I learned.</p>
+        
+        <p>This guide is everything I wish I knew at the beginning. It covers cakes, cookies, and bread—the three pillars of baking. You'll be baking confidently in no time.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUMlY4JQJUGHMeU8ywpHyE4DHfhK8RK5p_Tm-so05qXZRspc7u8yTvA1ln&s=10" alt="Beginner vegan baking" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Complete Vegan Baking Toolkit</h4>
+            <p>Everything a beginner baker needs to succeed.</p>
+            <a href="https://www.digistore24.com/redir/550988/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Vegan Cakes: The Basics</h3>
+        
+        <h4>Key Ingredients</h4>
+        <ul>
+            <li><strong>Flour:</strong> All-purpose or cake flour</li>
+            <li><strong>Plant milk:</strong> Soy or oat milk (best for texture)</li>
+            <li><strong>Vegan butter:</strong> Choose a quality brand</li>
+            <li><strong>Aquafaba:</strong> For light, fluffy cakes</li>
+            <li><strong>Apple cider vinegar:</strong> Activates baking soda</li>
+        </ul>
+        
+        <h4>Foolproof Cake Recipe</h4>
+        <p>Mix 2 cups flour, 1 cup sugar, 1 tsp baking soda, 1/2 tsp salt. Add 1 cup plant milk, 1/3 cup oil, 1 tsp vinegar, 1 tsp vanilla. Bake at 350°F for 30-35 minutes.</p>
+        
+        <h4>Pro Tips</h4>
+        <ul>
+            <li>Don't overmix</li>
+            <li>Use room temperature ingredients</li>
+            <li>Test with a toothpick</li>
+            <li>Cool completely before frosting</li>
+        </ul>
+        
+        <h3>Vegan Cookies: The Basics</h3>
+        
+        <h4>Key Ingredients</h4>
+        <ul>
+            <li><strong>Flour:</strong> All-purpose or whole wheat</li>
+            <li><strong>Vegan butter:</strong> Softened for creaming</li>
+            <li><strong>Flax egg:</strong> 1 tbsp flax + 3 tbsp water</li>
+            <li><strong>Brown sugar:</strong> For chewy texture</li>
+            <li><strong>Baking soda:</strong> For spread and rise</li>
+        </ul>
+        
+        <h4>Foolproof Cookie Recipe</h4>
+        <p>Cream 1/2 cup vegan butter and 3/4 cup sugar. Add 1 flax egg and 1 tsp vanilla. Mix 1 1/4 cup flour, 1/2 tsp baking soda, 1/4 tsp salt. Combine. Fold in chips. Bake at 350°F for 10-12 minutes.</p>
+        
+        <h4>Pro Tips</h4>
+        <ul>
+            <li>Chill dough 30 minutes</li>
+            <li>Don't overbake</li>
+            <li>Leave space on baking sheet</li>
+            <li>Let cool on pan for 5 minutes</li>
+        </ul>
+        
+        <h3>Vegan Bread: The Basics</h3>
+        
+        <h4>Key Ingredients</h4>
+        <ul>
+            <li><strong>Flour:</strong> Bread flour (higher protein)</li>
+            <li><strong>Yeast:</strong> Active dry or instant</li>
+            <li><strong>Plant milk:</strong> For moisture and browning</li>
+            <li><strong>Oil:</strong> For softness</li>
+            <li><strong>Salt:</strong> For flavor and structure</li>
+        </ul>
+        
+        <h4>Foolproof Bread Recipe</h4>
+        <p>Mix 3 cups flour, 1 packet yeast, 1 tsp salt. Add 1 1/4 cups warm plant milk and 2 tbsp oil. Knead 8-10 minutes. Rise 1 hour. Shape and rise 30 minutes. Bake at 375°F for 25-30 minutes.</p>
+        
+        <h4>Pro Tips</h4>
+        <ul>
+            <li>Use warm (not hot) liquid</li>
+            <li>Knead until smooth</li>
+            <li>Let rise in warm place</li>
+            <li>Tap bottom for hollow sound</li>
+        </ul>
+        
+        <h3>Beginner's Troubleshooting</h3>
+        <ul>
+            <li><strong>Dry cake:</strong> Too much flour or overbaking</li>
+            <li><strong>Flat cookies:</strong> Butter too warm or too much sugar</li>
+            <li><strong>Dense bread:</strong> Not enough kneading or too much flour</li>
+            <li><strong>Burnt bottoms:</strong> Oven too hot or pan too dark</li>
+        </ul>
+        
+        <h3>My Beginner's Journey</h3>
+        <ul>
+            <li><strong>First attempt:</strong> Flat cake, burnt cookies, dense bread</li>
+            <li><strong>Third attempt:</strong> Getting better</li>
+            <li><strong>Tenth attempt:</strong> Confident baker</li>
+            <li><strong>Now:</strong> Baking for family and friends</li>
+        </ul>
+        
+        <h3>What You Need to Get Started</h3>
+        <ul>
+            <li>Mixing bowls</li>
+            <li>Measuring cups and spoons</li>
+            <li>Baking sheets and pans</li>
+            <li>Whisk and spatula</li>
+            <li>Oven thermometer</li>
+            <li>Parchment paper</li>
+            <li>Cooling rack</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> You can master vegan baking. Start with one recipe, learn from mistakes, and keep practicing. These basics will get you baking delicious cakes, cookies, and bread in no time.</p>
+    `,
+    author: "Wellness Guide"
 }
   
 ];
