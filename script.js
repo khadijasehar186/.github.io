@@ -11173,7 +11173,699 @@ const posts = [
         <p><strong>The Bottom Line:</strong> These top herbal remedies support immunity, digestion, and everyday wellness. Start with 1-2 herbs and build your herbal medicine cabinet over time.</p>
     `,
     author: "Wellness Guide"
+},
+{
+    id: 141,
+    title: "10 Simple Slim Kitchen Recipes That Help You Lose Weight Without Feeling Hungry",
+    date: "August 30, 2024",
+    category: "Healthy Recipes",
+    readTime: "9 min read",
+    image: "https://png.pngtree.com/thumb_back/fh260/background/20240705/pngtree-contemporary-kitchen-featuring-vegetables-displayed-on-the-white-countertop-image_15977354.jpg",
+    excerpt: "I lost 20 pounds with these 10 simple recipes. They're filling, delicious, and helped me lose weight without ever feeling hungry or deprived.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://png.pngtree.com/thumb_back/fh260/background/20240705/pngtree-contemporary-kitchen-featuring-vegetables-displayed-on-the-white-countertop-image_15977354.jpg');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I thought losing weight meant being hungry all the time. I'd tried restrictive diets where I was constantly starving and miserable. I always gave up within weeks.</p>
+        
+        <p>Then I discovered these 10 simple recipes that keep you full while supporting weight loss. I lost 20 pounds without feeling hungry or deprived. Here's how I did it.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://png.pngtree.com/thumb_back/fh260/background/20240705/pngtree-contemporary-kitchen-featuring-vegetables-displayed-on-the-white-countertop-image_15977354.jpg" alt="Slim kitchen recipes" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Slim Kitchen Toolkit</h4>
+            <p>These recipes helped me lose weight without hunger.</p>
+            <a href="https://www.digistore24.com/redir/697066/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Breakfast Recipes</h3>
+        
+        <h4>1. Veggie Scramble with Avocado</h4>
+        <p><strong>Ingredients:</strong> 3 eggs (or tofu), spinach, bell peppers, 1/2 avocado.</p>
+        <p><strong>Why it works:</strong> Protein and healthy fats keep you full for hours. Only 350 calories.</p>
+        <p><strong>How to make:</strong> Sauté vegetables, add eggs/tofu, scramble. Serve with avocado slices.</p>
+        
+        <h4>2. Overnight Oats with Berries</h4>
+        <p><strong>Ingredients:</strong> 1/2 cup rolled oats, 1/2 cup almond milk, 1/2 cup berries, 1 tbsp chia seeds.</p>
+        <p><strong>Why it works:</strong> Fiber keeps you full. Only 300 calories.</p>
+        <p><strong>How to make:</strong> Mix all ingredients, refrigerate overnight. Top with berries.</p>
+        
+        <h4>3. Green Smoothie Bowl</h4>
+        <p><strong>Ingredients:</strong> 1 cup spinach, 1/2 banana, 1/2 cup frozen berries, 1/2 cup almond milk.</p>
+        <p><strong>Why it works:</strong> Nutrient-dense and filling. Only 280 calories.</p>
+        <p><strong>How to make:</strong> Blend all ingredients, pour into bowl, top with granola and seeds.</p>
+        
+        <h3>Lunch Recipes</h3>
+        
+        <h4>4. Mason Jar Salad</h4>
+        <p><strong>Ingredients:</strong> Mixed greens, chickpeas, cucumber, tomatoes, olives, lemon dressing.</p>
+        <p><strong>Why it works:</strong> High fiber and protein keep you full. Only 350 calories.</p>
+        <p><strong>How to make:</strong> Layer dressing, vegetables, chickpeas, and greens in a jar.</p>
+        
+        <h4>5. Lentil Soup</h4>
+        <p><strong>Ingredients:</strong> Lentils, carrots, celery, onions, garlic, vegetable broth.</p>
+        <p><strong>Why it works:</strong> Fiber and protein provide lasting fullness. Only 320 calories per serving.</p>
+        <p><strong>How to make:</strong> Sauté vegetables, add lentils and broth, simmer 30 minutes.</p>
+        
+        <h3>Dinner Recipes</h3>
+        
+        <h4>6. Grilled Salmon with Asparagus</h4>
+        <p><strong>Ingredients:</strong> 6 oz salmon, asparagus, lemon, garlic.</p>
+        <p><strong>Why it works:</strong> Omega-3s and protein keep you full. Only 400 calories.</p>
+        <p><strong>How to make:</strong> Season salmon, grill 4-6 minutes per side. Roast asparagus with olive oil.</p>
+        
+        <h4>7. Turkey and Vegetable Stir-Fry</h4>
+        <p><strong>Ingredients:</strong> Ground turkey, broccoli, bell peppers, onions, soy sauce.</p>
+        <p><strong>Why it works:</strong> Lean protein and fiber keep you full. Only 380 calories.</p>
+        <p><strong>How to make:</strong> Brown turkey, add vegetables, stir-fry with soy sauce.</p>
+        
+        <h4>8. Zucchini Noodles with Pesto</h4>
+        <p><strong>Ingredients:</strong> Zucchini (spiralized), cherry tomatoes, pesto, pine nuts.</p>
+        <p><strong>Why it works:</strong> Low-carb, high-volume, satisfying. Only 350 calories.</p>
+        <p><strong>How to make:</strong> Spiralize zucchini, toss with pesto and tomatoes.</p>
+        
+        <h3>Snack Recipes</h3>
+        
+        <h4>9. Apple Slices with Peanut Butter</h4>
+        <p><strong>Ingredients:</strong> 1 apple, 1 tbsp natural peanut butter.</p>
+        <p><strong>Why it works:</strong> Fiber and healthy fats curb cravings. Only 200 calories.</p>
+        
+        <h4>10. Greek Yogurt with Berries</h4>
+        <p><strong>Ingredients:</strong> 1/2 cup Greek yogurt, 1/2 cup berries, 1 tbsp honey.</p>
+        <p><strong>Why it works:</strong> Protein and fiber keep you full. Only 200 calories.</p>
+        
+        <h3>My 3-Month Weight Loss Results</h3>
+        
+        <table style="width:100%; border-collapse: collapse; margin: 1rem 0;">
+            <tr style="background: #2E7D32; color: white;">
+                <th style="padding: 10px; text-align: left;">Metric</th>
+                <th style="padding: 10px; text-align: left;">Before</th>
+                <th style="padding: 10px; text-align: left;">After 3 Months</th>
+            </tr>
+            <tr style="background: #f5f5f5;">
+                <td style="padding: 8px;">Weight</td>
+                <td style="padding: 8px;">185 lbs</td>
+                <td style="padding: 8px;">165 lbs</td>
+            </tr>
+            <tr>
+                <td style="padding: 8px;">Energy</td>
+                <td style="padding: 8px;">5/10</td>
+                <td style="padding: 8px;">8/10</td>
+            </tr>
+            <tr style="background: #f5f5f5;">
+                <td style="padding: 8px;">Hunger between meals</td>
+                <td style="padding: 8px;">Frequent</td>
+                <td style="padding: 8px;">Rarely</td>
+            </tr>
+            <tr>
+                <td style="padding: 8px;">Cravings</td>
+                <td style="padding: 8px;">Daily</td>
+                <td style="padding: 8px;">Occasional</td>
+            </tr>
+        </table>
+        
+        <h3>My Weekly Meal Prep Strategy</h3>
+        <ul>
+            <li><strong>Sundays:</strong> Prep ingredients for 3-4 recipes</li>
+            <li><strong>Portion control:</strong> Use measuring cups for grains and proteins</li>
+            <li><strong>Healthy fats:</strong> Include avocado, nuts, or olive oil at each meal</li>
+            <li><strong>Hydration:</strong> Drink water 30 minutes before meals</li>
+            <li><strong>Listen to hunger:</strong> Eat when hungry, stop when satisfied</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> You don't need to be hungry to lose weight. These 10 recipes kept me full and satisfied while I lost 20 pounds. Start with 2-3 recipes and build from there.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 142,
+    title: "7 Healthy Breakfast Ideas That Kickstart Weight Loss Every Morning",
+    date: "August 28, 2024",
+    category: "Healthy Recipes",
+    readTime: "7 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoJ5_MRugdDQLyma30h8g_-OJ8BsyomxOsYUDZW7TzBtJ06hAqYCYkHvzN&s=10",
+    excerpt: "Your breakfast sets the tone for your whole day. These 7 healthy breakfast ideas helped me lose weight and maintain energy from morning to night.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoJ5_MRugdDQLyma30h8g_-OJ8BsyomxOsYUDZW7TzBtJ06hAqYCYkHvzN&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I used to skip breakfast or eat sugary cereal—and I'd be starving by 10 AM. I'd overeat at lunch and feel tired all afternoon. Then I discovered these 7 breakfasts that changed everything.</p>
+        
+        <p>These breakfasts help you lose weight by keeping you full, stabilizing blood sugar, and providing sustained energy. Here's what I eat now.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoJ5_MRugdDQLyma30h8g_-OJ8BsyomxOsYUDZW7TzBtJ06hAqYCYkHvzN&s=10" alt="Healthy breakfast" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Healthy Breakfast Toolkit</h4>
+            <p>These are the breakfasts that helped me lose weight.</p>
+            <a href="https://www.digistore24.com/redir/697066/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Breakfast Idea #1: High-Protein Scramble</h3>
+        <p><strong>Ingredients:</strong> 2-3 eggs, spinach, mushrooms, tomatoes, 1/2 avocado.</p>
+        <p><strong>Why it works:</strong> 25g protein keeps you full for hours. Under 400 calories.</p>
+        <p><strong>Prep time:</strong> 10 minutes.</p>
+        
+        <h3>Breakfast Idea #2: Overnight Oats</h3>
+        <p><strong>Ingredients:</strong> 1/2 cup oats, 1/2 cup almond milk, 1/2 cup berries, 1 tbsp chia seeds, 1 tbsp nuts.</p>
+        <p><strong>Why it works:</strong> 15g fiber keeps you full. Under 350 calories.</p>
+        <p><strong>Prep time:</strong> 5 minutes (prepare night before).</p>
+        
+        <h3>Breakfast Idea #3: Greek Yogurt Parfait</h3>
+        <p><strong>Ingredients:</strong> 1 cup Greek yogurt, 1/2 cup berries, 2 tbsp nuts, 1 tbsp honey.</p>
+        <p><strong>Why it works:</strong> 20g protein, probiotics for gut health. Under 350 calories.</p>
+        <p><strong>Prep time:</strong> 5 minutes.</p>
+        
+        <h3>Breakfast Idea #4: Green Smoothie</h3>
+        <p><strong>Ingredients:</strong> 1 cup spinach, 1/2 banana, 1/2 cup frozen berries, 1 scoop protein powder, 1 cup almond milk.</p>
+        <p><strong>Why it works:</strong> 25g protein, 10g fiber. Under 350 calories.</p>
+        <p><strong>Prep time:</strong> 5 minutes.</p>
+        
+        <h3>Breakfast Idea #5: Avocado Toast with Egg</h3>
+        <p><strong>Ingredients:</strong> 1 slice whole grain toast, 1/2 avocado, 1 poached egg, red pepper flakes.</p>
+        <p><strong>Why it works:</strong> Healthy fats and protein keep you full. Under 400 calories.</p>
+        <p><strong>Prep time:</strong> 10 minutes.</p>
+        
+        <h3>Breakfast Idea #6: Chia Seed Pudding</h3>
+        <p><strong>Ingredients:</strong> 1/4 cup chia seeds, 1 cup almond milk, 1 tsp vanilla, berries for topping.</p>
+        <p><strong>Why it works:</strong> 20g fiber, omega-3s. Under 300 calories.</p>
+        <p><strong>Prep time:</strong> 5 minutes (prepare night before).</p>
+        
+        <h3>Breakfast Idea #7: Sweet Potato Hash</h3>
+        <p><strong>Ingredients:</strong> 1 small sweet potato, bell peppers, onions, spinach, 2 eggs.</p>
+        <p><strong>Why it works:</strong> Complex carbs and protein. Under 400 calories.</p>
+        <p><strong>Prep time:</strong> 15 minutes.</p>
+        
+        <h3>My Breakfast Guidelines</h3>
+        <ul>
+            <li><strong>Eat within 1 hour:</strong> Eating breakfast early stabilizes blood sugar</li>
+            <li><strong>Include protein:</strong> 20-30g protein at breakfast</li>
+            <li><strong>Add fiber:</strong> Vegetables, fruit, or whole grains</li>
+            <li><strong>Include healthy fats:</strong> Avocado, nuts, seeds</li>
+            <li><strong>Hydrate:</strong> Drink water or herbal tea with breakfast</li>
+        </ul>
+        
+        <h3>My Breakfast Results</h3>
+        <ul>
+            <li><strong>Morning energy:</strong> From 4/10 to 8/10</li>
+            <li><strong>10 AM cravings:</strong> From daily to never</li>
+            <li><strong>Lunch overeating:</strong> From frequent to rare</li>
+            <li><strong>Afternoon energy:</strong> Stable and consistent</li>
+            <li><strong>Weight:</strong> Lost 12 lbs in 3 months</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Your breakfast can make or break your weight loss. These 7 breakfasts kept me full, energized, and on track. Try them and see the difference.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 143,
+    title: "15 Low-Calorie Dinner Recipes That Taste Amazing and Support Fat Loss",
+    date: "August 26, 2024",
+    category: "Healthy Recipes",
+    readTime: "9 min read",
+    image: "https://img.magnific.com/free-photo/young-smiling-woman-making-bruschetta-with-healthy-ingredients-while-preparing-food-kitchen_637285-3523.jpg?semt=ais_hybrid&w=740&q=80",
+    excerpt: "I used to think low-calorie dinners tasted like cardboard. These 15 recipes changed my mind—they're delicious, satisfying, and helped me lose 15 pounds.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://img.magnific.com/free-photo/young-smiling-woman-making-bruschetta-with-healthy-ingredients-while-preparing-food-kitchen_637285-3523.jpg?semt=ais_hybrid&w=740&q=80');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I dreaded low-calorie dinners. They were bland, unsatisfying, and left me craving more. I'd end up snacking after dinner, ruining my weight loss efforts.</p>
+        
+        <p>Then I discovered these 15 recipes. They're delicious, satisfying, and under 500 calories. I lost 15 pounds while eating food I actually enjoyed.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://img.magnific.com/free-photo/young-smiling-woman-making-bruschetta-with-healthy-ingredients-while-preparing-food-kitchen_637285-3523.jpg?semt=ais_hybrid&w=740&q=80" alt="Low-calorie dinners" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Low-Calorie Dinner Toolkit</h4>
+            <p>These recipes helped me lose weight while eating delicious food.</p>
+            <a href="https://www.digistore24.com/redir/697066/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Fish and Seafood Dinners</h3>
+        
+        <h4>1. Grilled Salmon with Asparagus</h4>
+        <p><strong>Calories:</strong> 400</p>
+        <p><strong>Ingredients:</strong> 6 oz salmon, asparagus, lemon, garlic.</p>
+        <p><strong>Protein:</strong> 35g | Carbs: 10g | Fat: 22g</p>
+        
+        <h4>2. Shrimp and Vegetable Stir-Fry</h4>
+        <p><strong>Calories:</strong> 380</p>
+        <p><strong>Ingredients:</strong> Shrimp, broccoli, bell peppers, onions, soy sauce.</p>
+        <p><strong>Protein:</strong> 30g | Carbs: 15g | Fat: 18g</p>
+        
+        <h4>3. Cod with Roasted Vegetables</h4>
+        <p><strong>Calories:</strong> 390</p>
+        <p><strong>Ingredients:</strong> Cod fillets, zucchini, tomatoes, olive oil.</p>
+        <p><strong>Protein:</strong> 32g | Carbs: 12g | Fat: 20g</p>
+        
+        <h3>Poultry Dinners</h3>
+        
+        <h4>4. Lemon Herb Chicken</h4>
+        <p><strong>Calories:</strong> 420</p>
+        <p><strong>Ingredients:</strong> Chicken breast, lemon, rosemary, garlic.</p>
+        <p><strong>Protein:</strong> 40g | Carbs: 8g | Fat: 22g</p>
+        
+        <h4>5. Chicken and Vegetable Skewers</h4>
+        <p><strong>Calories:</strong> 390</p>
+        <p><strong>Ingredients:</strong> Chicken breast, bell peppers, onions, mushrooms.</p>
+        <p><strong>Protein:</strong> 38g | Carbs: 12g | Fat: 18g</p>
+        
+        <h3>Plant-Based Dinners</h3>
+        
+        <h4>6. Lentil and Vegetable Soup</h4>
+        <p><strong>Calories:</strong> 350</p>
+        <p><strong>Ingredients:</strong> Lentils, carrots, celery, onions, tomatoes.</p>
+        <p><strong>Protein:</strong> 18g | Carbs: 35g | Fat: 12g</p>
+        
+        <h4>7. Chickpea Curry</h4>
+        <p><strong>Calories:</strong> 400</p>
+        <p><strong>Ingredients:</strong> Chickpeas, coconut milk, curry spices, spinach.</p>
+        <p><strong>Protein:</strong> 15g | Carbs: 30g | Fat: 20g</p>
+        
+        <h4>8. Tofu and Vegetable Stir-Fry</h4>
+        <p><strong>Calories:</strong> 380</p>
+        <p><strong>Ingredients:</strong> Tofu, broccoli, bell peppers, soy sauce.</p>
+        <p><strong>Protein:</strong> 20g | Carbs: 15g | Fat: 22g</p>
+        
+        <h4>9. Zucchini Noodles with Pesto</h4>
+        <p><strong>Calories:</strong> 350</p>
+        <p><strong>Ingredients:</strong> Zucchini, cherry tomatoes, pesto, pine nuts.</p>
+        <p><strong>Protein:</strong> 10g | Carbs: 15g | Fat: 25g</p>
+        
+        <h3>One-Pan Dinners</h3>
+        
+        <h4>10. Sheet Pan Salmon and Vegetables</h4>
+        <p><strong>Calories:</strong> 410</p>
+        <p><strong>Ingredients:</strong> Salmon, sweet potatoes, broccoli, olive oil.</p>
+        <p><strong>Protein:</strong> 35g | Carbs: 25g | Fat: 20g</p>
+        
+        <h4>11. Sausage and Peppers</h4>
+        <p><strong>Calories:</strong> 420</p>
+        <p><strong>Ingredients:</strong> Chicken sausage, bell peppers, onions, garlic.</p>
+        <p><strong>Protein:</strong> 25g | Carbs: 20g | Fat: 22g</p>
+        
+        <h3>Quick and Easy Dinners</h3>
+        
+        <h4>12. Grilled Chicken Salad</h4>
+        <p><strong>Calories:</strong> 380</p>
+        <p><strong>Ingredients:</strong> Chicken breast, mixed greens, tomatoes, cucumbers, vinaigrette.</p>
+        <p><strong>Protein:</strong> 35g | Carbs: 10g | Fat: 20g</p>
+        
+        <h4>13. Shrimp Tacos</h4>
+        <p><strong>Calories:</strong> 420</p>
+        <p><strong>Ingredients:</strong> Shrimp, corn tortillas, cabbage slaw, lime.</p>
+        <p><strong>Protein:</strong> 28g | Carbs: 25g | Fat: 18g</p>
+        
+        <h4>14. Stuffed Bell Peppers</h4>
+        <p><strong>Calories:</strong> 400</p>
+        <p><strong>Ingredients:</strong> Bell peppers, ground turkey, rice, tomatoes.</p>
+        <p><strong>Protein:</strong> 30g | Carbs: 30g | Fat: 16g</p>
+        
+        <h4>15. Vegetable Omelette</h4>
+        <p><strong>Calories:</strong> 380</p>
+        <p><strong>Ingredients:</strong> 3 eggs, spinach, mushrooms, bell peppers, cheese (optional).</p>
+        <p><strong>Protein:</strong> 25g | Carbs: 8g | Fat: 22g</p>
+        
+        <h3>My Dinner Success Tips</h3>
+        <ul>
+            <li><strong>Eat 2-3 hours before bed:</strong> Supports digestion and sleep</li>
+            <li><strong>Include protein:</strong> 25-40g per dinner for fullness</li>
+            <li><strong>Add vegetables:</strong> Fill half your plate with vegetables</li>
+            <li><strong>Choose healthy fats:</strong> Olive oil, avocado, nuts</li>
+            <li><strong>Watch portions:</strong> Use measuring cups for grains</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Low-calorie dinners don't have to be boring. These 15 recipes helped me lose 15 pounds while eating delicious, satisfying food. Try them and see for yourself.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 144,
+    title: "25 Power Foods That Naturally Increase Energy and Strength Every Day",
+    date: "August 24, 2024",
+    category: "Superfoods",
+    readTime: "10 min read",
+    image: "https://media.istockphoto.com/id/1457889029/photo/group-of-food-with-high-content-of-dietary-fiber-arranged-side-by-side.jpg?s=612x612&w=0&k=20&c=SEyObHsbBsrd1XZlgEg389VT86BMFKZKfKReKyVPAk4=",
+    excerpt: "I was tired all the time until I started eating these 25 power foods. They transformed my energy, strength, and endurance naturally—no caffeine required.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://media.istockphoto.com/id/1457889029/photo/group-of-food-with-high-content-of-dietary-fiber-arranged-side-by-side.jpg?s=612x612&w=0&k=20&c=SEyObHsbBsrd1XZlgEg389VT86BMFKZKfKReKyVPAk4=');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I relied on coffee and energy drinks to get through the day. My energy was up and down, and I felt weak and sluggish. I knew I needed a better solution.</p>
+        
+        <p>These 25 power foods transformed my energy and strength naturally. Within 30 days, I felt stronger, more energetic, and more resilient than I had in years.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://media.istockphoto.com/id/1457889029/photo/group-of-food-with-high-content-of-dietary-fiber-arranged-side-by-side.jpg?s=612x612&w=0&k=20&c=SEyObHsbBsrd1XZlgEg389VT86BMFKZKfKReKyVPAk4=" alt="Power foods" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Power Foods Toolkit</h4>
+            <p>These foods helped me increase my energy and strength naturally.</p>
+            <a href="https://wsl.365dailyhealth.com/landing-sale-page1713272576177#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Energy Power Foods</h3>
+        
+        <h4>1. Oats</h4>
+        <p><strong>Why they work:</strong> Complex carbs provide steady energy. High fiber stabilizes blood sugar.</p>
+        
+        <h4>2. Bananas</h4>
+        <p><strong>Why they work:</strong> Natural sugars and potassium provide quick energy and electrolyte balance.</p>
+        
+        <h4>3. Sweet Potatoes</h4>
+        <p><strong>Why they work:</strong> Complex carbs and fiber provide sustained energy.</p>
+        
+        <h4>4. Quinoa</h4>
+        <p><strong>Why it works:</strong> Complete protein and complex carbs provide lasting energy.</p>
+        
+        <h4>5. Brown Rice</h4>
+        <p><strong>Why it works:</strong> Fiber and complex carbs provide steady energy throughout the day.</p>
+        
+        <h4>6. Apples</h4>
+        <p><strong>Why they work:</strong> Natural sugars and fiber provide quick, sustained energy.</p>
+        
+        <h3>Protein Power Foods</h3>
+        
+        <h4>7. Eggs</h4>
+        <p><strong>Why they work:</strong> High-quality protein supports muscle strength and energy.</p>
+        
+        <h4>8. Salmon</h4>
+        <p><strong>Why it works:</strong> Omega-3s and protein support energy and cellular health.</p>
+        
+        <h4>9. Chicken Breast</h4>
+        <p><strong>Why it works:</strong> Lean protein builds and repairs muscle for strength.</p>
+        
+        <h4>10. Greek Yogurt</h4>
+        <p><strong>Why it works:</strong> Protein and probiotics support energy and gut health.</p>
+        
+        <h4>11. Lentils</h4>
+        <p><strong>Why they work:</strong> Plant-based protein and fiber provide sustained energy.</p>
+        
+        <h4>12. Chickpeas</h4>
+        <p><strong>Why they work:</strong> Protein, fiber, and complex carbs provide lasting energy.</p>
+        
+        <h3>Healthy Fats Power Foods</h3>
+        
+        <h4>13. Avocado</h4>
+        <p><strong>Why it works:</strong> Healthy fats support brain function and sustained energy.</p>
+        
+        <h4>14. Almonds</h4>
+        <p><strong>Why they work:</strong> Healthy fats and protein provide steady energy.</p>
+        
+        <h4>15. Walnuts</h4>
+        <p><strong>Why they work:</strong> Omega-3s support brain function and energy.</p>
+        
+        <h4>16. Chia Seeds</h4>
+        <p><strong>Why they work:</strong> Omega-3s, fiber, and protein provide lasting energy.</p>
+        
+        <h4>17. Olive Oil</h4>
+        <p><strong>Why it works:</strong> Healthy fats support energy and cellular function.</p>
+        
+        <h3>Superfood Power Foods</h3>
+        
+        <h4>18. Blueberries</h4>
+        <p><strong>Why they work:</strong> Antioxidants protect cells and support brain function.</p>
+        
+        <h4>19. Spinach</h4>
+        <p><strong>Why it works:</strong> Iron and nutrients support energy and strength.</p>
+        
+        <h4>20. Kale</h4>
+        <p><strong>Why it works:</strong> Vitamins and minerals support cellular energy.</p>
+        
+        <h4>21. Green Tea</h4>
+        <p><strong>Why it works:</strong> Caffeine and antioxidants provide gentle energy.</p>
+        
+        <h4>22. Dark Chocolate</h4>
+        <p><strong>Why it works:</strong> Flavonoids and caffeine provide energy and focus.</p>
+        
+        <h3>Hydration Power Foods</h3>
+        
+        <h4>23. Watermelon</h4>
+        <p><strong>Why it works:</strong> High water content and natural sugars provide hydration and energy.</p>
+        
+        <h4>24. Cucumber</h4>
+        <p><strong>Why it works:</strong> Hydration and nutrients support energy.</p>
+        
+        <h4>25. Coconut Water</h4>
+        <p><strong>Why it works:</strong> Electrolytes support energy and hydration.</p>
+        
+        <h3>My 30-Day Power Food Results</h3>
+        <ul>
+            <li><strong>Energy:</strong> From 4/10 to 8/10</li>
+            <li><strong>Strength:</strong> Improved significantly</li>
+            <li><strong>Afternoon crashes:</strong> From daily to never</li>
+            <li><strong>Overall:</strong> Feeling stronger and more energetic</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> These 25 power foods transformed my energy and strength naturally. Start incorporating them into your diet and experience the difference.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 145,
+    title: "The Ultimate Guide to Superfoods That Help Fight Inflammation Naturally",
+    date: "August 22, 2024",
+    category: "Superfoods",
+    readTime: "9 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjDyjz4doJf_v-R9iXF27J2wpZQnSwZ77QNGrBvf4FRQ&s=10",
+    excerpt: "I discovered these 15 superfoods that fight inflammation naturally. Within 8 weeks, my joint pain reduced, my skin cleared, and I felt like a new person.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjDyjz4doJf_v-R9iXF27J2wpZQnSwZ77QNGrBvf4FRQ&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I was in constant pain—joints aching, skin breaking out, fatigue that never lifted. I didn't know I was dealing with chronic inflammation. I thought it was just "getting older."</p>
+        
+        <p>Then I discovered these 15 anti-inflammatory superfoods. Within 8 weeks, my joint pain reduced by 70%, my skin cleared, and I felt like a new person.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjDyjz4doJf_v-R9iXF27J2wpZQnSwZ77QNGrBvf4FRQ&s=10" alt="Anti-inflammatory superfoods" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Anti-Inflammatory Toolkit</h4>
+            <p>These superfoods helped me fight inflammation naturally.</p>
+            <a href="https://wsl.365dailyhealth.com/landing-sale-page1713272576177#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Top Anti-Inflammatory Superfoods</h3>
+        
+        <h4>1. Turmeric</h4>
+        <p><strong>Why it works:</strong> Curcumin is one of the most powerful anti-inflammatory compounds. Reduces inflammation at the molecular level.</p>
+        <p><strong>How to eat:</strong> Golden milk, curries, smoothies. Combine with black pepper for absorption.</p>
+        
+        <h4>2. Ginger</h4>
+        <p><strong>Why it works:</strong> Ginger reduces inflammation by blocking inflammatory pathways. Effective for joint pain and muscle soreness.</p>
+        <p><strong>How to eat:</strong> Fresh ginger tea, grated into meals, or in smoothies.</p>
+        
+        <h4>3. Fatty Fish</h4>
+        <p><strong>Why it works:</strong> Omega-3s reduce inflammation throughout the body. Effective for joint pain and cardiovascular health.</p>
+        <p><strong>How to eat:</strong> 2-3 servings weekly (salmon, sardines, mackerel).</p>
+        
+        <h4>4. Berries</h4>
+        <p><strong>Why they work:</strong> Anthocyanins reduce inflammation and oxidative stress.</p>
+        <p><strong>How to eat:</strong> Daily in smoothies, oatmeal, or as a snack.</p>
+        
+        <h4>5. Leafy Greens</h4>
+        <p><strong>Why they work:</strong> Rich in antioxidants and nutrients that reduce inflammation.</p>
+        <p><strong>How to eat:</strong> Daily salads, smoothies, or cooked dishes.</p>
+        
+        <h4>6. Olive Oil</h4>
+        <p><strong>Why it works:</strong> Healthy fats and antioxidants reduce inflammation.</p>
+        <p><strong>How to eat:</strong> As primary cooking oil and for dressings.</p>
+        
+        <h4>7. Broccoli</h4>
+        <p><strong>Why it works:</strong> Sulforaphane reduces inflammation and oxidative stress.</p>
+        <p><strong>How to eat:</strong> Roasted, steamed, or in stir-fries.</p>
+        
+        <h4>8. Green Tea</h4>
+        <p><strong>Why it works:</strong> EGCG is a powerful anti-inflammatory compound.</p>
+        <p><strong>How to eat:</strong> 2-3 cups daily.</p>
+        
+        <h4>9. Dark Chocolate</h4>
+        <p><strong>Why it works:</strong> Flavonoids reduce inflammation and protect cells.</p>
+        <p><strong>How to eat:</strong> 70%+ cocoa, 1-2 squares daily.</p>
+        
+        <h4>10. Garlic</h4>
+        <p><strong>Why it works:</strong> Anti-inflammatory and antimicrobial properties.</p>
+        <p><strong>How to eat:</strong> Fresh garlic in cooking daily.</p>
+        
+        <h4>11. Bone Broth</h4>
+        <p><strong>Why it works:</strong> Collagen reduces inflammation and supports gut health.</p>
+        <p><strong>How to eat:</strong> Daily as a warm drink or in soups.</p>
+        
+        <h4>12. Pineapple</h4>
+        <p><strong>Why it works:</strong> Bromelain reduces inflammation and supports digestion.</p>
+        <p><strong>How to eat:</strong> Fresh or frozen in smoothies.</p>
+        
+        <h4>13. Avocado</h4>
+        <p><strong>Why it works:</strong> Healthy fats reduce inflammation and support cellular health.</p>
+        <p><strong>How to eat:</strong> Daily in salads, smoothies, or on toast.</p>
+        
+        <h4>14. Walnuts</h4>
+        <p><strong>Why they work:</strong> Omega-3s reduce inflammation and support brain health.</p>
+        <p><strong>How to eat:</strong> Small handful daily.</p>
+        
+        <h4>15. Mushrooms</h4>
+        <p><strong>Why they work:</strong> Polysaccharides reduce inflammation and support immune function.</p>
+        <p><strong>How to eat:</strong> In stir-fries, soups, or sautéed.</p>
+        
+        <h3>My 8-Week Anti-Inflammatory Journey</h3>
+        
+        <table style="width:100%; border-collapse: collapse; margin: 1rem 0;">
+            <tr style="background: #2E7D32; color: white;">
+                <th style="padding: 10px; text-align: left;">Week</th>
+                <th style="padding: 10px; text-align: left;">Changes</th>
+                <th style="padding: 10px; text-align: left;">Results</th>
+            </tr>
+            <tr style="background: #f5f5f5;">
+                <td style="padding: 8px;">Week 1-2</td>
+                <td style="padding: 8px;">Added turmeric, ginger, fatty fish</td>
+                <td style="padding: 8px;">Less joint pain</td>
+            </tr>
+            <tr>
+                <td style="padding: 8px;">Week 3-4</td>
+                <td style="padding: 8px;">Added berries, leafy greens, olive oil</td>
+                <td style="padding: 8px;">More energy, clearer skin</td>
+            </tr>
+            <tr style="background: #f5f5f5;">
+                <td style="padding: 8px;">Week 5-6</td>
+                <td style="padding: 8px;">Added green tea, dark chocolate, garlic</td>
+                <td style="padding: 8px;">Reduced inflammation, better digestion</td>
+            </tr>
+            <tr>
+                <td style="padding: 8px;">Week 7-8</td>
+                <td style="padding: 8px;">All foods combined</td>
+                <td style="padding: 8px;">Significant improvement, feeling great</td>
+            </tr>
+        </table>
+        
+        <h3>My Anti-Inflammatory Daily Routine</h3>
+        <ul>
+            <li><strong>Morning:</strong> Turmeric tea + green tea</li>
+            <li><strong>Breakfast:</strong> Oats with berries and walnuts</li>
+            <li><strong>Lunch:</strong> Large salad with leafy greens, olive oil, and garlic</li>
+            <li><strong>Dinner:</strong> Fatty fish with broccoli and sweet potato</li>
+            <li><strong>Snack:</strong> Dark chocolate, nuts, or fruit</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> These 15 superfoods helped me fight inflammation naturally. Within 8 weeks, my joint pain reduced, my skin cleared, and I felt like a new person.</p>
+    `,
+    author: "Wellness Guide"
+},
+{
+    id: 146,
+    title: "12 Powerful Foods That Support Brain Health, Memory, and Focus Naturally",
+    date: "August 20, 2024",
+    category: "Superfoods",
+    readTime: "8 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsFYoBIVtsI4_h46rMGESv0mA-lVfurNOYcARXkwVwpQ&s=10",
+    excerpt: "I started eating these 12 brain-boosting foods 6 months ago. My memory improved, my focus sharpened, and my mental energy increased significantly.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsFYoBIVtsI4_h46rMGESv0mA-lVfurNOYcARXkwVwpQ&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I was losing my edge. My memory was slipping, my focus was scattered, and I felt mentally sluggish. I worried it was early dementia or just "getting older."</p>
+        
+        <p>Then I started eating these 12 brain-boosting foods. Within 6 months, my memory improved significantly, my focus sharpened, and my mental energy increased. Here's what I ate.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsFYoBIVtsI4_h46rMGESv0mA-lVfurNOYcARXkwVwpQ&s=10" alt="Brain foods" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Brain Health Toolkit</h4>
+            <p>These foods helped me improve my memory and focus naturally.</p>
+            <a href="https://wsl.365dailyhealth.com/landing-sale-page1713272576177#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Brain Food #1: Fatty Fish</h3>
+        <p><strong>Why it works:</strong> Omega-3s (DHA and EPA) support brain structure and function. Studies show they improve memory and cognitive function.</p>
+        <p><strong>How to eat:</strong> 2-3 servings weekly (salmon, sardines, mackerel).</p>
+        <p><strong>My experience:</strong> Within 2 months, my memory improved noticeably.</p>
+        
+        <h3>Brain Food #2: Blueberries</h3>
+        <p><strong>Why they work:</strong> Antioxidants protect brain cells and improve communication between brain cells.</p>
+        <p><strong>How to eat:</strong> Daily in smoothies, oatmeal, or as a snack.</p>
+        <p><strong>My experience:</strong> My focus improved significantly within 3 months.</p>
+        
+        <h3>Brain Food #3: Turmeric</h3>
+        <p><strong>Why it works:</strong> Curcumin crosses the blood-brain barrier and has anti-inflammatory and antioxidant benefits.</p>
+        <p><strong>How to eat:</strong> Golden milk, curries, or smoothies.</p>
+        <p><strong>My experience:</strong> My brain fog reduced within 4 weeks.</p>
+        
+        <h3>Brain Food #4: Broccoli</h3>
+        <p><strong>Why it works:</strong> Rich in vitamin K and antioxidants that support brain health.</p>
+        <p><strong>How to eat:</strong> Roasted, steamed, or in stir-fries.</p>
+        
+        <h3>Brain Food #5: Pumpkin Seeds</h3>
+        <p><strong>Why they work:</strong> Rich in zinc, magnesium, and antioxidants that support brain function.</p>
+        <p><strong>How to eat:</strong> As a snack or on salads.</p>
+        
+        <h3>Brain Food #6: Dark Chocolate</h3>
+        <p><strong>Why it works:</strong> Flavonoids improve blood flow to the brain and support cognitive function.</p>
+        <p><strong>How to eat:</strong> 70%+ cocoa, 1-2 squares daily.</p>
+        <p><strong>My experience:</strong> Improved mood and focus.</p>
+        
+        <h3>Brain Food #7: Nuts (Walnuts)</h3>
+        <p><strong>Why they work:</strong> Omega-3s and antioxidants support brain health and cognitive function.</p>
+        <p><strong>How to eat:</strong> Small handful daily.</p>
+        
+        <h3>Brain Food #8: Oranges</h3>
+        <p><strong>Why they work:</strong> High in vitamin C, which supports brain health and protects against cognitive decline.</p>
+        <p><strong>How to eat:</strong> 1 orange daily.</p>
+        
+        <h3>Brain Food #9: Eggs</h3>
+        <p><strong>Why they work:</strong> Rich in choline—a nutrient that supports memory and cognitive function.</p>
+        <p><strong>How to eat:</strong> Daily (2-3 eggs).</p>
+        <p><strong>My experience:</strong> Improved mental clarity.</p>
+        
+        <h3>Brain Food #10: Green Tea</h3>
+        <p><strong>Why it works:</strong> EGCG and L-theanine support brain function and relaxation.</p>
+        <p><strong>How to eat:</strong> 2-3 cups daily.</p>
+        <p><strong>My experience:</strong> Calm focus and better concentration.</p>
+        
+        <h3>Brain Food #11: Fermented Foods</h3>
+        <p><strong>Why they work:</strong> Support gut-brain connection. Gut health affects brain function and mood.</p>
+        <p><strong>How to eat:</strong> Daily (sauerkraut, kimchi, kefir, yogurt).</p>
+        
+        <h3>Brain Food #12: Avocado</h3>
+        <p><strong>Why it works:</strong> Healthy fats support brain structure and function.</p>
+        <p><strong>How to eat:</strong> Daily in salads, smoothies, or on toast.</p>
+        
+        <h3>My 6-Month Brain Health Results</h3>
+        
+        <table style="width:100%; border-collapse: collapse; margin: 1rem 0;">
+            <tr style="background: #2E7D32; color: white;">
+                <th style="padding: 10px; text-align: left;">Metric</th>
+                <th style="padding: 10px; text-align: left;">Before</th>
+                <th style="padding: 10px; text-align: left;">After 6 Months</th>
+            </tr>
+            <tr style="background: #f5f5f5;">
+                <td style="padding: 8px;">Memory (1-10)</td>
+                <td style="padding: 8px;">5</td>
+                <td style="padding: 8px;">8</td>
+            </tr>
+            <tr>
+                <td style="padding: 8px;">Focus (1-10)</td>
+                <td style="padding: 8px;">4</td>
+                <td style="padding: 8px;">8</td>
+            </tr>
+            <tr style="background: #f5f5f5;">
+                <td style="padding: 8px;">Brain fog</td>
+                <td style="padding: 8px;">Daily</td>
+                <td style="padding: 8px;">Rarely</td>
+            </tr>
+            <tr>
+                <td style="padding: 8px;">Mental energy (1-10)</td>
+                <td style="padding: 8px;">4</td>
+                <td style="padding: 8px;">8</td>
+            </tr>
+        </table>
+        
+        <h3>My Brain Health Daily Routine</h3>
+        <ul>
+            <li><strong>Breakfast:</strong> Eggs, avocado, and berries</li>
+            <li><strong>Lunch:</strong> Salmon salad with leafy greens</li>
+            <li><strong>Snack:</strong> Walnuts and dark chocolate</li>
+            <li><strong>Dinner:</strong> Broccoli, sweet potato, and fish</li>
+            <li><strong>Beverages:</strong> Green tea and turmeric tea</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> These 12 foods helped me improve my memory, focus, and mental energy naturally. Start incorporating them into your diet and experience the cognitive benefits.</p>
+    `,
+    author: "Wellness Guide"
 }
+
 
   
 ];
