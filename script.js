@@ -16,7 +16,7 @@ const posts = [
                 <img src="https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=100&h=100&fit=crop" alt="Immune support product" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;">
                 <h4>✅ My Top Recommended Immune Support</h4>
                 <p>After researching dozens of products, this is the one I trust most.</p>
-                <a href="https://www.checkout-ds24.com/redir/589747/seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+                <a href="https://www.checkout-ds24.com/redir/589747/seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
                 <div style="clear:both"></div>
             </div>
             <h3>1. Prioritize Sleep</h3>
@@ -44,7 +44,7 @@ const posts = [
                 <img src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=100&h=100&fit=crop" alt="Fitness program" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;">
                 <h4>✅ My Top Recommended Fitness Tool</h4>
                 <p>After testing dozens of fitness programs, this is the one that gave me real results.</p>
-                <a href="http://energetic-eternity.de/produkt/health-bundle/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+                <a href="http://energetic-eternity.de/produkt/health-bundle/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
                 <div style="clear:both"></div>
             </div>
             <h3>Step 1: Define Your "Why"</h3>
@@ -70,7 +70,7 @@ const posts = [
                 <img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=100&h=100&fit=crop" alt="Nutrition guide" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;">
                 <h4>✅ The Supplement That Made a Real Difference</h4>
                 <p>Not all nutrition products are created equal. This is the one that actually improved my health markers.</p>
-                <a href="https://www.digistore24.com/redir/632164/seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+                <a href="https://www.digistore24.com/redir/632164/seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
                 <div style="clear:both"></div>
             </div>
             <h3>What is Mindful Eating?</h3>
@@ -95,7 +95,7 @@ const posts = [
                 <img src="https://images.unsplash.com/photo-1526947425960-945c6e72858f?w=100&h=100&fit=crop" alt="Sleep aid" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;">
                 <h4>✅ My Top Recommended Sleep Solution</h4>
                 <p>After struggling with insomnia for years, this is the only thing that helped me sleep through the night.</p>
-                <a href="http://www.betterdailyguide.site/sleep-hacking#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+                <a href="http://www.betterdailyguide.site/sleep-hacking#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
                 <div style="clear:both"></div>
             </div>
             <h3>1. Consistency is King</h3>
@@ -121,7 +121,7 @@ const posts = [
                 <img src="https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=100&h=100&fit=crop" alt="Stress relief" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;">
                 <h4>✅ The Calming Method That Changed My Life</h4>
                 <p>I've tried everything from meditation apps to breathing techniques. This one works best.</p>
-                <a href="https://wellnesswithsher.neocities.org/mental-health-wellness#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+                <a href="https://wellnesswithsher.neocities.org/mental-health-wellness#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
                 <div style="clear:both"></div>
             </div>
             <h3>1. The 5-Minute Breathing Break</h3>
@@ -146,7 +146,7 @@ const posts = [
                 <img src="https://images.unsplash.com/photo-1471864190281-a93a3070b6de?w=100&h=100&fit=crop" alt="Vitamin D supplement" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;">
                 <h4>✅ My Top Recommended Vitamin D Supplement</h4>
                 <p>After researching dozens of products, this is the one I trust most.</p>
-                <a href="https://www.advancedbionutritionals.com/DS24/Advanced-Amino/Muscle-Mass-Loss/HD.htm#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+                <a href="https://www.advancedbionutritionals.com/DS24/Advanced-Amino/Muscle-Mass-Loss/HD.htm#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
                 <div style="clear:both"></div>
             </div>
             <h3>Why I Started Looking</h3>
@@ -176,7 +176,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFigthMfl2p-TWDPv2dBAr_3pXSUoN884u9w&s" alt="MetaboSana product" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;">
             <h4>✅ My Top Recommended Weight Loss Support</h4>
             <p>After testing dozens of products, MetaboSana is the only one that actually helped my metabolism.</p>
-            <a href="https://metabosana.com/metabosana-pdp-fe#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://metabosana.com/metabosana-pdp-fe#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -237,7 +237,7 @@ const posts = [
             <img src="https://img.freepik.com/premium-photo/global-healthcare-earth-stethoscope-white-isolated-background-3d_505080-614.jpg?semt=ais_hybrid&w=740&q=80" alt="Medicinal Garden Kit" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;">
             <h4>✅ My Top Recommended Home Garden Kit</h4>
             <p>After testing dozens of wellness products, this is the one that keeps giving back week after week.</p>
-            <a href="https://medicinalseedkit.com/kit/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://medicinalseedkit.com/kit/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -315,7 +315,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl8eCwXHflxmorMeVPtfHnBrMhOLBSxysfwA&s" alt="Advanced Mitochondrial Formula" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;">
             <h4>✅ My Top Recommended Energy Supplement</h4>
             <p>After testing dozens of energy boosters, this is the only one that addressed the root cause of my fatigue.</p>
-            <a href="https://www.advancedbionutritionals.com/DS24/Advanced-Mitochondrial/Too-Tired-To-Enjoy-It/HD.htm#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.advancedbionutritionals.com/DS24/Advanced-Mitochondrial/Too-Tired-To-Enjoy-It/HD.htm#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -397,7 +397,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16o8sobxkF3pxbOfr1btaoDUWGMI8FD6MNg&s" alt="Weight loss supplement" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Weight Loss Support</h4>
             <p>After testing Patriot Slim Shot for 30 days, I'm sharing my real results.</p>
-            <a href="https://www.patriotslimshot.com/patriot-slimshot#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.patriotslimshot.com/patriot-slimshot#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -436,7 +436,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR-SOHvwqb4JrtkoM-5EsSvTSfTt4ldGTJbw&s" alt="Weight loss measuring tape" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Slimming Supplement</h4>
             <p>After 6 weeks of testing, here's what I discovered about SeroBurn.</p>
-            <a href="https://seroburn.com/d/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://seroburn.com/d/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -468,7 +468,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3AuM6AuJzZEyAJBeNB2BHV1IslcIRyfLBTw&s" alt="Busy person working" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Program for Busy People</h4>
             <p>This blueprint changed how I approach weight loss with zero extra time.</p>
-            <a href="http://www.goslimplan.fit#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="http://www.goslimplan.fit#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -505,7 +505,7 @@ const posts = [
             <img src="https://img.freepik.com/free-photo/concept-treatment-with-hormonal-drugs_185193-162301.jpg" alt="Hormone health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Hormone Health Program</h4>
             <p>This plan addresses the root cause of weight gain - not just symptoms.</p>
-            <a href="https://www.checkout-ds24.com/redir/553516/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/553516/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -539,7 +539,7 @@ const posts = [
             <img src="https://thumbs.dreamstime.com/b/beautiful-smiling-businesswoman-arms-folded-standing-black-suit-brown-jacket-isolated-white-background-also-105189427.jpg" alt="Fitness and weight loss" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Metabolism Support</h4>
             <p>After 4 weeks, here are my real results with Slim Power.</p>
-            <a href="https://www.digistore24.com/redir/603664/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/603664/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -568,7 +568,7 @@ const posts = [
             <img src="https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/6416212008ea69001e41b6a4.jpg" alt="Healthy eating" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Flexible Diet Program</h4>
             <p>Lose weight while still eating foods you love. It's possible.</p>
-            <a href="https://fitnesebook.netlify.app/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://fitnesebook.netlify.app/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -597,7 +597,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX7nSvtgiI8xakKg6ubSYGY77JLTD0aiNpkQ&s" alt="Keto avocado" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Keto Meal Plan</h4>
             <p>Complete beginner's guide to keto with everything you need.</p>
-            <a href="https://www.claudiacaldwell.com/oto-uf61a?el=splittest-1214-bradflow-control#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.claudiacaldwell.com/oto-uf61a?el=splittest-1214-bradflow-control#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -631,7 +631,7 @@ const posts = [
             <img src="https://thumbs.dreamstime.com/b/intestinal-flora-gut-health-vector-concept-bacteria-probiotics-icons-human-good-bad-microorganism-illustration-94658019.jpg" alt="Gut health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Gut Health Resource</h4>
             <p>This e-book completely changed how I approach gut health.</p>
-            <a href="https://www.checkout-ds24.com/redir/635723/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/635723/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -664,7 +664,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgS1CbDz6qwmLEQitTfasvycOWyNului0vMw&s" alt="Gut inflammation reset" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Gut Reset Program</h4>
             <p>28 days to transform your gut health. Here's my experience.</p>
-            <a href="https://www.checkout-ds24.com/redir/681798/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/681798/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -696,7 +696,7 @@ const posts = [
             <img src="https://www.shutterstock.com/image-vector/abstract-wireframe-intestinal-human-digestive-260nw-2626344431.jpg" alt="Probiotics gut health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Gut Restoration Program</h4>
             <p>Step-by-step guide to healing your gut naturally.</p>
-            <a href="https://www.checkout-ds24.com/redir/656114/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/656114/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -730,7 +730,7 @@ const posts = [
             <img src="https://png.pngtree.com/png-vector/20220831/ourmid/pngtree-diabetes-word-concepts-banner-disease-word-drawing-vector-png-image_38947954.jpg" alt="Blood sugar support" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Berberine Supplement</h4>
             <p>After 8 weeks of testing, here are my honest results.</p>
-            <a href="https://www.digistore24.com/redir/352613/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/352613/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -764,7 +764,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhAlpjo5wnln0LLr5ZYr4q3HQc1wLwL3sMsQ&s" alt="Instant Pot keto" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Keto Cookbook</h4>
             <p>Instant Pot recipes that make keto easy and delicious.</p>
-            <a href="https://ketosolution.net/ds/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://ketosolution.net/ds/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -797,7 +797,7 @@ const posts = [
             <img src="https://image.shutterstock.com/image-photo/karate-fighter-smoke-on-black-260nw-2514755093.jpg" alt="Martial arts training" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Martial Arts Program</h4>
             <p>90 days to transform your fitness and confidence.</p>
-            <a href="https://www.checkout-ds24.com/redir/672537/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/672537/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -831,7 +831,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxcsKDm2aFKBGvhxDT39rGQHsQOQVSjAWQ5g&s" alt="Hair growth" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Hair Growth Vitamins</h4>
             <p>After 6 months, here's what changed for my hair.</p>
-            <a href="https://www.checkout-ds24.com/redir/599088/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/599088/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -861,7 +861,7 @@ const posts = [
             <img src="https://www.shutterstock.com/image-photo/closeup-tropical-moringa-leaves-natural-260nw-2565508051.jpg" alt="Moringa leaves" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Natural Supplement</h4>
             <p>After 60 days of testing, here's why Moringa Magic earned a permanent spot in my routine.</p>
-            <a href="YOUR-DIGISTORE24-LINK-FOR-MORINGA-MAGIC-HERE" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="YOUR-DIGISTORE24-LINK-FOR-MORINGA-MAGIC-HERE" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -905,7 +905,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ27csqigXXWnZtClk6os4QhgD3kQcIXywQNg&s" alt="Dental health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Dental Health Supplement</h4>
             <p>After 90 days, here's how proDentim transformed my oral health.</p>
-            <a href="http://elprodentim24.com/text.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="http://elprodentim24.com/text.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -943,7 +943,7 @@ const posts = [
             <img src="https://media.istockphoto.com/id/1633930224/photo/senior-woman-doctor-and-otoscope-for-ear-hearing-test-and-exam-audio-check-or-consultation.jpg?s=612x612&w=0&k=20&c=A0ma99ENWZSLCDubTUvbin8un6A7xubFU8bQy3gabWA=" alt="Hearing health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Hearing Support Supplement</h4>
             <p>After 6 months of consistent use, here are my honest results.</p>
-            <a href="https://quietumplus24.com/text.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://quietumplus24.com/text.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -981,7 +981,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqb8fzf-2di_3jaaHiZiCEi2qrgOAx4LFaEg&s" alt="Nail health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Nail & Skin Health Product</h4>
             <p>After 4 months, here's how Kerassentials transformed my nails and skin.</p>
-            <a href="https://www.checkout-ds24.com/redir/533765/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/533765/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1017,7 +1017,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OvcdqHXYLpSpEPJChldP4VLOdBJoHgVTZg&s" alt="Brain health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Brain Health Supplement</h4>
             <p>After 90 days of Pineal XT, here's how my mental clarity improved.</p>
-            <a href="https://pxt.pinealxt.com/ds/presentation/index.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://pxt.pinealxt.com/ds/presentation/index.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1055,7 +1055,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj6VfSuWzGKZ2-4rMCKzNK6nYJeKMB080oPA&s" alt="Men's health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Men's Health Supplement</h4>
             <p>After 120 days, here's what Primal Grow Pro did for my confidence and vitality.</p>
-            <a href="https://primalgrowpro24.com/text.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://primalgrowpro24.com/text.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1091,7 +1091,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3YOE1qhg4oTP-1lpIhdwLijdoww6EN-iwuA&s" alt="Green supplement" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Greens Supplement</h4>
             <p>After 90 days, here's how TonicGreens improved my daily health.</p>
-            <a href="https://tonicgreens.cc/vsl1/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://tonicgreens.cc/vsl1/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1126,7 +1126,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAOli_j5EAGcqw57S1XV-CaXfzqqRZQlGOw&s" alt="Health defense" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Alternative Health Supplement</h4>
             <p>After 4 months, here's what I experienced with NanoDefense Pro.</p>
-            <a href="https://nanodefensepro24.com/text.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://nanodefensepro24.com/text.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1161,7 +1161,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcgbT-WNS3Lp8AFm9DBb7ncwBrUNvYiSwYFw&s" alt="Blood sugar health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Blood Sugar Support Supplement</h4>
             <p>After 90 days, here's how Gluco Shield Pro supported my metabolic health.</p>
-            <a href="https://www.checkout-ds24.com/redir/551789/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/551789/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1196,7 +1196,7 @@ const posts = [
             <img src="https://media.gettyimages.com/id/1096030754/vector/burnout-syndrome.jpg?s=612x612&w=gi&k=20&c=5dgmBNJsWp1AcXUMGU8E0sPh0pfsJUmq5vzR2p-mXUs=" alt="Mental time travel" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Personal Development System</h4>
             <p>After 60 days, here's how this system changed my relationship with my past.</p>
-            <a href="https://www.advancedbionutritionals.com/DS24/Advanced-Memory/Nobel-Prize-Winning-Memory-Breakthroughs/HD.htm#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.advancedbionutritionals.com/DS24/Advanced-Memory/Nobel-Prize-Winning-Memory-Breakthroughs/HD.htm#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1238,7 +1238,7 @@ const posts = [
             <img src="https://img.magnific.com/free-photo/beautiful-modern-house-cement-view-from-garden_1127-3209.jpg" alt="Survival projects" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Survival Guide</h4>
             <p>Complete off-grid projects that actually work for real emergencies.</p>
-            <a href="YOUR-DIGISTORE24-LINK-FOR-NO-GRID-SURVIVAL-HERE" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="YOUR-DIGISTORE24-LINK-FOR-NO-GRID-SURVIVAL-HERE" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1282,7 +1282,7 @@ const posts = [
             <img src="https://www.shutterstock.com/image-illustration/translucent-tealcolored-digital-rendering-human-600nw-2708141127.jpg" alt="Brain wave" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Abundance Program</h4>
             <p>After 45 days, here's how the Billionaire Brain Wave changed my money mindset.</p>
-            <a href="YOUR-DIGISTORE24-LINK-FOR-BILLIONAIRE-BRAIN-WAVE-HERE" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="YOUR-DIGISTORE24-LINK-FOR-BILLIONAIRE-BRAIN-WAVE-HERE" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1320,7 +1320,7 @@ const posts = [
             <img src="https://t4.ftcdn.net/jpg/00/49/37/27/360_F_49372725_KsxISUJFanxBgFlySu9MVVrFz2z9Wuig.jpg" alt="Money magnets" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Wealth Attraction Program</h4>
             <p>Simple techniques that helped me attract unexpected money.</p>
-            <a href="https://www.digistore24.com/redir/423307/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/423307/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1362,7 +1362,7 @@ const posts = [
             <img src="https://www.shutterstock.com/image-photo/silhouette-person-jumping-dream-reality-600nw-2587883367.jpg" alt="Midas manifestation" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Manifestation System</h4>
             <p>After 90 days, here's how Midas Manifestation changed my reality.</p>
-            <a href="https://www.digistore24.com/redir/439776/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/439776/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1400,7 +1400,7 @@ const posts = [
             <img src="https://storage.googleapis.com/accesswire/logos/subaccounts/62161.png?v=2" alt="Language of abundance" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Mindset Shift Program</h4>
             <p>Changing my words changed my wealth. Here's how.</p>
-            <a href="https://www.digistore24.com/redir/471596/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/471596/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1436,7 +1436,7 @@ const posts = [
             <img src="https://books.google.com/books/content?id=6Fgb0AEACAAJ&printsec=frontcover&img=1&zoom=5" alt="Natural remedies" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Recommended Natural Health Resource</h4>
             <p>Rediscovered remedies that actually work for common health issues.</p>
-            <a href="https://ultimatesurvivalfoods.com/book/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://ultimatesurvivalfoods.com/book/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1480,7 +1480,7 @@ const posts = [
             <img src="https://thumbs.dreamstime.com/b/conceptual-image-symbolizing-strong-immune-system-body-health-defense-conceptual-image-symbolizing-strong-immune-system-391089156.jpg" alt="Wellness checklist" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Immune Support Toolkit</h4>
             <p>These are the exact supplements and tools I use daily for immune health.</p>
-            <a href="https://www.checkout-ds24.com/redir/589747/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/589747/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1539,7 +1539,7 @@ const posts = [
             <img src="https://img.freepik.com/premium-photo/immune-system-complex-network-organs-cells-proteins-that-defends-body-against-infection-whilst-protecting-body39s-own-cells-virus-healthy-medical-bacteria-generative-ai_887181-2934.jpg" alt="Sleep health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Top Immune Support Products</h4>
             <p>These supplements help fill the gaps when lifestyle isn't perfect.</p>
-            <a href="https://www.checkout-ds24.com/redir/589747/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/589747/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1601,7 +1601,7 @@ const posts = [
             <img src="https://plus.unsplash.com/premium_photo-1671827108313-eaffae392085?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aW1tdW5lJTIwc3lzdGVtfGVufDB8fDB8fHww" alt="Healthy foods" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ Nutrition Support for Immune Health</h4>
             <p>These supplements help when I can't get enough from food alone.</p>
-            <a href="https://www.checkout-ds24.com/redir/589747/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/589747/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1663,7 +1663,7 @@ const posts = [
             <img src="https://cdn.storymd.com/optimized/voJvwpSvo4/original.jpg" alt="Learning from mistakes" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ Immune Support That Actually Works</h4>
             <p>After fixing these mistakes, I added this supplement to fill remaining gaps.</p>
-            <a href="https://www.checkout-ds24.com/redir/589747/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/589747/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1719,7 +1719,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1itCgitGqC334d8NNw89_3LLH62ZUhowIkg&s" alt="Daily habits" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ Immune Support Made Simple</h4>
             <p>These products help me maintain these daily habits consistently.</p>
-            <a href="https://www.checkout-ds24.com/redir/589747/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/589747/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1782,7 +1782,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAdh_tV-ip08abhQmuaD2LLZ5ImOW_gDUMgg&s" alt="Immune health transformation" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ The Immune Support That Made the Difference</h4>
             <p>This is the supplement protocol that filled the gaps in my routine.</p>
-            <a href="https://www.checkout-ds24.com/redir/589747/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/589747/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1862,7 +1862,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMuaNPQ_mnYmo1RzJm12UJ3kpcfBUsirCSsw&s" alt="Mindful eating" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Mindful Eating Toolkit</h4>
             <p>These resources helped me build lasting mindful eating habits.</p>
-            <a href="https://www.checkout-ds24.com/redir/635589/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/635589/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -1946,7 +1946,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiUmkFW2wdAsId_3LKc5awWf_V951USAxzYw&s" alt="Emotional eating" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Emotional Eating Recovery Toolkit</h4>
             <p>These resources helped me break the emotional eating cycle.</p>
-            <a href="https://www.checkout-ds24.com/redir/635589/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/635589/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -2051,7 +2051,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKP_EzCGnRQIp6uGnqh7R_jjqiz7mUac5TXA&s" alt="Digestion science" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ Gut Health Support</h4>
             <p>These supplements support the digestive process mindful eating enhances.</p>
-            <a href="https://www.checkout-ds24.com/redir/635589/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/635589/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -2144,7 +2144,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZQhXKxccqaVME4C0F9Is0QTmPSsoepL736Q&s" alt="Mindful eating exercises" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Mindful Eating Practice Resources</h4>
             <p>These tools helped me build consistent mindful eating habits.</p>
-            <a href="https://www.checkout-ds24.com/redir/635589/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/635589/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -2277,7 +2277,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9TNh0zNeUbmQmoaysRttNh0AW-4AYXqpaxQ&s" alt="Mindful eating guide" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ Recommended Mindful Eating Resources</h4>
             <p>These tools helped me build my mindful eating practice from scratch.</p>
-            <a href="https://www.checkout-ds24.com/redir/635589/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/635589/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -2405,7 +2405,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4Kt9SPzSkYZ6PLna8m9JFYDrxlrhJzkeV3JzRh4rJl_u5OZkeuwmQ4g&s=10" alt="Fitness transformation" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Beginner Fitness Toolkit</h4>
             <p>These are the exact resources that helped me start my fitness journey.</p>
-            <a href="https://www.digistore24.com/redir/460804/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/460804/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -2546,7 +2546,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5YfZHYIK8DZwxmvxug0Qohox0RFhO57Aw5lJU6vlwUg&s=10" alt="Home workout" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Home Workout Essentials</h4>
             <p>These affordable tools made my home workouts more effective.</p>
-            <a href="https://www.digistore24.com/redir/460804/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/460804/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -2708,7 +2708,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxWGMdrCLDl2adfgc5P9QoFu_Z6ATkgW218dxsF5N7fBBiD6Ol7vNNLfdt&s=10" alt="Weight loss success" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Weight Loss Motivation Toolkit</h4>
             <p>These resources helped me stay motivated when I wanted to quit.</p>
-            <a href="https://www.digistore24.com/redir/460804/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/460804/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -2817,7 +2817,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB8Hu_J7g--SP1PCDEF4M9pdPV8nnyrb-Efos0JQBNPTjGV9DUe3iPAJaJ&s=10" alt="Fitness habits" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Daily Fitness Toolkit</h4>
             <p>These simple tools made building daily habits easier.</p>
-            <a href="https://www.digistore24.com/redir/460804/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/460804/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -2930,7 +2930,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPhskimsP8-9zDwgs9PivJMknGXz0YUMDLhjVMM62ppg&s=10" alt="Fitness guide" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Complete Beginner Fitness Toolkit</h4>
             <p>These resources guided me through my first year of fitness.</p>
-            <a href="https://www.digistore24.com/redir/460804/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/460804/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -3134,7 +3134,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_CQS1aHgYUOBd5izJbZWcY4QAyaUCrLtDXA&s" alt="Sleep hygiene" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Sleep Optimization Toolkit</h4>
             <p>These are the tools and supplements that helped me fix my sleep.</p>
-            <a href="https://www.digistore24.com/redir/544084/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/544084/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -3212,7 +3212,7 @@ const posts = [
             <img src="https://www.shutterstock.com/image-photo/png-girl-pillow-isolated-on-260nw-2377126577.jpg" alt="Sleep mistakes" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Sleep Improvement Toolkit</h4>
             <p>These resources helped me fix my sleep mistakes.</p>
-            <a href="https://www.digistore24.com/redir/544084/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/544084/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -3276,7 +3276,7 @@ const posts = [
             <img src="https://www.shutterstock.com/image-photo/png-girl-bed-isolated-on-260nw-2380483291.jpg" alt="Insomnia help" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Insomnia Relief Toolkit</h4>
             <p>These are the tools that finally helped me sleep.</p>
-            <a href="https://www.digistore24.com/redir/544084/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/544084/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -3357,7 +3357,7 @@ const posts = [
             <img src="https://as1.ftcdn.net/jpg/05/74/57/42/1000_F_574574227_XbRCr5h1nNtewhDAaFQT44Arvx9k0CPg.jpg" alt="Natural sleep" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Natural Sleep Toolkit</h4>
             <p>These tools support my natural sleep habits without medication.</p>
-            <a href="https://www.digistore24.com/redir/544084/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/544084/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -3445,7 +3445,7 @@ const posts = [
             <img src="https://img.freepik.com/premium-vector/sleeping-man-bed-silhouette-cartoon-vector_1322553-59792.jpg?semt=ais_hybrid&w=740&q=80" alt="Deep sleep" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Deep Sleep Toolkit</h4>
             <p>These tools helped me increase my deep sleep naturally.</p>
-            <a href="https://www.digistore24.com/redir/544084/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/544084/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -3569,7 +3569,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSReYUSxbFyB0TKqm-xbyv2bSIu7Mg35QwE8g&s" alt="Healing herbs" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Herbal Healing Toolkit</h4>
             <p>These are the high-quality herbal supplements I trust and use daily.</p>
-            <a href="https://www.digistore24.com/redir/466293/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/466293/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -3646,7 +3646,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjGyDO0oiu82gIGswPudjIUdehup_JvzydpQ&s" alt="Everyday herbs" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Everyday Herbal Toolkit</h4>
             <p>These are the herbal supplements I keep in my kitchen for daily health.</p>
-            <a href="https://www.digistore24.com/redir/466293/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/466293/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -3729,7 +3729,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5O9_atA4mD3Dx2o6Z5ufJbJOnQHRXqP3CJg&s" alt="Ancient herbs" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ Ancient Herbal Supplements</h4>
             <p>These are the high-quality supplements trusted by healthcare professionals.</p>
-            <a href="https://www.digistore24.com/redir/466293/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/466293/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -3806,7 +3806,7 @@ const posts = [
             <img src="https://img.magnific.com/premium-photo/herbal-ingredients_997657-22619.jpg?semt=ais_hybrid&w=740&q=80" alt="Immune boosting herbs" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Immune-Boosting Herbal Toolkit</h4>
             <p>These are the herbal supplements I trust for immune support.</p>
-            <a href="https://www.digistore24.com/redir/466293/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/466293/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -3901,7 +3901,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsiAcgQVbh6ArcG8QN7GbgYiphCDO6-ISKuA&s" alt="Herbal energy remedies" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Herbal Energy Toolkit</h4>
             <p>These are the herbal supplements I use for natural, sustained energy.</p>
-            <a href="https://www.digistore24.com/redir/466293/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/466293/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -4008,7 +4008,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoVkVsPuhn26fSD6_Aq_j3s8uufTHtAPQSe1OnvH09nA&s=10" alt="Keto secrets" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Keto Success Toolkit</h4>
             <p>These are the resources that helped me unlock the secrets of successful keto.</p>
-            <a href="https://www.checkout-ds24.com/redir/630881/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/630881/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -4075,7 +4075,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTa6JMTqat_uq4-DjezNc1I2TpCXhstGKVsqUbhQtsvLVFP8IXNiwZvWV9&s=10" alt="Keto mistakes" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Keto Correction Toolkit</h4>
             <p>These resources helped me identify and fix these common keto mistakes.</p>
-            <a href="https://www.checkout-ds24.com/redir/630881/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/630881/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -4139,7 +4139,7 @@ const posts = [
             <img src="https://media.istockphoto.com/id/1142636359/photo/keto-diet-concept-ketogenic-diet-food-balanced-low-carb-food-background-vegetables-fish-meat.jpg?s=612x612&w=0&k=20&c=bGvV9qDrmUdtvaEZ7X00oYZ5C0sG1TAVSz-N2Fwzgyw=" alt="Forbidden keto ingredients" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Clean Keto Shopping Guide</h4>
             <p>These resources helped me identify which 'keto' foods were actually sabotaging my progress.</p>
-            <a href="https://www.checkout-ds24.com/redir/630881/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/630881/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -4203,7 +4203,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFYnsuz0M5vfBqAKhq7L3Gy7ZMt7y8wyd_fsc2jE08hw&s=10" alt="Ketosis barrier" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Ketosis Activation Toolkit</h4>
             <p>These resources helped me finally enter and maintain ketosis.</p>
-            <a href="https://www.checkout-ds24.com/redir/630881/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/630881/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -4277,7 +4277,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfhBvYTMPs_-ze8c-0qheNl1eHsBgu9WEJOhbbEWNBEQV6Czz_N0W0j64g&s=10" alt="Keto fat burning hacks" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Fat-Burning Toolkit</h4>
             <p>These strategies and supplements helped me accelerate keto fat loss.</p>
-            <a href="https://www.checkout-ds24.com/redir/630881/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/630881/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -4341,7 +4341,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXH740LcbQhotJ5SeuIp8Kdx0LIK_4VXPLPSGiFtsBhw&s=10" alt="Keto desserts" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Keto Dessert Toolkit</h4>
             <p>These are the ingredients I use to make delicious keto desserts.</p>
-            <a href="https://www.digistore24.com/redir/292043/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/292043/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -4426,7 +4426,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4u9G6JUISk8hXM4pOAODmpMD9GgPJXbsmYwGOpNZwqIi0OJPDPyvckkA&s=10" alt="Keto chocolate desserts" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Keto Chocolate Dessert Toolkit</h4>
             <p>These ingredients are essential for making perfect keto chocolate desserts.</p>
-            <a href="https://www.digistore24.com/redir/292043/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/292043/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -4495,7 +4495,7 @@ const posts = [
             <img src="https://cdn.pixabay.com/photo/2017/04/11/13/26/timer-2221384_640.jpg" alt="Quick keto desserts" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Quick Keto Dessert Toolkit</h4>
             <p>These ingredients help me make keto desserts in minutes.</p>
-            <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQou-uMGBtTGNKMeOl9ReN5xu-gfAFOBQWFfi6_AIvrwKR2u8EQrmUpUvU&s=10" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQou-uMGBtTGNKMeOl9ReN5xu-gfAFOBQWFfi6_AIvrwKR2u8EQrmUpUvU&s=10" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -4565,7 +4565,7 @@ const posts = [
             <img src="https://media.istockphoto.com/id/1300820968/photo/coconut-candy-dessert.jpg?s=612x612&w=0&k=20&c=jcr3TvuOqD4f7UlGO0NkALAq_Cg5it-JVJsorvZKDV0=" alt="Sugar-free keto desserts" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Sugar-Free Dessert Toolkit</h4>
             <p>These ingredients create desserts that taste better than sugar-filled originals.</p>
-            <a href="https://www.digistore24.com/redir/292043/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/292043/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -4639,7 +4639,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZtv6O3HXGdH9ggZXvizvSSFjnz1McLsr3zTivZKanw&s=10" alt="Keto cheesecake" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Keto Cheesecake Toolkit</h4>
             <p>These ingredients create the perfect keto cheesecake every time.</p>
-            <a href="https://www.digistore24.com/redir/292043/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/292043/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -4710,7 +4710,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC-gxwvf8A0lWZGDqivFW3wE0apUfXNJgHd4T2s-JLTQ&s" alt="Ketosis barriers part 2" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Complete Keto Success Toolkit</h4>
             <p>These resources helped me overcome every barrier to ketosis.</p>
-            <a href="https://www.digistore24.com/redir/292043/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/292043/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -4788,7 +4788,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj6Fkv5noodYVYa_oRnnjVCTYzZvsozsRKmOS-_uo3FZG3RSBKTPbFInug&s=10" alt="Vegan challenge" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Vegan Transition Toolkit</h4>
             <p>These resources helped me successfully complete my 30-day vegan challenge.</p>
-            <a href="https://www.digistore24.com/redir/605910/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/605910/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -4901,7 +4901,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7tRXBHfqhNB5Lgi_I75H91JbCxDzP3tAz-4GCgo3NRw&s=10" alt="Vegan meal plan" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Vegan Starter Toolkit</h4>
             <p>These resources helped me create an easy, affordable vegan meal plan.</p>
-            <a href="https://www.digistore24.com/redir/605910/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/605910/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -5040,7 +5040,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVramV_hkvahvEp6PpMG6WCBQ1pRVPhc341JSM1Lkaplao_SOOFvms000&s=10" alt="Vegan weight loss" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Vegan Weight Loss Toolkit</h4>
             <p>These resources helped me lose weight on a vegan diet.</p>
-            <a href="https://www.digistore24.com/redir/605910/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/605910/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -5160,7 +5160,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQzLkwdBXlp_DBgaRPO_iQyKM1SjQV0nTXeKFzPHDpcA&s=10" alt="Vegan mistakes" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Vegan Success Toolkit</h4>
             <p>These resources helped me avoid common vegan mistakes.</p>
-            <a href="https://www.digistore24.com/redir/605910/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/605910/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -5233,7 +5233,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxrEQi6dPNIjfLRrw4nlS0Zw_pEPjV7QqDSbl-ou7sKA&s=10" alt="Vegan transformation" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Vegan Transformation Toolkit</h4>
             <p>These resources supported my 30-day transformation.</p>
-            <a href="https://www.digistore24.com/redir/605910/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/605910/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -5348,7 +5348,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Ogdh2UJH5ZOlMTbnHwqhuO5Ktu1991Qz1w&s" alt="Lanta Flat Belly Shake" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ Lanta Flat Belly Shake</h4>
             <p>After 60 days of testing, here's my honest assessment.</p>
-            <a href="https://theflatbellyshake.com/discovery/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://theflatbellyshake.com/discovery/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -5472,7 +5472,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvuWW9b3AfNvpnVw_ZbPrzUSaw_3zlAW_aSg&s" alt="Lanta shake ingredients" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ Lanta Flat Belly Shake</h4>
             <p>Understanding how it works helps maximize your results.</p>
-            <a href="https://theflatbellyshake.com/discovery/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://theflatbellyshake.com/discovery/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -5569,7 +5569,7 @@ const posts = [
             <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1653124981i/61138972.jpg" alt="Weight loss drink comparison" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ Lanta Flat Belly Shake</h4>
             <p>After testing 5 drinks, Lanta Flat Belly Shake came out on top.</p>
-            <a href="https://theflatbellyshake.com/discovery/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://theflatbellyshake.com/discovery/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -5702,7 +5702,7 @@ const posts = [
             <img src="https://m.media-amazon.com/images/I/816xQVx2daL._AC_UF350,350_QL80_.jpg" alt="Lanta shake users" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ Lanta Flat Belly Shake</h4>
             <p>Join thousands of satisfied users experiencing real results.</p>
-            <a href="https://theflatbellyshake.com/discovery/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://theflatbellyshake.com/discovery/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -5798,7 +5798,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ZSTayxcAsDXVMKgPBLsH1NW1Ej7Kx23FA&s" alt="Belly fat reduction" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ Lanta Flat Belly Shake</h4>
             <p>Target stubborn belly fat with this natural approach.</p>
-            <a href="https://theflatbellyshake.com/discovery/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://theflatbellyshake.com/discovery/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -5931,7 +5931,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIy-dkAhJ7uOFWAWsSyH5efK9FneaGfQLGUd9HJVJEiw&s=10" alt="Joint pain relief" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Joint Health Toolkit</h4>
             <p>These are the resources that helped me manage joint pain after 40.</p>
-            <a href="https://jointeternal.com/discover/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://jointeternal.com/discover/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -6036,7 +6036,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZmtc2oBWOBoeSZaUo-amwN1XU-beoH2Uecm7K8kxow&s=10" alt="Morning joint health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Morning Joint Health Toolkit</h4>
             <p>These practices helped me protect my joints each morning.</p>
-            <a href="https://jointeternal.com/discover/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://jointeternal.com/discover/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -6109,7 +6109,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXvQkWpDWJYv02GLLxWEqYx6Px9nrrOCwputXRXjT64g&s=10" alt="Natural joint flexibility" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Natural Joint Health Toolkit</h4>
             <p>These natural approaches helped me improve joint flexibility without medication.</p>
-            <a href="https://jointeternal.com/discover/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://jointeternal.com/discover/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -6194,7 +6194,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIjY26W30SKRJ7AjHvTExe_kJaATCIy_JyOcm1m8r60Q&s=10" alt="Cartilage warning signs" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Cartilage Protection Toolkit</h4>
             <p>These resources helped me protect my cartilage after noticing the warning signs.</p>
-            <a href="https://jointeternal.com/discover/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://jointeternal.com/discover/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -6266,7 +6266,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyVW4eYMVJ4RlOf6VHewBHKg3JyvQ29hqnGAcwOACTgA&s" alt="Active after 50" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Active After 50 Toolkit</h4>
             <p>These strategies helped me stay active despite joint pain.</p>
-            <a href="https://jointeternal.com/discover/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://jointeternal.com/discover/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -6374,7 +6374,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2yPpnLP55kOv6nfBKgAyvx9NA6XKWS7PdT8DprnFWRA&s" alt="Memory improvement" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Brain Health Toolkit</h4>
             <p>These resources helped me improve my memory and cognitive function.</p>
-            <a href="https://theneuroprime.com/ds/go/indexvs.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://theneuroprime.com/ds/go/indexvs.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -6460,7 +6460,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_3Ps0y9rUtAgKSlB09_l4NMZB65Ezi7TJdx0fpfM-MQ&s" alt="Brain performance" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Brain Performance Toolkit</h4>
             <p>These habits helped me restore my brain performance.</p>
-            <a href="https://theneuroprime.com/ds/go/indexvs.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://theneuroprime.com/ds/go/indexvs.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -6544,7 +6544,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlN0InQweDuNh-NqNDlsYUd-wNuhKipbUf3x5fsCN9HLF405Sy3OKzch_4&s=10" alt="Brain fog" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Brain Fog Relief Toolkit</h4>
             <p>These strategies helped me clear my brain fog naturally.</p>
-            <a href="https://theneuroprime.com/ds/go/indexvs.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://theneuroprime.com/ds/go/indexvs.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -6644,7 +6644,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR05p3xu5KyjLbEwJIdW_J7-3UuaWFICrGLEiusv8p0jw&s" alt="Focus and concentration" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Focus Improvement Toolkit</h4>
             <p>These strategies helped me restore my focus after 30.</p>
-            <a href="https://theneuroprime.com/ds/go/indexvs.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://theneuroprime.com/ds/go/indexvs.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -6737,7 +6737,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_-wnGUkBv_Bg6NkUYXgM8Z0VMCU_-bxOwIuPhWvjR-kzyjASNRnMyyqfb&s=10" alt="Mental energy" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Mental Energy Restoration Toolkit</h4>
             <p>These strategies helped me restore my mental energy naturally.</p>
-            <a href="https://theneuroprime.com/ds/go/indexvs.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://theneuroprime.com/ds/go/indexvs.php#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -6840,7 +6840,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHz_jI5AJ1-KL8_zqUUcMz0Qn9wk2ETDOVAv4iCxVkvw&s=10" alt="Pep Tonic energy supplement" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ Pep Tonic Supplement</h4>
             <p>After 60 days of testing, here's my honest assessment.</p>
-            <a href="https://www.advancedbionutritionals.com/DS24/Pep-Tonic/First-Anti-Aging-Drink/HD.htm#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.advancedbionutritionals.com/DS24/Pep-Tonic/First-Anti-Aging-Drink/HD.htm#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -6957,7 +6957,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiVYmPOCS8rneGNQdL8oes286K3H8lp7jPZbmCCLVMDB6GZenw2u-Gcao&s=10" alt="Pep Tonic benefits" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ Pep Tonic Supplement</h4>
             <p>Discover the unexpected health benefits of Pep Tonic.</p>
-            <a href="https://www.advancedbionutritionals.com/DS24/Pep-Tonic/First-Anti-Aging-Drink/HD.htm#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.advancedbionutritionals.com/DS24/Pep-Tonic/First-Anti-Aging-Drink/HD.htm#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -7059,7 +7059,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMW0ILzPqVxFU7WeCcPKW3VpqcijpTzVSpGs-KqUbdQ&s=10" alt="Energy supplement comparison" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ Pep Tonic Supplement</h4>
             <p>After testing 6 supplements, Pep Tonic came out on top.</p>
-            <a href="https://www.advancedbionutritionals.com/DS24/Pep-Tonic/First-Anti-Aging-Drink/HD.htm#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.advancedbionutritionals.com/DS24/Pep-Tonic/First-Anti-Aging-Drink/HD.htm#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -7193,7 +7193,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkM8mjQDXVrQk_lc-EzFQlZ603699MaXzkW96PXmbzQg&s=10" alt="Focus and productivity" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ Pep Tonic Supplement</h4>
             <p>Discover how Pep Tonic can support your focus and productivity.</p>
-            <a href="https://www.advancedbionutritionals.com/DS24/Pep-Tonic/First-Anti-Aging-Drink/HD.htm#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.advancedbionutritionals.com/DS24/Pep-Tonic/First-Anti-Aging-Drink/HD.htm#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -7290,7 +7290,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1lqqdtnns7cZq8rn406ZOn8Xx6ulKHBZ-JPH8DWNDQ4pQwmlzvG_WP6AX&s=10" alt="Pep Tonic community" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ Pep Tonic Supplement</h4>
             <p>Join thousands of satisfied users experiencing real results.</p>
-            <a href="https://www.advancedbionutritionals.com/DS24/Pep-Tonic/First-Anti-Aging-Drink/HD.htm#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.advancedbionutritionals.com/DS24/Pep-Tonic/First-Anti-Aging-Drink/HD.htm#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -7366,7 +7366,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPwpr9dSdLq9ILwXrgN7D1v3zinox0gglB2aGq78M_VA&s=10" alt="Emotional boundaries" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Emotional Health Toolkit</h4>
             <p>These resources helped me build healthy emotional boundaries.</p>
-            <a href="https://www.checkout-ds24.com/redir/635583/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/635583/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -7443,7 +7443,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1heOoNV8i6i4TXAKOdYDgn9xxUwXTzSo-QT507Wr_AyGcVjEujfU1P6K&s=10" alt="Relationship boundaries" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Boundary Building Toolkit</h4>
             <p>These resources helped me recognize and strengthen my boundaries.</p>
-            <a href="https://www.checkout-ds24.com/redir/635583/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/635583/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -7519,7 +7519,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLUqKz1N08Sp4x1saaumAwWHE2sWiWO_akep9z_cEKxg&s=10" alt="Saying no without guilt" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Saying No Toolkit</h4>
             <p>These resources helped me overcome guilt when setting boundaries.</p>
-            <a href="https://www.checkout-ds24.com/redir/635583/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/635583/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -7608,7 +7608,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_0zs67j39CvfmnpXu-aqFfGzea9d6u4knNlr2DjMtg&s=10" alt="Anxiety and boundaries" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Anxiety Reduction Toolkit</h4>
             <p>These boundary-building resources helped me reduce my anxiety.</p>
-            <a href="https://www.checkout-ds24.com/redir/635583/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/635583/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -7708,7 +7708,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvvPRPDcMSWlshxW69x2ODkwytcsVzEL0ZmlBnbzkENF1KwTdlGE2ZLes&s=10" alt="Boundary habits" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Boundary Building Toolkit</h4>
             <p>These daily habits helped me build strong emotional boundaries.</p>
-            <a href="https://www.checkout-ds24.com/redir/635583/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/635583/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -7800,7 +7800,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMEHcktR-RS4PYwOqVRqFdDbcaBOAM2Y8qoEaXxbOdJQ&s=10" alt="Vegan baking" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Vegan Baking Toolkit</h4>
             <p>These resources helped me master vegan baking in just one weekend.</p>
-            <a href="https://www.digistore24.com/redir/525847/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/525847/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -7867,7 +7867,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsq9U3BpvIxYds2F2D-0zCwk4M5b9425e-OSsVaVotPMUrBZz4EzBXBzA&s=10" alt="Egg replacements" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Vegan Baking Toolkit</h4>
             <p>These are the egg replacements I use for every type of baking.</p>
-            <a href="https://www.digistore24.com/redir/525847/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/525847/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -7984,7 +7984,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUWNGDdVGB4MjmJRKqyAtT-O_N51c6rt8I5HxnCy87Ad-SeCY80f9bgGY&s=10" alt="Baking mistakes" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Vegan Baking Fix-It Toolkit</h4>
             <p>These resources helped me correct common vegan baking mistakes.</p>
-            <a href="https://www.digistore24.com/redir/525847/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/525847/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -8079,7 +8079,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKE3_S6uGL6UYW3euaYhAyGOchqoah06AqChWbckt7o-BfEecqVDve1_cN&s=10" alt="Vegan pantry" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Vegan Baking Pantry Essentials</h4>
             <p>These are the 20 ingredients I use in every vegan bake.</p>
-            <a href="https://www.digistore24.com/redir/525847/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/525847/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -8157,7 +8157,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj621HPRFpqTKAfh3KVUOMcvmLrsqFVt9gICc6Jf5hEvcc9h1P2Lrob0Y&s=10" alt="Healthy vegan desserts" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Healthy Dessert Toolkit</h4>
             <p>These recipes and ingredients helped me make desserts that taste incredible.</p>
-            <a href="https://www.digistore24.com/redir/550988/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/550988/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -8230,7 +8230,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS0e3176nG1yzRBqdBmtWr6ozSBkF1cOuvfKQz33Wcgtkg0m2WgudYSjjE&s=10" alt="Baking hacks" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Vegan Baking Hack Toolkit</h4>
             <p>These tricks save me time and improve every recipe I make.</p>
-            <a href="https://www.digistore24.com/redir/550988/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/550988/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -8313,7 +8313,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmt2tI-NSq8Yo5oaz-MWNEn_A7Nq4ZjMb26KePY2PwLAsBZcQiEmircJ59&s=10" alt="Family baking" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Family Baking Toolkit</h4>
             <p>These resources helped our family transition to plant-based baking.</p>
-            <a href="https://www.digistore24.com/redir/550988/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/550988/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -8377,7 +8377,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUMlY4JQJUGHMeU8ywpHyE4DHfhK8RK5p_Tm-so05qXZRspc7u8yTvA1ln&s=10" alt="Beginner vegan baking" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Complete Vegan Baking Toolkit</h4>
             <p>Everything a beginner baker needs to succeed.</p>
-            <a href="https://www.digistore24.com/redir/550988/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/550988/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -8497,7 +8497,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVBxClgiCtCOUiwgag4VPj8ChR-InGPIcHZheL96z2w9lgpnvOnlT27qc&s=10" alt="Heart health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Heart Health Toolkit</h4>
             <p>These are the resources that helped me clean up my eating habits.</p>
-            <a href="http://healthyheartsolution.com/ptn/digi/1#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="http://healthyheartsolution.com/ptn/digi/1#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -8608,7 +8608,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTt1FvhS35XFpictma38orsM0_faTYEmNL7GUAJooyAw&s=10" alt="Natural heart health" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Natural Heart Health Toolkit</h4>
             <p>These natural solutions helped me protect my heart.</p>
-            <a href="http://healthyheartsolution.com/ptn/digi/1#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="http://healthyheartsolution.com/ptn/digi/1#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -8699,7 +8699,7 @@ const posts = [
             <img src="https://png.pngtree.com/thumb_back/fh260/background/20241204/pngtree-a-heart-shaped-arrangement-of-colorful-fruits-and-vegetables-promoting-healthy-image_16735370.jpg" alt="Heart exercises" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Heart Exercise Toolkit</h4>
             <p>These resources helped me build a heart-healthy exercise routine.</p>
-            <a href="http://healthyheartsolution.com/ptn/digi/1#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="http://healthyheartsolution.com/ptn/digi/1#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -8822,7 +8822,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb9ZuD-DVQv-WK9Yhs-5MCJw-3E1TDfbicMyZ8sBOs3QkzILBqJgZdLcTS&s=10" alt="Stress and heart" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Stress Management Toolkit</h4>
             <p>These natural stress-reduction techniques helped protect my heart.</p>
-            <a href="http://healthyheartsolution.com/ptn/digi/1#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="http://healthyheartsolution.com/ptn/digi/1#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -8939,7 +8939,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwXayMh75z2SACphgaytH96iJdINmmSlAdDpCptV4rQ&s=10" alt="Heart routine" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Heart Healthy Routine Toolkit</h4>
             <p>These resources helped me build my complete heart-healthy routine.</p>
-            <a href="http://healthyheartsolution.com/ptn/digi/1#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="http://healthyheartsolution.com/ptn/digi/1#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -9098,7 +9098,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjtXzkH5-4OtJ9Emb5RfpXrZN4cuyRgw-axC8lpQ2lpplAm-3TrYSJtQpT&s=10" alt="Energy smoothies" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Smoothie Toolkit</h4>
             <p>These ingredients helped me create the perfect energy-boosting smoothies.</p>
-            <a href="https://www.wellfiteats.com/morehealthymoreproductive#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.wellfiteats.com/morehealthymoreproductive#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -9199,7 +9199,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZpHhfhUl3-z6m0ATKmz0_j-xtZoEAbjd9EzFZGZ8hYL9aeFeSUwCZFJNs&s=10" alt="Detox juices" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Detox Toolkit</h4>
             <p>These ingredients helped me create powerful detox juices.</p>
-            <a href="https://www.wellfiteats.com/morehealthymoreproductive#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.wellfiteats.com/morehealthymoreproductive#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -9297,7 +9297,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWtJi0eOpghUVcp7iNxT-jrKB2DE1XIo7Z5xGJWg32FM9oN63XssuTya1j&s=10" alt="Smoothie comparison" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Smoothie Toolkit</h4>
             <p>These ingredients helped me create both green and fruit smoothies.</p>
-            <a href="https://www.wellfiteats.com/morehealthymoreproductive#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.wellfiteats.com/morehealthymoreproductive#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -9425,7 +9425,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyRmPKmN3GbmcWWWUkFlvlduwb8W3oPqtqtZm2hSIMxuapfv1H-Kyc_5AK&s=10" alt="Belly fat smoothies" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Belly Fat Toolkit</h4>
             <p>These ingredients helped me reduce belly fat with smoothies.</p>
-            <a href="https://www.wellfiteats.com/morehealthymoreproductive#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.wellfiteats.com/morehealthymoreproductive#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -9535,7 +9535,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRVZdYPue8aVZZSEVG0zG3wtKbwLRah25xxGdGH-PmIuAvfj20E6dgSC4&s=10" alt="Immune juices" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Immune Toolkit</h4>
             <p>These ingredients helped me build a strong immune system.</p>
-            <a href="https://www.wellfiteats.com/morehealthymoreproductive#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.wellfiteats.com/morehealthymoreproductive#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -9631,7 +9631,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCqJrICvuK6JzK0J_Tk9oVaohx8P9UMHcO-ioMxAzbquv5FsGDRVuUTvW&s=10" alt="Food clarity" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Food Clarity Toolkit</h4>
             <p>These resources helped me create the Food Clarity System.</p>
-            <a href="https://www.checkout-ds24.com/redir/611284/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/611284/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -9729,7 +9729,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3DwmwJqwMRc6dyxzZEp5UNony96e7ifIEhIXr70BbrmJdKyxsMLT6lhvW&s=10" alt="Food mistakes" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Food Clarity Toolkit</h4>
             <p>These resources helped me identify and fix these food mistakes.</p>
-            <a href="https://www.checkout-ds24.com/redir/611284/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/611284/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -9805,7 +9805,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo3WfSUVaWGmqs7xW_HigQhWFx_8eraZWrEix_rFkAiw&s=10" alt="Food labels" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Food Label Toolkit</h4>
             <p>These resources helped me learn to read food labels effectively.</p>
-            <a href="https://www.checkout-ds24.com/redir/611284/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/611284/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -9882,7 +9882,7 @@ const posts = [
             <img src="https://t4.ftcdn.net/jpg/07/69/91/11/360_F_769911142_slltYMuSS9SExrcNMv84QAOqi0WO5CZN.jpg" alt="Grocery shopping" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Grocery Toolkit</h4>
             <p>These resources helped me shop smarter and healthier.</p>
-            <a href="https://www.checkout-ds24.com/redir/611284/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/611284/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -9988,7 +9988,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLiZtzJP5sWUM86HHGkM5Lvsvq1Dg-sL6YlifLOVn_4g&s=10" alt="Food and energy" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Food-Energy Toolkit</h4>
             <p>These foods helped me improve my energy and focus.</p>
-            <a href="https://www.checkout-ds24.com/redir/611284/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/611284/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -10094,7 +10094,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVAwKGRoDnU8-_Kg5kMb_Pv1aq7SiYioMya20P4pjrJg&s=10" alt="Anti-aging foods" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Anti-Aging Toolkit</h4>
             <p>These foods helped me look and feel younger.</p>
-            <a href="https://marilia.de/guides-coaching/ebook-anti-aging-longevity/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://marilia.de/guides-coaching/ebook-anti-aging-longevity/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -10184,7 +10184,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnRKt-_f2FezJL3-PeNIUXe9_QQ7kmJYaWS7wjJION46MeqEC6gfxOU4Y&s=10" alt="Longevity habits" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Longevity Toolkit</h4>
             <p>These habits helped me improve my health and longevity.</p>
-            <a href="https://marilia.de/guides-coaching/ebook-anti-aging-longevity/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://marilia.de/guides-coaching/ebook-anti-aging-longevity/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -10278,7 +10278,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwDQPnTFdK7Yydid1JfxogoD7Wt0Le_8uDYnAFH50uq6W4ybilx7KFp9Ci&s=10" alt="Antioxidant foods" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Antioxidant Toolkit</h4>
             <p>These foods helped me fight premature aging naturally.</p>
-            <a href="https://marilia.de/guides-coaching/ebook-anti-aging-longevity/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://marilia.de/guides-coaching/ebook-anti-aging-longevity/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -10389,7 +10389,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJYrzDSzrwaVQPcNsAitnlyM6otHsQfxVeqgBgMswC5jo-LLa9FN737WEC&s=10" alt="Morning routine" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Morning Routine Toolkit</h4>
             <p>These habits helped me feel younger and more energetic.</p>
-            <a href="https://marilia.de/guides-coaching/ebook-anti-aging-longevity/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://marilia.de/guides-coaching/ebook-anti-aging-longevity/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -10492,7 +10492,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgaD_RjzdIWnO8PDoz75kcvi15pBxGxKEkmjx-RU5oqyVYqI_kRExNvzY&s=10" alt="Aging nutrients" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Healthy Aging Supplement Toolkit</h4>
             <p>These nutrients helped me age healthily after 40.</p>
-            <a href="https://marilia.de/guides-coaching/ebook-anti-aging-longevity/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://marilia.de/guides-coaching/ebook-anti-aging-longevity/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -10580,7 +10580,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOUOAbCeYVJTZanc-ucQDXh9M8jD4J7Gxq_ad1sUwqfg&s=10" alt="Healing foods" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Healing Foods Toolkit</h4>
             <p>These are the foods that helped me reduce inflammation and boost energy.</p>
-            <a href="https://www.checkout-ds24.com/redir/656122/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/656122/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -10699,7 +10699,7 @@ const posts = [
             <img src="https://freepngimg.com/save/142682-food-eating-download-free-image/1306x918" alt="Gut healing foods" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Gut Repair Toolkit</h4>
             <p>These foods helped me heal my gut naturally.</p>
-            <a href="https://www.checkout-ds24.com/redir/656122/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/656122/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -10794,7 +10794,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkREhtFlAd6DQegeK7jodiFecQshwFHktjL9mlVZ_CaA&s=10" alt="Cellular repair foods" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Eat to Restore Toolkit</h4>
             <p>These foods support healthy aging and cellular repair.</p>
-            <a href="https://www.checkout-ds24.com/redir/656122/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.checkout-ds24.com/redir/656122/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -10882,7 +10882,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQSIUTEMEHt44hdSATlWtz_Rn9U4RudKWH93Xc7cxN6fZM_Tu9q5KOSYwC&s=10" alt="Natural remedies" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Natural Remedies Toolkit</h4>
             <p>These are the natural remedies I use for everyday health issues.</p>
-            <a href="https://wsl.365dailyhealth.com/encyclopedia1#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://wsl.365dailyhealth.com/encyclopedia1#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -10988,7 +10988,7 @@ const posts = [
             <img src="https://www.shutterstock.com/image-photo/natural-herbal-medicine-selection-herbs-260nw-1026404113.jpg" alt="Natural sleep remedies" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Natural Sleep Toolkit</h4>
             <p>These herbs, foods, and habits helped me sleep naturally.</p>
-            <a href="https://wsl.365dailyhealth.com/encyclopedia1#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://wsl.365dailyhealth.com/encyclopedia1#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -11091,7 +11091,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7OcRncmk2Csm1KequUzz9nXM9FPho6Y2EZAlFRzOhfA&s=10" alt="Herbal remedies" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Herbal Remedy Toolkit</h4>
             <p>These are the top herbs I use for immunity, digestion, and wellness.</p>
-            <a href="https://wsl.365dailyhealth.com/encyclopedia1#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://wsl.365dailyhealth.com/encyclopedia1#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -11193,7 +11193,7 @@ const posts = [
             <img src="https://png.pngtree.com/thumb_back/fh260/background/20240705/pngtree-contemporary-kitchen-featuring-vegetables-displayed-on-the-white-countertop-image_15977354.jpg" alt="Slim kitchen recipes" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Slim Kitchen Toolkit</h4>
             <p>These recipes helped me lose weight without hunger.</p>
-            <a href="https://www.digistore24.com/redir/697066/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/697066/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -11315,7 +11315,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoJ5_MRugdDQLyma30h8g_-OJ8BsyomxOsYUDZW7TzBtJ06hAqYCYkHvzN&s=10" alt="Healthy breakfast" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Healthy Breakfast Toolkit</h4>
             <p>These are the breakfasts that helped me lose weight.</p>
-            <a href="https://www.digistore24.com/redir/697066/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/697066/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -11395,7 +11395,7 @@ const posts = [
             <img src="https://img.magnific.com/free-photo/young-smiling-woman-making-bruschetta-with-healthy-ingredients-while-preparing-food-kitchen_637285-3523.jpg?semt=ais_hybrid&w=740&q=80" alt="Low-calorie dinners" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Low-Calorie Dinner Toolkit</h4>
             <p>These recipes helped me lose weight while eating delicious food.</p>
-            <a href="https://www.digistore24.com/redir/697066/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/697066/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -11516,7 +11516,7 @@ const posts = [
             <img src="https://media.istockphoto.com/id/1457889029/photo/group-of-food-with-high-content-of-dietary-fiber-arranged-side-by-side.jpg?s=612x612&w=0&k=20&c=SEyObHsbBsrd1XZlgEg389VT86BMFKZKfKReKyVPAk4=" alt="Power foods" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Power Foods Toolkit</h4>
             <p>These foods helped me increase my energy and strength naturally.</p>
-            <a href="https://wsl.365dailyhealth.com/landing-sale-page1713272576177#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://wsl.365dailyhealth.com/landing-sale-page1713272576177#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -11636,7 +11636,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjDyjz4doJf_v-R9iXF27J2wpZQnSwZ77QNGrBvf4FRQ&s=10" alt="Anti-inflammatory superfoods" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Anti-Inflammatory Toolkit</h4>
             <p>These superfoods helped me fight inflammation naturally.</p>
-            <a href="https://wsl.365dailyhealth.com/landing-sale-page1713272576177#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://wsl.365dailyhealth.com/landing-sale-page1713272576177#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -11764,7 +11764,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsFYoBIVtsI4_h46rMGESv0mA-lVfurNOYcARXkwVwpQ&s=10" alt="Brain foods" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Brain Health Toolkit</h4>
             <p>These foods helped me improve my memory and focus naturally.</p>
-            <a href="https://wsl.365dailyhealth.com/landing-sale-page1713272576177#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://wsl.365dailyhealth.com/landing-sale-page1713272576177#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -11884,7 +11884,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1qpzPpv8fmyyOkt85SRV3tjb_6ThMtNg-nqKuEdVpLQ&s=10" alt="Waist trimmer belt" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Waist Trimmer Toolkit</h4>
             <p>These are the features to look for in a quality waist trimmer belt.</p>
-            <a href="https://s.click.aliexpress.com/e/_c39cguN1" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://s.click.aliexpress.com/e/_c39cguN1" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -11975,7 +11975,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNrAJx2YKIkUzY8ytGWLNolK1YANpff8_u2-NbP2QtMA&s" alt="Waist trimmer vs waist trainer" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Fitness Gear Toolkit</h4>
             <p>Choose the right waist tool for your fitness goals.</p>
-            <a href="https://s.click.aliexpress.com/e/_c39cguN1" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://s.click.aliexpress.com/e/_c39cguN1" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -12100,7 +12100,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ20A0rdXyKmRhHsBLYK6DS2izNAVLp15aBK9u7P-ro-A&s=10" alt="Waist trimmer guide" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Waist Trimmer Buying Guide</h4>
             <p>These are the best features to look for in a waist trimmer belt.</p>
-            <a href="https://s.click.aliexpress.com/e/_c39cguN1" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://s.click.aliexpress.com/e/_c39cguN1" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -12207,7 +12207,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbfq6XJP-3ZCtlr-fjATe5OIVLX_3TBxWv-Rpf7ZbkVw&s" alt="Smart scale" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Smart Health Tech Toolkit</h4>
             <p>These are the metrics a smart scale provides beyond just weight.</p>
-            <a href=" https://s.click.aliexpress.com/e/_c39QTgIF" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href=" https://s.click.aliexpress.com/e/_c39QTgIF" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -12325,7 +12325,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjLcKJ2FWXMkfDa-FVouTPytWK7da-tdRS8WxZb_2vKg&s=10" alt="Smart scale accuracy" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Smart Health Tech Toolkit</h4>
             <p>Understanding smart scale accuracy helps you get the most from your data.</p>
-            <a href=" https://s.click.aliexpress.com/e/_c39QTgIF" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href=" https://s.click.aliexpress.com/e/_c39QTgIF" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -12446,7 +12446,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTqA8V5QdwXz8WnMgUiNvH2tz15Viqk_CipFq0_14QJw&s=10" alt="Smart scale metrics" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Smart Health Tech Toolkit</h4>
             <p>Understanding smart scale metrics helps you make better health decisions.</p>
-            <a href=" https://s.click.aliexpress.com/e/_c39QTgIF" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href=" https://s.click.aliexpress.com/e/_c39QTgIF" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -12537,7 +12537,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9cPB8tZMvOu0chUuJ6T0odVRcVQYy8xcfon7ADEwXPw&s=10" alt="AI food analysis" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My AI Health Toolkit</h4>
             <p>These AI tools helped me make better food choices.</p>
-            <a href="https://www.digistore24.com/redir/632164/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/632164/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -12656,7 +12656,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP5kt8WX4ixMq2y6ius7mdb8DVplK5P4vd3eOj1U6I_Q&s=10" alt="AI nutrition scanner" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My AI Health Toolkit</h4>
             <p>Understanding AI nutrition accuracy helps you use these tools effectively.</p>
-            <a href="https://www.digistore24.com/redir/632164/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/632164/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -12780,7 +12780,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ZvOrIXlaVY2A2q4i_on44AV1XQisRsPlaFdR7LQ0Hg&s=10" alt="Hidden calories" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My AI Health Toolkit</h4>
             <p>These AI tools helped me identify hidden calories in my meals.</p>
-            <a href="https://www.digistore24.com/redir/632164/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://www.digistore24.com/redir/632164/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -12893,7 +12893,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-SN9c5piJ2qiZpN1bXHCe7p66AqXOjoHBhs3A_ED8pA&s=10" alt="Child nutrition" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Child Nutrition Toolkit</h4>
             <p>These nutrients and foods support healthy growth in children.</p>
-            <a href="https://oraclefx.org/Childhood-Nutrition/Sales-page.html#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://oraclefx.org/Childhood-Nutrition/Sales-page.html#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -12986,7 +12986,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoYOztLg3xw8E_K_UmnYjlLR6NDD_1kDnS7NOUjGudBQ&s=10" alt="Kids lunch ideas" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Kids' Lunch Toolkit</h4>
             <p>These lunch ideas are kid-approved and nutritionally balanced.</p>
-            <a href="https://oraclefx.org/Childhood-Nutrition/Sales-page.html#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://oraclefx.org/Childhood-Nutrition/Sales-page.html#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
@@ -13071,7 +13071,7 @@ const posts = [
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmlVMR2RjTZKXmBBo39G2HHGkNJzqNPbPMOYqlr65H7A&s=10" alt="Child nutrition myths" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
             <h4>✅ My Child Nutrition Toolkit</h4>
             <p>Understanding the truth about child nutrition helps you feed your kids better.</p>
-            <a href="https://oraclefx.org/Childhood-Nutrition/Sales-page.html#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Check Price on Digistore24 →</a>
+            <a href="https://oraclefx.org/Childhood-Nutrition/Sales-page.html#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
             <div style="clear:both"></div>
         </div>
         
