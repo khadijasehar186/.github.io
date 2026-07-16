@@ -3,29 +3,48 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Our privacy policy - how we handle your information with care and transparency.">
-    <title>Privacy Policy - Wellness Guide</title>
+    <meta name="description" content="Privacy Policy - The Modern Guide. Learn how we handle your information with care and transparency.">
+    <title>Privacy Policy - The Modern Guide</title>
     
     <style>
-        /* ===== ATTRACTIVE BUILT-IN CSS FOR PRIVACY PAGE ===== */
+        /* ===== MODERN GUIDE - PRIVACY PAGE CSS ===== */
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
         }
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+        :root {
+            --primary: #2563EB;
+            --primary-hover: #1D4ED8;
+            --secondary: #60A5FA;
+            --accent: #F97316;
+            --text: #1F2937;
+            --text-light: #4B5563;
+            --background: #FFFFFF;
+            --light-bg: #F8FAFC;
+            --gray-border: #E2E8F0;
+            --shadow: 0 2px 10px rgba(37, 99, 235, 0.08);
+            --shadow-hover: 0 5px 20px rgba(37, 99, 235, 0.15);
+            --transition: 0.3s ease;
         }
 
-        /* Header Styles */
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            line-height: 1.6;
+            color: var(--text);
+            background: var(--background);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
         .header {
-            background: rgba(255,255,255,0.95);
-            backdrop-filter: blur(10px);
-            box-shadow: 0 2px 20px rgba(0,0,0,0.08);
+            background: var(--background);
+            box-shadow: var(--shadow);
             position: sticky;
             top: 0;
             z-index: 100;
@@ -44,22 +63,21 @@
         .logo {
             font-size: 1.5rem;
             font-weight: bold;
-            color: #2E7D32;
+            color: var(--primary);
             text-decoration: none;
-            transition: all 0.3s ease;
+            transition: all var(--transition);
         }
 
         .logo:hover {
-            transform: scale(1.05);
-            text-shadow: 0 2px 10px rgba(46,125,50,0.3);
+            color: var(--primary-hover);
         }
 
         .nav-links a {
-            color: #333;
+            color: var(--text);
             text-decoration: none;
             margin-left: 2rem;
             font-weight: 500;
-            transition: all 0.3s ease;
+            transition: all var(--transition);
             position: relative;
         }
 
@@ -70,8 +88,8 @@
             left: 0;
             width: 0;
             height: 2px;
-            background: #2E7D32;
-            transition: width 0.3s ease;
+            background: var(--primary);
+            transition: width var(--transition);
         }
 
         .nav-links a:hover::after,
@@ -80,102 +98,77 @@
         }
 
         .nav-links a:hover {
-            color: #2E7D32;
+            color: var(--primary);
         }
 
-        /* Container */
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 20px;
-        }
-
-        /* ===== PRIVACY PAGE SPECIFIC STYLES ===== */
         .privacy-page {
             max-width: 1000px;
             margin: 0 auto;
             padding: 2rem 20px;
-            animation: fadeInUp 0.6s ease-out;
+            animation: fadeIn 0.6s ease-out;
         }
 
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
         }
 
-        /* Page Title */
         .page-title {
             font-size: 2.8rem;
-            color: #1B5E20;
+            color: var(--text);
             margin-bottom: 0.5rem;
             text-align: center;
-            background: linear-gradient(135deg, #1B5E20, #2E7D32, #4CAF50);
-            background-size: 300% 300%;
-            -webkit-background-clip: text;
-            background-clip: text;
-            color: transparent;
-            animation: gradientShift 3s ease infinite;
         }
 
-        @keyframes gradientShift {
-            0% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
-            100% { background-position: 0% 50%; }
+        .page-title span {
+            color: var(--primary);
         }
 
         .last-updated {
             text-align: center;
-            color: #888;
+            color: var(--text-light);
             font-style: italic;
             margin-bottom: 3rem;
             padding-bottom: 1rem;
-            border-bottom: 2px solid #e0e0e0;
+            border-bottom: 2px solid var(--gray-border);
             display: inline-block;
             width: auto;
             margin-left: auto;
             margin-right: auto;
         }
 
-        /* Privacy Sections */
         .privacy-section {
             background: white;
             margin-bottom: 2rem;
             padding: 1.5rem 2rem;
             border-radius: 16px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
-            transition: all 0.3s ease;
-            border-left: 4px solid #2E7D32;
+            box-shadow: var(--shadow);
+            transition: all var(--transition);
+            border-left: 4px solid var(--primary);
         }
 
         .privacy-section:hover {
             transform: translateX(8px);
-            box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+            box-shadow: var(--shadow-hover);
             border-left-width: 6px;
         }
 
         .privacy-section h2 {
-            color: #1B5E20;
-            font-size: 1.6rem;
+            color: var(--primary);
+            font-size: 1.5rem;
             margin-bottom: 1rem;
             padding-bottom: 0.5rem;
-            border-bottom: 2px solid #E8F5E9;
-            display: inline-block;
+            border-bottom: 2px solid #EFF6FF;
         }
 
         .privacy-section h3 {
-            color: #2E7D32;
-            font-size: 1.2rem;
+            color: var(--text);
+            font-size: 1.1rem;
             margin: 1.2rem 0 0.8rem;
         }
 
         .privacy-section p {
-            color: #555;
+            color: var(--text-light);
             line-height: 1.7;
             margin-bottom: 1rem;
         }
@@ -188,65 +181,59 @@
 
         .privacy-section li {
             margin-bottom: 0.6rem;
-            color: #555;
+            color: var(--text-light);
             position: relative;
             padding-left: 1.5rem;
         }
 
         .privacy-section li::before {
             content: '✓';
-            color: #2E7D32;
+            color: var(--primary);
             position: absolute;
             left: 0;
             font-weight: bold;
         }
 
-        /* Links in privacy section */
         .privacy-section a {
-            color: #2E7D32;
+            color: var(--primary);
             text-decoration: none;
             font-weight: 500;
-            transition: all 0.3s ease;
-            border-bottom: 1px dotted #2E7D32;
+            border-bottom: 1px dotted var(--primary);
+            transition: all var(--transition);
         }
 
         .privacy-section a:hover {
-            color: #1B5E20;
-            border-bottom: 1px solid #1B5E20;
+            color: var(--primary-hover);
+            border-bottom: 1px solid var(--primary-hover);
         }
 
-        /* Privacy Note (Callout) */
         .privacy-note {
-            background: linear-gradient(135deg, #E8F5E9, #C8E6C9);
+            background: var(--light-bg);
             padding: 2rem;
             border-radius: 20px;
             margin-top: 2rem;
             text-align: center;
-            font-style: normal;
-            border: 1px solid rgba(46,125,50,0.2);
-            transition: all 0.3s ease;
+            border: 1px solid var(--gray-border);
+            transition: all var(--transition);
         }
 
         .privacy-note:hover {
             transform: scale(1.02);
-            box-shadow: 0 10px 30px rgba(46,125,50,0.15);
+            box-shadow: var(--shadow-hover);
         }
 
         .privacy-note p {
-            color: #1B5E20;
+            color: var(--text);
             font-size: 1.1rem;
             font-weight: 500;
-            margin: 0;
         }
 
         .privacy-note p::before {
             content: '🔒 ';
-            font-size: 1.2rem;
         }
 
-        /* Footer */
         .footer {
-            background: #1B5E20;
+            background: var(--text);
             color: white;
             padding: 3rem 0 1.5rem;
             margin-top: 3rem;
@@ -262,12 +249,11 @@
         .footer-section h4 {
             color: white;
             margin-bottom: 1rem;
-            font-size: 1.2rem;
         }
 
         .footer-section p {
             color: rgba(255,255,255,0.8);
-            font-size: 0.9rem;
+            font-size: 0.95rem;
             line-height: 1.6;
         }
 
@@ -276,12 +262,38 @@
             text-decoration: none;
             display: block;
             margin-bottom: 0.5rem;
-            transition: all 0.3s ease;
+            transition: all var(--transition);
         }
 
         .footer-section a:hover {
-            color: white;
+            color: var(--secondary);
             transform: translateX(5px);
+        }
+
+        .footer-disclosure {
+            background: rgba(255,255,255,0.05);
+            border-top: 1px solid rgba(255,255,255,0.1);
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            padding: 0.75rem 1rem;
+            margin: 1.5rem 0;
+            border-radius: 4px;
+            text-align: center;
+        }
+
+        .footer-disclosure p {
+            margin: 0;
+            color: rgba(255,255,255,0.7);
+            font-size: 0.85rem;
+            line-height: 1.5;
+        }
+
+        .footer-disclosure a {
+            color: var(--secondary);
+            text-decoration: underline;
+        }
+
+        .footer-disclosure a:hover {
+            color: white;
         }
 
         .copyright {
@@ -292,94 +304,46 @@
             font-size: 0.9rem;
         }
 
-        /* Responsive Design */
-        @media (max-width: 992px) {
-            .page-title {
-                font-size: 2.3rem;
-            }
-            
-            .privacy-section {
-                padding: 1.2rem 1.5rem;
-            }
-        }
-
         @media (max-width: 768px) {
             .nav-container {
                 flex-direction: column;
                 gap: 1rem;
             }
-            
+
             .nav-links a {
                 margin: 0 1rem;
             }
-            
+
             .page-title {
                 font-size: 2rem;
             }
-            
-            .privacy-section h2 {
-                font-size: 1.3rem;
-            }
-            
+
             .privacy-section {
                 padding: 1rem 1.2rem;
             }
-            
+
             .footer-grid {
                 grid-template-columns: 1fr;
-                gap: 2rem;
                 text-align: center;
+                gap: 1.5rem;
             }
-            
+
             .privacy-note p {
                 font-size: 0.95rem;
             }
         }
 
         @media (max-width: 480px) {
-            .container {
-                padding: 0 15px;
-            }
-            
             .page-title {
                 font-size: 1.6rem;
             }
-            
+
             .privacy-section {
                 padding: 0.8rem 1rem;
             }
-            
+
             .privacy-section li {
                 font-size: 0.9rem;
-            }
-            
-            .last-updated {
-                font-size: 0.8rem;
-            }
-        }
-
-        /* Print styles for PDF-friendly privacy policy */
-        @media print {
-            .header, .footer, .nav-links, .logo {
-                display: none;
-            }
-            
-            .privacy-page {
-                padding: 0;
-                margin: 0;
-            }
-            
-            .privacy-section {
-                break-inside: avoid;
-                box-shadow: none;
-                border: 1px solid #ddd;
-            }
-            
-            .page-title {
-                color: #000;
-                background: none;
-                -webkit-background-clip: unset;
-                background-clip: unset;
             }
         }
     </style>
@@ -387,7 +351,7 @@
 <body>
     <header class="header">
         <div class="nav-container">
-            <a href="index.html" class="logo">🌿 Wellness Guide</a>
+            <a href="index.html" class="logo">The Modern Guide</a>
             <nav class="nav-links">
                 <a href="index.html">Home</a>
                 <a href="blog.html">Blog</a>
@@ -399,8 +363,8 @@
     </header>
 
     <main class="container privacy-page">
-        <h1 class="page-title">Privacy Policy</h1>
-        <p class="last-updated">📅 Last Updated: March 2024</p>
+        <h1 class="page-title">Privacy <span>Policy</span></h1>
+        <p class="last-updated">📅 Last Updated: July 2024</p>
 
         <div class="privacy-section">
             <h2>🔒 Our Commitment to Privacy</h2>
@@ -492,7 +456,7 @@
 
         <div class="privacy-section">
             <h2>📞 Contact Us</h2>
-            <p>For privacy questions, requests, or concerns, please use our <a href="contact.html">contact form</a> or email us directly at privacy@wellnessguide.com. We typically respond within 2-3 business days.</p>
+            <p>For privacy questions, requests, or concerns, please use our <a href="contact.html">contact form</a> or email us directly at privacy@themodernguide.com. We typically respond within 2-3 business days.</p>
         </div>
 
         <div class="privacy-note">
@@ -504,8 +468,8 @@
         <div class="container">
             <div class="footer-grid">
                 <div class="footer-section">
-                    <h4>Wellness Guide</h4>
-                    <p>Your trusted resource for evidence-based health and wellness information. We're committed to helping you live a healthier, happier life.</p>
+                    <h4>The Modern Guide</h4>
+                    <p>Discover. Learn. Grow. Expert articles, practical guides, and honest reviews across technology, AI, health, productivity, finance, and everyday life.</p>
                 </div>
                 <div class="footer-section">
                     <h4>Quick Links</h4>
@@ -516,11 +480,16 @@
                 </div>
                 <div class="footer-section">
                     <h4>Disclosure</h4>
-                    <p>This site contains affiliate links. We only recommend products we genuinely believe in. Your trust means everything to us.</p>
+                    <p>This site contains affiliate links. We only recommend products we genuinely believe in.</p>
                 </div>
             </div>
+
+            <div class="footer-disclosure">
+                <p>⚠️ <strong>Disclosure:</strong> This post contains affiliate links. If you purchase through these links, I may earn a commission at no extra cost to you. I only recommend products I genuinely believe in. <a href="privacy.html">Learn more</a></p>
+            </div>
+
             <div class="copyright">
-                <p>&copy; 2024 Wellness Guide. All rights reserved. | Built with ❤️ for your wellness journey</p>
+                <p>&copy; 2024 The Modern Guide. All rights reserved.</p>
             </div>
         </div>
     </footer>
