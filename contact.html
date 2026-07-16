@@ -3,67 +3,432 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Get in touch with questions, collaborations, or just to say hi!">
-    <title>Contact Us - Wellness Guide</title>
-    <link rel="stylesheet" href="style.css">
+    <meta name="description" content="Get in touch with The Modern Guide. Have questions, collaboration ideas, or feedback? We'd love to hear from you.">
+    <title>Contact - The Modern Guide</title>
+    
+    <style>
+        /* ===== MODERN GUIDE - CONTACT PAGE CSS ===== */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary: #2563EB;
+            --primary-hover: #1D4ED8;
+            --secondary: #60A5FA;
+            --accent: #F97316;
+            --text: #1F2937;
+            --text-light: #4B5563;
+            --background: #FFFFFF;
+            --light-bg: #F8FAFC;
+            --gray-border: #E2E8F0;
+            --shadow: 0 2px 10px rgba(37, 99, 235, 0.08);
+            --shadow-hover: 0 5px 20px rgba(37, 99, 235, 0.15);
+            --transition: 0.3s ease;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            line-height: 1.6;
+            color: var(--text);
+            background: var(--background);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .header {
+            background: var(--background);
+            box-shadow: var(--shadow);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            padding: 1rem 0;
+        }
+
+        .nav-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: var(--primary);
+            text-decoration: none;
+            transition: all var(--transition);
+        }
+
+        .logo:hover {
+            color: var(--primary-hover);
+        }
+
+        .nav-links a {
+            color: var(--text);
+            text-decoration: none;
+            margin-left: 2rem;
+            font-weight: 500;
+            transition: all var(--transition);
+            position: relative;
+        }
+
+        .nav-links a::after {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 0;
+            height: 2px;
+            background: var(--primary);
+            transition: width var(--transition);
+        }
+
+        .nav-links a:hover::after,
+        .nav-links a.active::after {
+            width: 100%;
+        }
+
+        .nav-links a:hover {
+            color: var(--primary);
+        }
+
+        .contact-page {
+            padding: 2rem 0 3rem;
+        }
+
+        .contact-header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .contact-header h1 {
+            font-size: 2.8rem;
+            color: var(--text);
+            margin-bottom: 0.5rem;
+        }
+
+        .contact-header h1 span {
+            color: var(--primary);
+        }
+
+        .contact-header p {
+            color: var(--text-light);
+            font-size: 1.1rem;
+        }
+
+        .contact-wrapper {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 3rem;
+            margin-bottom: 3rem;
+        }
+
+        .contact-form {
+            background: var(--light-bg);
+            padding: 2rem;
+            border-radius: 16px;
+            border: 1px solid var(--gray-border);
+        }
+
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: 500;
+            color: var(--text);
+        }
+
+        .form-group input,
+        .form-group select,
+        .form-group textarea {
+            width: 100%;
+            padding: 0.75rem 1rem;
+            border: 1px solid var(--gray-border);
+            border-radius: 8px;
+            font-size: 1rem;
+            font-family: inherit;
+            background: white;
+            color: var(--text);
+            transition: all var(--transition);
+        }
+
+        .form-group input:focus,
+        .form-group select:focus,
+        .form-group textarea:focus {
+            outline: none;
+            border-color: var(--primary);
+            box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+        }
+
+        .submit-btn {
+            background: var(--primary);
+            color: white;
+            padding: 1rem 2rem;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1rem;
+            font-weight: 600;
+            width: 100%;
+            transition: all var(--transition);
+        }
+
+        .submit-btn:hover {
+            background: var(--primary-hover);
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-hover);
+        }
+
+        .form-status {
+            margin-top: 1rem;
+            padding: 0.75rem;
+            border-radius: 8px;
+            text-align: center;
+            display: none;
+        }
+
+        .form-status.success {
+            background: #D1FAE5;
+            color: #065F46;
+            display: block;
+        }
+
+        .form-status.error {
+            background: #FEE2E2;
+            color: #991B1B;
+            display: block;
+        }
+
+        .contact-info {
+            background: var(--light-bg);
+            padding: 2rem;
+            border-radius: 16px;
+            border: 1px solid var(--gray-border);
+        }
+
+        .contact-info h3 {
+            color: var(--primary);
+            margin-bottom: 1.5rem;
+        }
+
+        .info-item {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .info-icon {
+            font-size: 1.5rem;
+        }
+
+        .info-item p {
+            color: var(--text-light);
+        }
+
+        .social-links {
+            display: flex;
+            gap: 1rem;
+            margin-top: 2rem;
+            flex-wrap: wrap;
+        }
+
+        .social-links a {
+            background: var(--primary);
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            text-decoration: none;
+            transition: all var(--transition);
+        }
+
+        .social-links a:hover {
+            background: var(--primary-hover);
+            transform: translateY(-2px);
+        }
+
+        .footer {
+            background: var(--text);
+            color: white;
+            padding: 3rem 0 1.5rem;
+            margin-top: 3rem;
+        }
+
+        .footer-grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr;
+            gap: 3rem;
+            margin-bottom: 2rem;
+        }
+
+        .footer-section h4 {
+            color: white;
+            margin-bottom: 1rem;
+        }
+
+        .footer-section p {
+            color: rgba(255,255,255,0.8);
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+
+        .footer-section a {
+            color: rgba(255,255,255,0.8);
+            text-decoration: none;
+            display: block;
+            margin-bottom: 0.5rem;
+            transition: all var(--transition);
+        }
+
+        .footer-section a:hover {
+            color: var(--secondary);
+            transform: translateX(5px);
+        }
+
+        .footer-disclosure {
+            background: rgba(255,255,255,0.05);
+            border-top: 1px solid rgba(255,255,255,0.1);
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            padding: 0.75rem 1rem;
+            margin: 1.5rem 0;
+            border-radius: 4px;
+            text-align: center;
+        }
+
+        .footer-disclosure p {
+            margin: 0;
+            color: rgba(255,255,255,0.7);
+            font-size: 0.85rem;
+            line-height: 1.5;
+        }
+
+        .footer-disclosure a {
+            color: var(--secondary);
+            text-decoration: underline;
+        }
+
+        .footer-disclosure a:hover {
+            color: white;
+        }
+
+        .copyright {
+            text-align: center;
+            padding-top: 2rem;
+            border-top: 1px solid rgba(255,255,255,0.1);
+            color: rgba(255,255,255,0.6);
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 768px) {
+            .nav-container {
+                flex-direction: column;
+                gap: 1rem;
+            }
+
+            .nav-links a {
+                margin: 0 1rem;
+            }
+
+            .contact-header h1 {
+                font-size: 2rem;
+            }
+
+            .contact-wrapper {
+                grid-template-columns: 1fr;
+                gap: 2rem;
+            }
+
+            .footer-grid {
+                grid-template-columns: 1fr;
+                text-align: center;
+                gap: 1.5rem;
+            }
+
+            .social-links {
+                justify-content: center;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .contact-form {
+                padding: 1.5rem;
+            }
+
+            .contact-info {
+                padding: 1.5rem;
+            }
+        }
+    </style>
 </head>
 <body>
     <header class="header">
         <div class="nav-container">
-            <a href="index.html" class="logo">🌿 Wellness Guide</a>
+            <a href="index.html" class="logo">The Modern Guide</a>
             <nav class="nav-links">
                 <a href="index.html">Home</a>
                 <a href="blog.html">Blog</a>
                 <a href="about.html">About</a>
-                <a href="contact.html" class="active">Contact</a>
                 <a href="privacy.html">Privacy</a>
+                <a href="contact.html" class="active">Contact</a>
             </nav>
         </div>
     </header>
 
-    <main class="container">
-        <h2 style="text-align: center; margin-top: 2rem;">Get in Touch</h2>
-        <p style="text-align: center; margin-bottom: 2rem;">Have a question, collaboration idea, or just want to say hi? I'd love to hear from you!</p>
+    <main class="container contact-page">
+        <div class="contact-header">
+            <h1>Get in <span>Touch</span></h1>
+            <p>Have questions, collaboration ideas, or feedback? We'd love to hear from you.</p>
+        </div>
         
-        <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 3rem; margin-bottom: 3rem;">
-            <!-- Contact Form - FIXED FORMSPREE URL -->
-            <form class="contact-form" action="https://formspree.io/f/xdalrqrp" method="POST" style="background: #f9f9f9; padding: 2rem; border-radius: 12px;">
-                <div style="margin-bottom: 1.5rem;">
-                    <label for="name" style="display: block; margin-bottom: 0.5rem; font-weight: 500;">Your Name</label>
-                    <input type="text" id="name" name="name" required style="width: 100%; padding: 0.75rem; border: 1px solid #ddd; border-radius: 8px;">
+        <div class="contact-wrapper">
+            <form class="contact-form" id="contactForm" action="https://formspree.io/f/xdalrqrp" method="POST">
+                <div class="form-group">
+                    <label for="name">Your Name</label>
+                    <input type="text" id="name" name="name" required>
                 </div>
                 
-                <div style="margin-bottom: 1.5rem;">
-                    <label for="email" style="display: block; margin-bottom: 0.5rem; font-weight: 500;">Your Email</label>
-                    <input type="email" id="email" name="email" required style="width: 100%; padding: 0.75rem; border: 1px solid #ddd; border-radius: 8px;">
+                <div class="form-group">
+                    <label for="email">Your Email</label>
+                    <input type="email" id="email" name="email" required>
                 </div>
                 
-                <div style="margin-bottom: 1.5rem;">
-                    <label for="subject" style="display: block; margin-bottom: 0.5rem; font-weight: 500;">Subject</label>
-                    <select id="subject" name="subject" style="width: 100%; padding: 0.75rem; border: 1px solid #ddd; border-radius: 8px;">
+                <div class="form-group">
+                    <label for="subject">Subject</label>
+                    <select id="subject" name="subject">
                         <option>Collaboration</option>
                         <option>Question about a post</option>
+                        <option>Feedback</option>
                         <option>Just saying hi</option>
                         <option>Other</option>
                     </select>
                 </div>
                 
-                <div style="margin-bottom: 1.5rem;">
-                    <label for="message" style="display: block; margin-bottom: 0.5rem; font-weight: 500;">Your Message</label>
-                    <textarea id="message" name="message" rows="6" required style="width: 100%; padding: 0.75rem; border: 1px solid #ddd; border-radius: 8px;"></textarea>
+                <div class="form-group">
+                    <label for="message">Your Message</label>
+                    <textarea id="message" name="message" rows="6" required></textarea>
                 </div>
                 
                 <input type="text" name="_gotcha" style="display:none">
                 <input type="hidden" name="_next" value="https://yourdomain.com/thank-you.html">
-                <input type="hidden" name="_subject" value="New message from Wellness Guide">
+                <input type="hidden" name="_subject" value="New message from The Modern Guide">
                 
-                <button type="submit" style="background: #2E7D32; color: white; padding: 1rem 2rem; border: none; border-radius: 8px; cursor: pointer; font-size: 1rem; width: 100%;">Send Message 💌</button>
+                <button type="submit" class="submit-btn">Send Message 💌</button>
+                <div id="formStatus" class="form-status"></div>
             </form>
             
-           
-
-               
-            </div>
+            
         </div>
     </main>
 
@@ -71,8 +436,8 @@
         <div class="container">
             <div class="footer-grid">
                 <div class="footer-section">
-                    <h4>Wellness Guide</h4>
-                    <p>Your trusted resource for evidence-based health and wellness information.</p>
+                    <h4>The Modern Guide</h4>
+                    <p>Discover. Learn. Grow. Expert articles, practical guides, and honest reviews.</p>
                 </div>
                 <div class="footer-section">
                     <h4>Quick Links</h4>
@@ -81,11 +446,59 @@
                     <a href="blog.html">Blog</a>
                     <a href="contact.html">Contact</a>
                 </div>
+                <div class="footer-section">
+                    <h4>Disclosure</h4>
+                    <p>This site contains affiliate links. We only recommend products we genuinely believe in.</p>
+                </div>
             </div>
+
+            <div class="footer-disclosure">
+                <p>⚠️ <strong>Disclosure:</strong> This post contains affiliate links. If you purchase through these links, I may earn a commission at no extra cost to you. I only recommend products I genuinely believe in. <a href="privacy.html">Learn more</a></p>
+            </div>
+
             <div class="copyright">
-                <p>&copy; 2024 Wellness Guide. All rights reserved.</p>
+                <p>&copy; 2024 The Modern Guide. All rights reserved.</p>
             </div>
         </div>
     </footer>
+
+    <script>
+        const form = document.getElementById('contactForm');
+        const statusDiv = document.getElementById('formStatus');
+        
+        if (form) {
+            form.addEventListener('submit', async function(e) {
+                e.preventDefault();
+                
+                statusDiv.textContent = 'Sending...';
+                statusDiv.className = 'form-status';
+                
+                const formData = new FormData(form);
+                
+                try {
+                    const response = await fetch(form.action, {
+                        method: 'POST',
+                        body: formData,
+                        headers: { 'Accept': 'application/json' }
+                    });
+                    
+                    if (response.ok) {
+                        statusDiv.textContent = '✅ Message sent successfully! We\'ll get back to you soon.';
+                        statusDiv.className = 'form-status success';
+                        form.reset();
+                    } else {
+                        throw new Error('Form submission failed');
+                    }
+                } catch (error) {
+                    statusDiv.textContent = '❌ Something went wrong. Please email us directly at hello@themodernguide.com';
+                    statusDiv.className = 'form-status error';
+                }
+                
+                setTimeout(() => {
+                    statusDiv.style.display = 'none';
+                }, 5000);
+            });
+        }
+    </script>
 </body>
 </html>
