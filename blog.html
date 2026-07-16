@@ -3,28 +3,48 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Browse our collection of evidence-based health and wellness articles.">
-    <title>Wellness Blog - Health Articles</title>
+    <meta name="description" content="Browse our collection of expert articles, practical guides, and honest product reviews across technology, AI, health, productivity, finance, and everyday life.">
+    <title>Blog - The Modern Guide</title>
     
     <style>
-        /* ===== BUILT-IN CSS FOR BLOG PAGE ===== */
+        /* ===== MODERN GUIDE - BLOG PAGE CSS ===== */
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
         }
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            background: #fff;
+        :root {
+            --primary: #2563EB;
+            --primary-hover: #1D4ED8;
+            --secondary: #60A5FA;
+            --accent: #F97316;
+            --text: #1F2937;
+            --text-light: #4B5563;
+            --background: #FFFFFF;
+            --light-bg: #F8FAFC;
+            --gray-border: #E2E8F0;
+            --shadow: 0 2px 10px rgba(37, 99, 235, 0.08);
+            --shadow-hover: 0 5px 20px rgba(37, 99, 235, 0.15);
+            --transition: 0.3s ease;
         }
 
-        /* Header */
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            line-height: 1.6;
+            color: var(--text);
+            background: var(--background);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
         .header {
-            background: #fff;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            background: var(--background);
+            box-shadow: var(--shadow);
             position: sticky;
             top: 0;
             z-index: 100;
@@ -43,45 +63,62 @@
         .logo {
             font-size: 1.5rem;
             font-weight: bold;
-            color: #2E7D32;
+            color: var(--primary);
             text-decoration: none;
+            transition: all var(--transition);
+        }
+
+        .logo:hover {
+            color: var(--primary-hover);
         }
 
         .nav-links a {
-            color: #333;
+            color: var(--text);
             text-decoration: none;
             margin-left: 2rem;
             font-weight: 500;
-            transition: color 0.3s;
+            transition: all var(--transition);
+            position: relative;
         }
 
-        .nav-links a:hover,
-        .nav-links a.active {
-            color: #2E7D32;
+        .nav-links a::after {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 0;
+            height: 2px;
+            background: var(--primary);
+            transition: width var(--transition);
         }
 
-        /* Container */
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 20px;
+        .nav-links a:hover::after,
+        .nav-links a.active::after {
+            width: 100%;
         }
 
-        /* Page Title */
+        .nav-links a:hover {
+            color: var(--primary);
+        }
+
         .page-title {
             text-align: center;
-            font-size: 2.5rem;
-            color: #1B5E20;
+            font-size: 2.8rem;
             margin: 2rem 0 0.5rem;
+            color: var(--text);
+        }
+
+        .page-title span {
+            color: var(--primary);
         }
 
         .page-subtitle {
             text-align: center;
-            color: #666;
+            color: var(--text-light);
             margin-bottom: 2rem;
+            font-size: 1.1rem;
         }
 
-        /* Posts Grid */
         .posts-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -90,24 +127,30 @@
         }
 
         .post-card {
-            background: #fff;
+            background: var(--background);
             border-radius: 12px;
             overflow: hidden;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-            transition: transform 0.3s, box-shadow 0.3s;
-            border: 1px solid #eee;
+            box-shadow: var(--shadow);
+            transition: all var(--transition);
+            border: 1px solid var(--gray-border);
         }
 
         .post-card:hover {
             transform: translateY(-5px);
-            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+            box-shadow: var(--shadow-hover);
         }
 
         .post-image {
             height: 200px;
             background-size: cover;
             background-position: center;
-            background-color: #f5f5f5;
+            background-color: var(--gray-border);
+            transition: transform var(--transition);
+            overflow: hidden;
+        }
+
+        .post-card:hover .post-image {
+            transform: scale(1.03);
         }
 
         .post-content {
@@ -116,11 +159,12 @@
 
         .post-category {
             display: inline-block;
-            background: #4CAF50;
+            background: var(--primary);
             color: white;
             padding: 0.25rem 0.75rem;
             border-radius: 20px;
-            font-size: 0.85rem;
+            font-size: 0.8rem;
+            font-weight: 500;
             margin-bottom: 0.75rem;
         }
 
@@ -131,43 +175,48 @@
 
         .post-title a {
             text-decoration: none;
-            color: #1B5E20;
-            transition: color 0.3s;
+            color: var(--text);
+            transition: color var(--transition);
         }
 
         .post-title a:hover {
-            color: #2E7D32;
+            color: var(--primary);
         }
 
         .post-meta {
             font-size: 0.9rem;
-            color: #888;
+            color: var(--text-light);
             margin-bottom: 1rem;
             display: flex;
             gap: 1rem;
         }
 
         .post-excerpt {
-            color: #666;
+            color: var(--text-light);
             margin-bottom: 1rem;
             line-height: 1.5;
         }
 
         .read-more {
             display: inline-block;
-            color: #2E7D32;
+            color: var(--primary);
             text-decoration: none;
-            font-weight: 500;
-            transition: padding-left 0.3s;
+            font-weight: 600;
+            transition: all var(--transition);
         }
 
         .read-more:hover {
             padding-left: 5px;
         }
 
-        /* Footer */
+        .loading {
+            text-align: center;
+            padding: 3rem;
+            color: var(--text-light);
+        }
+
         .footer {
-            background: #1B5E20;
+            background: var(--text);
             color: white;
             padding: 3rem 0 1.5rem;
             margin-top: 3rem;
@@ -187,7 +236,8 @@
 
         .footer-section p {
             color: rgba(255,255,255,0.8);
-            font-size: 0.9rem;
+            font-size: 0.95rem;
+            line-height: 1.6;
         }
 
         .footer-section a {
@@ -195,9 +245,37 @@
             text-decoration: none;
             display: block;
             margin-bottom: 0.5rem;
+            transition: all var(--transition);
         }
 
         .footer-section a:hover {
+            color: var(--secondary);
+            transform: translateX(5px);
+        }
+
+        .footer-disclosure {
+            background: rgba(255,255,255,0.05);
+            border-top: 1px solid rgba(255,255,255,0.1);
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            padding: 0.75rem 1rem;
+            margin: 1.5rem 0;
+            border-radius: 4px;
+            text-align: center;
+        }
+
+        .footer-disclosure p {
+            margin: 0;
+            color: rgba(255,255,255,0.7);
+            font-size: 0.85rem;
+            line-height: 1.5;
+        }
+
+        .footer-disclosure a {
+            color: var(--secondary);
+            text-decoration: underline;
+        }
+
+        .footer-disclosure a:hover {
             color: white;
         }
 
@@ -205,40 +283,42 @@
             text-align: center;
             padding-top: 2rem;
             border-top: 1px solid rgba(255,255,255,0.1);
-            font-size: 0.9rem;
             color: rgba(255,255,255,0.6);
+            font-size: 0.9rem;
         }
 
-        /* Loading State */
-        .loading {
-            text-align: center;
-            padding: 3rem;
-            color: #888;
-        }
-
-        /* Responsive */
         @media (max-width: 768px) {
             .nav-container {
                 flex-direction: column;
                 gap: 1rem;
             }
-            
+
             .nav-links a {
                 margin: 0 1rem;
             }
-            
+
             .page-title {
                 font-size: 2rem;
             }
-            
+
             .footer-grid {
                 grid-template-columns: 1fr;
                 text-align: center;
                 gap: 1.5rem;
             }
-            
+
             .posts-grid {
                 grid-template-columns: 1fr;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .page-title {
+                font-size: 1.6rem;
+            }
+
+            .post-title {
+                font-size: 1.1rem;
             }
         }
     </style>
@@ -246,7 +326,7 @@
 <body>
     <header class="header">
         <div class="nav-container">
-            <a href="index.html" class="logo">🌿 Wellness Guide</a>
+            <a href="index.html" class="logo">The Modern Guide</a>
             <nav class="nav-links">
                 <a href="index.html">Home</a>
                 <a href="blog.html" class="active">Blog</a>
@@ -258,8 +338,8 @@
     </header>
 
     <main class="container">
-        <h1 class="page-title">Health & Wellness Blog</h1>
-        <p class="page-subtitle">Practical, evidence-based articles to support your journey</p>
+        <h1 class="page-title">Discover. <span>Learn.</span> Grow.</h1>
+        <p class="page-subtitle">Expert articles, practical guides, and honest reviews across technology, AI, health, productivity, finance, and everyday life.</p>
         
         <div id="posts-container" class="posts-grid">
             <div class="loading">Loading articles...</div>
@@ -270,8 +350,8 @@
         <div class="container">
             <div class="footer-grid">
                 <div class="footer-section">
-                    <h4>Wellness Guide</h4>
-                    <p>Your trusted resource for evidence-based health and wellness information.</p>
+                    <h4>The Modern Guide</h4>
+                    <p>Discover. Learn. Grow. Expert articles, practical guides, and honest reviews.</p>
                 </div>
                 <div class="footer-section">
                     <h4>Quick Links</h4>
@@ -285,12 +365,17 @@
                     <p>This site contains affiliate links. We only recommend products we genuinely believe in.</p>
                 </div>
             </div>
+
+            <div class="footer-disclosure">
+                <p>⚠️ <strong>Disclosure:</strong> This post contains affiliate links. If you purchase through these links, I may earn a commission at no extra cost to you. I only recommend products I genuinely believe in. <a href="privacy.html">Learn more</a></p>
+            </div>
+
             <div class="copyright">
-                <p>&copy; 2024 Wellness Guide. All rights reserved.</p>
+                <p>&copy; 2024 The Modern Guide. All rights reserved.</p>
             </div>
         </div>
     </footer>
 
-    <script src="script.js"></script>
+    <script src="script.js" defer></script>
 </body>
 </html>
