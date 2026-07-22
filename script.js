@@ -14051,6 +14051,863 @@ const posts = [
         <p><strong>The Bottom Line:</strong> A healthy diet is important—but it's only one piece of the puzzle. These 5 pillars of wellness transformed my health. Address all of them for complete well-being.</p>
     `,
     author: "The Modern Guide"
+},
+{
+    id: 168,
+    title: "77 Easy Keto Recipes That Make Low-Carb Eating Delicious",
+    date: "August 1, 2024",
+    category: "Keto Diet",
+    readTime: "10 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwmRSt8IsyyCYY2VeoNsPuTqLCmJb6_EHK6hKuiDbKdQ&s=10",
+    excerpt: "I was bored with keto until I discovered these 77 delicious recipes. Now I actually look forward to every meal—and I've lost 25 pounds.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwmRSt8IsyyCYY2VeoNsPuTqLCmJb6_EHK6hKuiDbKdQ&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I started keto with enthusiasm but quickly got bored. Same meals every day. Chicken and broccoli. Eggs and bacon. I was ready to quit—until I discovered these 77 recipes that made keto delicious again.</p>
+        
+        <p>Now I actually look forward to every meal. I've lost 25 pounds and I'm never bored. Here's my complete recipe collection.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwmRSt8IsyyCYY2VeoNsPuTqLCmJb6_EHK6hKuiDbKdQ&s=10" alt="Keto recipes" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Keto Recipe Toolkit</h4>
+            <p>These are the ingredients I use to make delicious keto meals.</p>
+            <a href="https://www.digistore24.com/redir/452961/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Breakfast Keto Recipes (12 Recipes)</h3>
+        <ul>
+            <li><strong>Keto Egg Muffins:</strong> Eggs, cheese, bacon, spinach—baked in muffin tins</li>
+            <li><strong>Avocado Egg Boats:</strong> Avocado halves with baked eggs</li>
+            <li><strong>Keto Pancakes:</strong> Almond flour, eggs, cream cheese</li>
+            <li><strong>Keto Waffles:</strong> Cheesy, crispy waffles</li>
+            <li><strong>Keto Breakfast Burrito:</strong> Low-carb tortilla with eggs and fillings</li>
+            <li><strong>Keto Smoothie Bowl:</strong> Berries, avocado, protein powder</li>
+            <li><strong>Keto Chia Pudding:</strong> Chia seeds, coconut milk, berries</li>
+            <li><strong>Keto Frittata:</strong> Eggs, vegetables, cheese</li>
+            <li><strong>Keto French Toast:</strong> Almond flour bread, egg dip</li>
+            <li><strong>Keto Granola:</strong> Nuts, seeds, coconut oil</li>
+            <li><strong>Keto Yogurt Bowl:</strong> Full-fat yogurt with nuts and berries</li>
+            <li><strong>Keto Breakfast Casserole:</strong> Eggs, sausage, cheese</li>
+        </ul>
+        
+        <h3>Lunch Keto Recipes (15 Recipes)</h3>
+        <ul>
+            <li><strong>Keto Cobb Salad:</strong> Chicken, bacon, avocado, blue cheese</li>
+            <li><strong>Keto Chicken Salad:</strong> Shredded chicken, avocado, mayo</li>
+            <li><strong>Keto Tuna Salad:</strong> Tuna, avocado, olive oil</li>
+            <li><strong>Keto Egg Salad:</strong> Boiled eggs, avocado, mayo</li>
+            <li><strong>Keto BLT Wrap:</strong> Lettuce wrap with bacon, tomato, mayo</li>
+            <li><strong>Keto Taco Bowl:</strong> Ground beef, lettuce, cheese, avocado</li>
+            <li><strong>Keto Greek Salad:</strong> Cucumber, olives, tomato, feta</li>
+            <li><strong>Keto Caprese:</strong> Mozzarella, tomato, basil</li>
+            <li><strong>Keto Chicken Wrap:</strong> Lettuce wrap with chicken</li>
+            <li><strong>Keto Shrimp Salad:</strong> Shrimp, avocado, greens</li>
+            <li><strong>Keto Tuna Lettuce Wraps:</strong> Tuna salad in lettuce cups</li>
+            <li><strong>Keto Mediterranean Bowl:</strong> Chicken, olives, cucumber</li>
+            <li><strong>Keto Caesar Salad:</strong> Chicken, Parmesan, Caesar dressing</li>
+            <li><strong>Keto Chef Salad:</strong> Turkey, ham, cheese, egg</li>
+            <li><strong>Keto Salmon Salad:</strong> Salmon, avocado, greens</li>
+        </ul>
+        
+        <h3>Dinner Keto Recipes (20 Recipes)</h3>
+        <ul>
+            <li><strong>Keto Salmon:</strong> Grilled salmon with lemon butter</li>
+            <li><strong>Keto Steak:</strong> Ribeye or sirloin with butter</li>
+            <li><strong>Keto Chicken Thighs:</strong> Crispy skin, juicy meat</li>
+            <li><strong>Keto Pork Chops:</strong> Pan-seared with garlic butter</li>
+            <li><strong>Keto Shrimp Scampi:</strong> Shrimp, garlic, butter, zucchini noodles</li>
+            <li><strong>Keto Chicken Alfredo:</strong> Creamy sauce with zucchini noodles</li>
+            <li><strong>Keto Meatballs:</strong> Almond flour and Parmesan</li>
+            <li><strong>Keto Turkey Burgers:</strong> Lettuce wrap burgers</li>
+            <li><strong>Keto Zucchini Lasagna:</strong> Zucchini noodles layered with meat sauce</li>
+            <li><strong>Keto Taco Casserole:</strong> Ground beef, cheese, salsa</li>
+            <li><strong>Keto Chicken Soup:</strong> Chicken, vegetables, broth</li>
+            <li><strong>Keto Beef Stew:</strong> Beef, mushrooms, onions</li>
+            <li><strong>Keto Pork Rinds Chicken:</strong> Breaded with crushed pork rinds</li>
+            <li><strong>Keto Fish Tacos:</strong> Lettuce wraps with fish</li>
+            <li><strong>Keto Meatloaf:</strong> Almond flour instead of breadcrumbs</li>
+            <li><strong>Keto Stuffed Peppers:</strong> Peppers filled with meat and cheese</li>
+            <li><strong>Keto Chicken Parmesan:</strong> Breaded with almond flour</li>
+            <li><strong>Keto Lamb Chops:</strong> Grilled with rosemary</li>
+            <li><strong>Keto Butter Chicken:</strong> Creamy Indian curry</li>
+            <li><strong>Keto Thai Curry:</strong> Coconut milk, curry paste, vegetables</li>
+        </ul>
+        
+        <h3>Side Dish Keto Recipes (15 Recipes)</h3>
+        <ul>
+            <li><strong>Keto Cauliflower Rice:</strong> Grated cauliflower, sautéed</li>
+            <li><strong>Keto Mashed Cauliflower:</strong> Creamy, buttery alternative</li>
+            <li><strong>Keto Zucchini Noodles:</strong> Spiralized zucchini</li>
+            <li><strong>Keto Green Beans:</strong> Sautéed with garlic butter</li>
+            <li><strong>Keto Brussels Sprouts:</strong> Roasted with bacon</li>
+            <li><strong>Keto Asparagus:</strong> Roasted with Parmesan</li>
+            <li><strong>Keto Broccoli:</strong> Steamed with cheese sauce</li>
+            <li><strong>Keto Coleslaw:</strong> Cabbage, mayo, vinegar</li>
+            <li><strong>Keto Deviled Eggs:</strong> Classic favorite</li>
+            <li><strong>Keto Bacon Wrapped Asparagus:</strong> Baked until crispy</li>
+            <li><strong>Keto Creamed Spinach:</strong> Creamy, cheesy</li>
+            <li><strong>Keto Cauliflower Mac and Cheese:</strong> Low-carb comfort food</li>
+            <li><strong>Keto Stuffed Mushrooms:</strong> Filled with cheese and herbs</li>
+            <li><strong>Keto Avocado Fries:</strong> Baked avocado wedges</li>
+            <li><strong>Keto Pickles:</strong> Crispy, tangy</li>
+        </ul>
+        
+        <h3>Dessert Keto Recipes (15 Recipes)</h3>
+        <ul>
+            <li><strong>Keto Cheesecake:</strong> Classic, creamy</li>
+            <li><strong>Keto Chocolate Mousse:</strong> Rich and satisfying</li>
+            <li><strong>Keto Brownies:</strong> Fudgy, chocolatey</li>
+            <li><strong>Keto Cookies:</strong> Almond flour base</li>
+            <li><strong>Keto Mug Cake:</strong> 1-minute individual dessert</li>
+            <li><strong>Keto Panna Cotta:</strong> Creamy Italian dessert</li>
+            <li><strong>Keto Chocolate Cake:</strong> Rich, decadent</li>
+            <li><strong>Keto Lemon Bars:</strong> Tangy and sweet</li>
+            <li><strong>Keto Peanut Butter Cups:</strong> Sugar-free chocolate</li>
+            <li><strong>Keto Ice Cream:</strong> Creamy, low-carb</li>
+            <li><strong>Keto Truffles:</strong> Rolled in cocoa powder</li>
+            <li><strong>Keto Fruit Tart:</strong> Almond flour crust</li>
+            <li><strong>Keto Tiramisu:</strong> Coffee-flavored</li>
+            <li><strong>Keto Cinnamon Rolls:</strong> Warm, gooey</li>
+            <li><strong>Keto Pumpkin Pie:</strong> Fall favorite</li>
+        </ul>
+        
+        <h3>My Keto Recipe Journey</h3>
+        <ul>
+            <li><strong>Before:</strong> Bored with same meals, ready to quit</li>
+            <li><strong>After:</strong> Excited about food, variety of meals</li>
+            <li><strong>Results:</strong> Lost 25 pounds, never bored</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Keto doesn't have to be boring. These 77 recipes kept me excited about food while losing weight. Start with 5-10 recipes and build your collection.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 169,
+    title: "The Ultimate Keto Meal Plan for Busy Beginners",
+    date: "July 30, 2024",
+    category: "Keto Diet",
+    readTime: "9 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqKBoXPn-FSlkIDXdWEEbN-5ygEHz-0sXpRKdo0RjpGw&s=10",
+    excerpt: "I was overwhelmed starting keto. This simple 7-day meal plan made it easy—even with a busy schedule. Everything takes 30 minutes or less.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqKBoXPn-FSlkIDXdWEEbN-5ygEHz-0sXpRKdo0RjpGw&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Starting keto felt overwhelming. I had no idea what to eat, how to meal prep, or if I could stick to it with my busy schedule. I almost gave up before starting.</p>
+        
+        <p>Then I created this simple 7-day meal plan. Every meal takes 30 minutes or less. It's beginner-friendly, delicious, and helped me lose 10 pounds in my first month.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqKBoXPn-FSlkIDXdWEEbN-5ygEHz-0sXpRKdo0RjpGw&s=10" alt="Keto meal plan" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Keto Meal Prep Toolkit</h4>
+            <p>These are the tools and ingredients I use for quick keto meals.</p>
+            <a href="https://www.digistore24.com/redir/452961/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Day 1: Getting Started</h3>
+        <p><strong>Breakfast:</strong> Scrambled eggs with spinach and cheese</p>
+        <p><strong>Lunch:</strong> Chicken salad with avocado and greens</p>
+        <p><strong>Dinner:</strong> Grilled salmon with asparagus</p>
+        <p><strong>Snack:</strong> Handful of almonds</p>
+        
+        <h3>Day 2: Building Momentum</h3>
+        <p><strong>Breakfast:</strong> Keto smoothie (berries, avocado, protein powder)</p>
+        <p><strong>Lunch:</strong> Tuna salad lettuce wraps</p>
+        <p><strong>Dinner:</strong> Steak with cauliflower mash</p>
+        <p><strong>Snack:</strong> Cheese cubes</p>
+        
+        <h3>Day 3: Finding Your Rhythm</h3>
+        <p><strong>Breakfast:</strong> Keto pancakes with berries</p>
+        <p><strong>Lunch:</strong> Greek salad with chicken</p>
+        <p><strong>Dinner:</strong> Keto taco bowl (ground beef, cheese, avocado)</p>
+        <p><strong>Snack:</strong> Hard-boiled eggs</p>
+        
+        <h3>Day 4: Midweek Reset</h3>
+        <p><strong>Breakfast:</strong> Scrambled eggs with mushrooms</p>
+        <p><strong>Lunch:</strong> Leftover taco bowl</p>
+        <p><strong>Dinner:</strong> Zucchini noodles with shrimp and garlic butter</p>
+        <p><strong>Snack:</strong> Pork rinds</p>
+        
+        <h3>Day 5: Staying Strong</h3>
+        <p><strong>Breakfast:</strong> Greek yogurt with berries</p>
+        <p><strong>Lunch:</strong> Chicken Caesar salad</p>
+        <p><strong>Dinner:</strong> Keto meatballs with zucchini noodles</p>
+        <p><strong>Snack:</strong> Macadamia nuts</p>
+        
+        <h3>Day 6: Weekend Prep</h3>
+        <p><strong>Breakfast:</strong> Avocado egg boats</p>
+        <p><strong>Lunch:</strong> Cobb salad</p>
+        <p><strong>Dinner:</strong> Grilled chicken with roasted vegetables</p>
+        <p><strong>Snack:</strong> Celery with cream cheese</p>
+        
+        <h3>Day 7: Review and Prep</h3>
+        <p><strong>Breakfast:</strong> Keto waffles with cream</p>
+        <p><strong>Lunch:</strong> Leftovers</p>
+        <p><strong>Dinner:</strong> Butter chicken with cauliflower rice</p>
+        <p><strong>Snack:</strong> Olives</p>
+        
+        <h3>My Weekly Meal Prep Strategy</h3>
+        <ul>
+            <li><strong>Sunday:</strong> Cook proteins for the week</li>
+            <li><strong>Daily:</strong> 15-minute quick meals</li>
+            <li><strong>Always on hand:</strong> Eggs, avocado, greens, protein</li>
+            <li><strong>Quick snacks:</strong> Nuts, cheese, hard-boiled eggs</li>
+        </ul>
+        
+        <h3>My First Month Results</h3>
+        <ul>
+            <li><strong>Weight:</strong> Lost 10 lbs</li>
+            <li><strong>Energy:</strong> Improved significantly</li>
+            <li><strong>Cravings:</strong> Reduced by 80%</li>
+            <li><strong>Meal prep time:</strong> Under 30 minutes daily</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Keto can be simple, even with a busy schedule. This 7-day meal plan takes the guesswork out of starting keto. Follow it for your first week and adjust from there.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 170,
+    title: "Healthy Keto Foods You Should Always Keep at Home",
+    date: "July 28, 2024",
+    category: "Keto Diet",
+    readTime: "7 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBxmiqhu9Jhe5wihUoEVzn7vXz-P0YIzHZ6ebPiC_LiQ&s",
+    excerpt: "I learned the hard way that keto success starts with a well-stocked kitchen. These are the 25 keto foods I always keep at home for quick, healthy meals.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBxmiqhu9Jhe5wihUoEVzn7vXz-P0YIzHZ6ebPiC_LiQ&s');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I'd come home hungry, craving something quick—only to realize I had no keto-friendly food in the house. I'd end up eating something I shouldn't. That's when I created my keto pantry.</p>
+        
+        <p>These 25 keto foods are always in my kitchen. They make meal prep easy and help me stay on track even on busy days.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBxmiqhu9Jhe5wihUoEVzn7vXz-P0YIzHZ6ebPiC_LiQ&s" alt="Keto pantry" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Keto Pantry Toolkit</h4>
+            <p>These are the staples I always keep in my kitchen for keto success.</p>
+            <a href="https://www.digistore24.com/redir/452961/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Protein Sources (7 Essentials)</h3>
+        <ul>
+            <li><strong>Eggs:</strong> Versatile, quick, perfect for any meal</li>
+            <li><strong>Chicken:</strong> Whole chicken, breasts, or thighs</li>
+            <li><strong>Salmon:</strong> Fresh or canned for quick meals</li>
+            <li><strong>Ground beef:</strong> 80/20 for best flavor</li>
+            <li><strong>Shrimp:</strong> Quick-cooking and versatile</li>
+            <li><strong>Bacon:</strong> Adds flavor to any meal</li>
+            <li><strong>Pork rinds:</strong> Perfect for snacking and breading</li>
+        </ul>
+        
+        <h3>Vegetables (5 Essentials)</h3>
+        <ul>
+            <li><strong>Leafy greens:</strong> Spinach, lettuce, kale</li>
+            <li><strong>Broccoli:</strong> Great for roasting or steaming</li>
+            <li><strong>Cauliflower:</strong> Rice, mash, or roasted</li>
+            <li><strong>Zucchini:</strong> Noodles, roasted, or grilled</li>
+            <li><strong>Asparagus:</strong> Quick and delicious roasted</li>
+        </ul>
+        
+        <h3>Healthy Fats (5 Essentials)</h3>
+        <ul>
+            <li><strong>Avocado:</strong> Creamy and nutrient-dense</li>
+            <li><strong>Olive oil:</strong> For cooking and dressings</li>
+            <li><strong>Coconut oil:</strong> High-heat cooking</li>
+            <li><strong>Butter:</strong> Grass-fed if possible</li>
+            <li><strong>Nuts and seeds:</strong> Almonds, walnuts, chia seeds, flaxseed</li>
+        </ul>
+        
+        <h3>Pantry Staples (8 Essentials)</h3>
+        <ul>
+            <li><strong>Almond flour:</strong> For baking and breading</li>
+            <li><strong>Coconut flour:</strong> For baking and thickening</li>
+            <li><strong>Shredded cheese:</strong> Cheddar, mozzarella, Parmesan</li>
+            <li><strong>Cream cheese:</strong> Versatile for recipes</li>
+            <li><strong>Heavy cream:</strong> For coffee, sauces, and desserts</li>
+            <li><strong>Unsweetened almond milk:</strong> Dairy-free option</li>
+            <li><strong>Spices:</strong> Salt, pepper, garlic powder, paprika</li>
+            <li><strong>Lemon:</strong> For flavor and freshness</li>
+        </ul>
+        
+        <h3>My Keto Shopping Tips</h3>
+        <ul>
+            <li><strong>Shop the perimeter:</strong> Meat, dairy, produce sections</li>
+            <li><strong>Read labels:</strong> Look for hidden sugars and carbs</li>
+            <li><strong>Buy in bulk:</strong> Almond flour, nuts, and seeds</li>
+            <li><strong>Meal plan:</strong> Buy only what you need for the week</li>
+            <li><strong>Prep ahead:</strong> Wash and chop vegetables on weekends</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> A well-stocked kitchen is the foundation of keto success. These 25 foods ensure you always have keto-friendly options ready to go.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 171,
+    title: "The Best Homemade Keto Bread Recipes for Every Day",
+    date: "July 26, 2024",
+    category: "Keto Diet",
+    readTime: "8 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_W_ykb7scroDJPMB_rPPDX2Fq2uN-sMcsSwOWI1nJTA&s=10",
+    excerpt: "I missed bread more than anything on keto. These 5 homemade keto bread recipes finally satisfied my cravings—without the carbs.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_W_ykb7scroDJPMB_rPPDX2Fq2uN-sMcsSwOWI1nJTA&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Bread was the hardest thing to give up on keto. Sandwiches, toast, grilled cheese—I missed them all. I tried store-bought keto bread, but it was expensive and often dry.</p>
+        
+        <p>After lots of trial and error, I finally perfected these 5 homemade keto bread recipes. They're easy to make, delicious, and satisfy bread cravings without the carbs.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_W_ykb7scroDJPMB_rPPDX2Fq2uN-sMcsSwOWI1nJTA&s=10" alt="Keto bread" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Keto Bread Toolkit</h4>
+            <p>These ingredients help me make the perfect keto bread at home.</p>
+            <a href="https://ketobreads.net/ds/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Recipe #1: Classic Keto Sandwich Bread</h3>
+        <p><strong>Ingredients:</strong> Almond flour, eggs, butter, baking powder, salt.</p>
+        <p><strong>Why it's great:</strong> Tastes like real bread. Perfect for sandwiches and toast.</p>
+        <p><strong>My experience:</strong> This became my go-to bread for sandwiches. I use it for toast with avocado or eggs.</p>
+        
+        <h3>Recipe #2: Keto Garlic Bread</h3>
+        <p><strong>Ingredients:</strong> Almond flour, eggs, butter, garlic, Parmesan.</p>
+        <p><strong>Why it's great:</strong> Crispy, buttery, and packed with garlic flavor. Perfect with pasta.</p>
+        <p><strong>My experience:</strong> I make this when I'm craving something warm and savory. It's always a hit.</p>
+        
+        <h3>Recipe #3: Keto Cheese Bread (No Flour)</h3>
+        <p><strong>Ingredients:</strong> Mozzarella, cream cheese, eggs, almond flour.</p>
+        <p><strong>Why it's great:</strong> Cheesy, soft, and satisfying. Zero carb guilt.</p>
+        <p><strong>My experience:</strong> This is my favorite bread for grilled cheese sandwiches. It's incredible.</p>
+        
+        <h3>Recipe #4: Keto English Muffins</h3>
+        <p><strong>Ingredients:</strong> Almond flour, eggs, baking powder, butter.</p>
+        <p><strong>Why it's great:</strong> Perfect for breakfast sandwiches or avocado toast.</p>
+        <p><strong>My experience:</strong> I make these on weekends for a special breakfast treat.</p>
+        
+        <h3>Recipe #5: Keto Flatbread (Tortilla Substitute)</h3>
+        <p><strong>Ingredients:</strong> Almond flour, coconut flour, eggs, olive oil.</p>
+        <p><strong>Why it's great:</strong> Versatile—use for wraps, pizzas, or dipping.</p>
+        <p><strong>My experience:</strong> I use this for quick pizza bases and sandwich wraps.</p>
+        
+        <h3>My Keto Bread Tips</h3>
+        <ul>
+            <li><strong>Use room temperature ingredients:</strong> They mix better</li>
+            <li><strong>Don't overbake:</strong> Keto bread dries out quickly</li>
+            <li><strong>Store properly:</strong> Refrigerate or freeze for freshness</li>
+            <li><strong>Toast before eating:</strong> Brings back the fresh-baked texture</li>
+            <li><strong>Experiment with flavors:</strong> Add herbs, seeds, or cheese</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> You don't have to give up bread on keto. These 5 homemade recipes satisfied my bread cravings and kept me on track. Start with the classic sandwich bread—it's the easiest.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 172,
+    title: "5 Common Keto Bread Mistakes Beginners Make",
+    date: "July 24, 2024",
+    category: "Keto Diet",
+    readTime: "7 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMvy_UtDmsMkpLKXXgAkbBuF7yE9zoR8XNtKt-yfW8-g&s=10",
+    excerpt: "I failed at keto bread 5 times before I got it right. Here are the common mistakes I made—and how to avoid them for perfect keto bread every time.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMvy_UtDmsMkpLKXXgAkbBuF7yE9zoR8XNtKt-yfW8-g&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>My first keto bread was a disaster. Dry, crumbly, and flavorless. My second attempt wasn't much better. I almost gave up completely.</p>
+        
+        <p>After 5 failed attempts, I finally figured out the mistakes I was making. Now I bake perfect keto bread every time. Here's what I learned.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMvy_UtDmsMkpLKXXgAkbBuF7yE9zoR8XNtKt-yfW8-g&s=10" alt="Keto bread mistakes" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Keto Bread Success Toolkit</h4>
+            <p>These tips and tools helped me bake perfect keto bread.</p>
+            <a href="https://ketobreads.net/ds/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Mistake #1: Using Almond Flour That's Too Coarse</h3>
+        <p><strong>The problem:</strong> Coarse almond flour creates dense, gritty bread.</p>
+        <p><strong>The fix:</strong> Use finely ground blanched almond flour. It makes a huge difference.</p>
+        
+        <h3>Mistake #2: Overmixing the Batter</h3>
+        <p><strong>The problem:</strong> Overmixing develops too much gluten and makes bread tough.</p>
+        <p><strong>The fix:</strong> Mix until just combined. Stop when you see flour streaks disappearing.</p>
+        
+        <h3>Mistake #3: Not Using Baking Powder Correctly</h3>
+        <p><strong>The problem:</strong> Using old baking powder or too little results in flat bread.</p>
+        <p><strong>The fix:</strong> Use fresh baking powder and measure carefully. 1-2 teaspoons per recipe.</p>
+        
+        <h3>Mistake #4: Overbaking</h3>
+        <p><strong>The problem:</strong> Keto bread dries out quickly when overbaked.</p>
+        <p><strong>The fix:</strong> Check for doneness early. Use a toothpick—it should come out clean.</p>
+        
+        <h3>Mistake #5: Not Letting It Cool</h3>
+        <p><strong>The problem:</strong> Cutting into hot bread causes it to crumble and fall apart.</p>
+        <p><strong>The fix:</strong> Let bread cool completely before slicing. Patience is key.</p>
+        
+        <h3>My Keto Bread Success Story</h3>
+        <ul>
+            <li><strong>Attempt 1:</strong> Dry, crumbly, flavorless</li>
+            <li><strong>Attempt 2:</strong> Dense, didn't rise</li>
+            <li><strong>Attempt 3:</strong> Gritty texture, burned</li>
+            <li><strong>Attempt 4:</strong> Better but still dense</li>
+            <li><strong>Attempt 5:</strong> Perfect—light, fluffy, delicious</li>
+        </ul>
+        
+        <h3>My Perfect Keto Bread Routine</h3>
+        <ul>
+            <li><strong>Use blanched almond flour:</strong> Finely ground for best texture</li>
+            <li><strong>Mix gently:</strong> Just until combined</li>
+            <li><strong>Check baking powder:</strong> Ensure it's fresh</li>
+            <li><strong>Bake until just done:</strong> Don't overbake</li>
+            <li><strong>Cool completely:</strong> Let it rest before slicing</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Perfect keto bread is possible. Avoid these 5 common mistakes and you'll be baking delicious low-carb bread in no time.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 173,
+    title: "Low-Carb Bread Ideas for Healthy Breakfasts",
+    date: "July 22, 2024",
+    category: "Keto Diet",
+    readTime: "6 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoNPhohVrRnysfyGgsd2AvdC-R_zADLyd8YKZbGnCUyg&s=10",
+    excerpt: "I missed breakfast sandwiches and toast on keto. These 10 low-carb breakfast ideas gave me my morning favorites back—without the carbs.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoNPhohVrRnysfyGgsd2AvdC-R_zADLyd8YKZbGnCUyg&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Breakfast was the hardest meal on keto. I missed toast, bagels, and breakfast sandwiches. I thought I'd never enjoy morning food again.</p>
+        
+        <p>Then I discovered these 10 low-carb breakfast ideas. They gave me my morning favorites back—without the carbs. Here's what I eat now.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoNPhohVrRnysfyGgsd2AvdC-R_zADLyd8YKZbGnCUyg&s=10" alt="Low-carb breakfast" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Low-Carb Breakfast Toolkit</h4>
+            <p>These are the ingredients I use for quick, delicious keto breakfasts.</p>
+            <a href="https://ketobreads.net/ds/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Idea #1: Keto Avocado Toast</h3>
+        <p>Toasted keto bread topped with mashed avocado, salt, pepper, and red pepper flakes.</p>
+        
+        <h3>Idea #2: Keto Breakfast Sandwich</h3>
+        <p>Keto English muffin with eggs, bacon, and cheese.</p>
+        
+        <h3>Idea #3: Keto French Toast</h3>
+        <p>Keto bread dipped in egg and cinnamon mixture, fried until golden.</p>
+        
+        <h3>Idea #4: Keto Bagel with Cream Cheese</h3>
+        <p>Keto bagel topped with cream cheese and smoked salmon.</p>
+        
+        <h3>Idea #5: Keto Breakfast Wrap</h3>
+        <p>Low-carb tortilla with eggs, avocado, cheese, and bacon.</p>
+        
+        <h3>Idea #6: Keto Egg and Cheese Muffins</h3>
+        <p>Scrambled eggs with cheese and vegetables, baked in muffin tins.</p>
+        
+        <h3>Idea #7: Keto Toast with Peanut Butter</h3>
+        <p>Keto toast topped with sugar-free peanut butter.</p>
+        
+        <h3>Idea #8: Keto Breakfast Quesadilla</h3>
+        <p>Low-carb tortilla with eggs, cheese, and fillings.</p>
+        
+        <h3>Idea #9: Keto Breakfast Pizza</h3>
+        <p>Keto flatbread topped with eggs, cheese, and vegetables.</p>
+        
+        <h3>Idea #10: Keto Toast with Egg</h3>
+        <p>Keto toast with a runny egg on top—simple and satisfying.</p>
+        
+        <h3>My Breakfast Transformation</h3>
+        <ul>
+            <li><strong>Before:</strong> Missed toast, bagels, sandwiches</li>
+            <li><strong>After:</strong> Enjoying keto versions of favorites</li>
+            <li><strong>Results:</strong> Satisfied cravings, stayed on track</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> You don't have to give up breakfast favorites on keto. These 10 low-carb ideas gave me my morning meals back. Start with 1-2 ideas and find your favorites.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 174,
+    title: "How Keto Can Support Healthy Living After 50",
+    date: "July 20, 2024",
+    category: "Keto Diet",
+    readTime: "8 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg3kVew-mqLa8jD3KqCvQ1irujxznl5tR8c-w8wDK0uw&s=10",
+    excerpt: "After 50, I struggled with weight, energy, and joint pain. Keto transformed my health—and I discovered it's especially beneficial for adults over 50.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg3kVew-mqLa8jD3KqCvQ1irujxznl5tR8c-w8wDK0uw&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Turning 50 brought changes I wasn't prepared for. Weight crept up. Energy plummeted. Joint pain became constant. I thought this was just "getting older."</p>
+        
+        <p>Then I discovered keto. Within 6 months, I lost 20 pounds, my energy returned, and my joint pain significantly reduced. Here's why keto supports healthy living after 50.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg3kVew-mqLa8jD3KqCvQ1irujxznl5tR8c-w8wDK0uw&s=10" alt="Keto after 50" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Keto After 50 Toolkit</h4>
+            <p>These are the keto foods and strategies that worked best for me after 50.</p>
+            <a href="https://www.digistore24.com/redir/292685/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Why Keto Works After 50</h3>
+        
+        <h4>1. Hormone Balance</h4>
+        <p>Keto supports hormone balance, which naturally declines with age. Stable blood sugar means fewer cravings and better energy.</p>
+        
+        <h4>2. Reduced Inflammation</h4>
+        <p>Chronic inflammation increases with age. Keto reduces inflammation through lower sugar and processed food intake.</p>
+        
+        <h4>3. Brain Health</h4>
+        <p>Keto supports cognitive function by providing ketones—an efficient fuel source for the brain.</p>
+        
+        <h4>4. Muscle Preservation</h4>
+        <p>Keto helps preserve muscle mass when combined with adequate protein intake.</p>
+        
+        <h4>5. Joint Health</h4>
+        <p>Reduced inflammation and weight loss both support joint health and reduce pain.</p>
+        
+        <h3>My 50+ Keto Journey</h3>
+        <ul>
+            <li><strong>Weight:</strong> Lost 20 lbs in 6 months</li>
+            <li><strong>Energy:</strong> From 4/10 to 8/10</li>
+            <li><strong>Joint pain:</strong> Reduced by 60%</li>
+            <li><strong>Mental clarity:</strong> Improved significantly</li>
+            <li><strong>Overall:</strong> Feeling better than in my 40s</li>
+        </ul>
+        
+        <h3>My Keto After 50 Tips</h3>
+        <ul>
+            <li><strong>Prioritize protein:</strong> 1.2-1.6g per kg body weight</li>
+            <li><strong>Include vegetables:</strong> At every meal for fiber and nutrients</li>
+            <li><strong>Stay hydrated:</strong> Electrolytes are especially important</li>
+            <li><strong>Listen to your body:</strong> Adjust based on how you feel</li>
+            <li><strong>Be patient:</strong> Results take time—trust the process</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Keto can support healthy living after 50. It helped me lose weight, regain energy, and reduce joint pain. If you're considering keto, it's worth exploring.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 175,
+    title: "Simple Low-Carb Habits That Work After Age 50",
+    date: "July 18, 2024",
+    category: "Keto Diet",
+    readTime: "7 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmujtSp0rvx9oidYXm7Hvuw3wEpSmm8rIvXyH70EAjcw&s=10",
+    excerpt: "After 50, I found that simple low-carb habits worked better than complex diets. These 10 habits helped me lose weight and feel great without stressing.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmujtSp0rvx9oidYXm7Hvuw3wEpSmm8rIvXyH70EAjcw&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Complex diets didn't work after 50. I couldn't handle complicated meal plans or extreme restrictions. I needed simple habits I could stick to.</p>
+        
+        <p>These 10 simple low-carb habits worked for me. No complicated rules—just daily habits that made a difference.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmujtSp0rvx9oidYXm7Hvuw3wEpSmm8rIvXyH70EAjcw&s=10" alt="Low-carb habits" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Low-Carb Habit Toolkit</h4>
+            <p>These are the simple habits that helped me succeed after 50.</p>
+            <a href="https://www.digistore24.com/redir/292685/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Habit #1: Start Each Meal with Protein</h3>
+        <p>Protein first ensures you get enough and reduces cravings for carbs.</p>
+        
+        <h3>Habit #2: Add Vegetables to Every Meal</h3>
+        <p>Vegetables provide fiber and nutrients without many carbs.</p>
+        
+        <h3>Habit #3: Stop Eating 3 Hours Before Bed</h3>
+        <p>Gives your body time to digest and improves sleep quality.</p>
+        
+        <h3>Habit #4: Drink Water Before Meals</h3>
+        <p>Helps with digestion and prevents overeating.</p>
+        
+        <h3>Habit #5: Eat Slowly</h3>
+        <p>Allows your brain to register fullness before you overeat.</p>
+        
+        <h3>Habit #6: Plan Snacks Ahead</h3>
+        <p>Keep nuts, cheese, or hard-boiled eggs ready for hunger.</p>
+        
+        <h3>Habit #7: Read Food Labels</h3>
+        <p>Know what you're eating—hidden carbs are everywhere.</p>
+        
+        <h3>Habit #8: Walk After Meals</h3>
+        <p>10-minute walk supports digestion and blood sugar.</p>
+        
+        <h3>Habit #9: Get Morning Sunlight</h3>
+        <p>Supports circadian rhythm and vitamin D.</p>
+        
+        <h3>Habit #10: Be Flexible</h3>
+        <p>Perfection isn't required—just consistency.</p>
+        
+        <h3>My 90-Day Results</h3>
+        <ul>
+            <li><strong>Weight:</strong> Lost 15 lbs</li>
+            <li><strong>Energy:</strong> Improved significantly</li>
+            <li><strong>Cravings:</strong> Reduced by 70%</li>
+            <li><strong>Consistency:</strong> 90% success rate</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Simple habits work better than complex diets after 50. These 10 habits helped me lose weight and feel great without stress.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 176,
+    title: "The Best Keto Foods for Adults Over 50",
+    date: "July 16, 2024",
+    category: "Keto Diet",
+    readTime: "7 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oR8af08LTMwgUxZtRz35Skzw3rN-exSdcVqjjyiJ5A&s=10",
+    excerpt: "After 50, nutrient needs change. These are the best keto foods for adults over 50—nutrient-dense, satisfying, and supportive of healthy aging.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oR8af08LTMwgUxZtRz35Skzw3rN-exSdcVqjjyiJ5A&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>After 50, I realized my body needed different nutrients. I needed foods that supported bone health, brain function, and muscle preservation—not just weight loss.</p>
+        
+        <p>These are the best keto foods for adults over 50. They're nutrient-dense, satisfying, and supportive of healthy aging.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oR8af08LTMwgUxZtRz35Skzw3rN-exSdcVqjjyiJ5A&s=10" alt="Keto foods over 50" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Keto Over 50 Toolkit</h4>
+            <p>These are the nutrient-dense foods I eat regularly.</p>
+            <a href="https://www.digistore24.com/redir/292685/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Protein Sources for Over 50</h3>
+        <ul>
+            <li><strong>Salmon:</strong> Omega-3s for brain and joint health</li>
+            <li><strong>Sardines:</strong> Calcium and omega-3s</li>
+            <li><strong>Eggs:</strong> Protein and choline for brain health</li>
+            <li><strong>Chicken:</strong> Lean protein for muscle preservation</li>
+            <li><strong>Grass-fed beef:</strong> Protein and nutrients</li>
+        </ul>
+        
+        <h3>Vegetables for Over 50</h3>
+        <ul>
+            <li><strong>Leafy greens:</strong> Calcium and magnesium for bone health</li>
+            <li><strong>Broccoli:</strong> Fiber and vitamin C</li>
+            <li><strong>Cauliflower:</strong> Versatile and nutrient-dense</li>
+            <li><strong>Avocado:</strong> Healthy fats and potassium</li>
+            <li><strong>Zucchini:</strong> Low-carb and hydrating</li>
+        </ul>
+        
+        <h3>Healthy Fats for Over 50</h3>
+        <ul>
+            <li><strong>Olive oil:</strong> Heart-healthy fats</li>
+            <li><strong>Avocado oil:</strong> High-heat cooking</li>
+            <li><strong>Nuts:</strong> Healthy fats and nutrients</li>
+            <li><strong>Seeds:</strong> Chia, flax, pumpkin—fiber and minerals</li>
+            <li><strong>Fish oil:</strong> Omega-3s for brain and joint health</li>
+        </ul>
+        
+        <h3>Essential Nutrients After 50</h3>
+        <ul>
+            <li><strong>Vitamin D:</strong> Supports bone health and immunity</li>
+            <li><strong>Vitamin B12:</strong> Supports nerve function and energy</li>
+            <li><strong>Magnesium:</strong> Supports muscle function and sleep</li>
+            <li><strong>Calcium:</strong> Supports bone density</li>
+            <li><strong>Omega-3s:</strong> Supports brain and joint health</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> After 50, nutrient density matters. These keto foods provide the nutrients needed for healthy aging. Focus on protein, healthy fats, and vegetables.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 177,
+    title: "What Is Carb Rotation and How Does It Work for Women Over 45?",
+    date: "July 15, 2024",
+    category: "Nutrition",
+    readTime: "8 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnZ6zPjk1Cs9b-LoekQ33Xj51bSreB2oKYdPuVkHq4ow&s=10",
+    excerpt: "I discovered carb rotation at 47 and it changed everything. Here's how cycling carbs helped me lose weight and balance hormones after 45.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnZ6zPjk1Cs9b-LoekQ33Xj51bSreB2oKYdPuVkHq4ow&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>At 47, I hit a wall. Nothing worked for weight loss—and I was tired of feeling tired. Then I discovered carb rotation, and everything changed.</p>
+        
+        <p>Here's how carb rotation works and why it's effective for women over 45.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnZ6zPjk1Cs9b-LoekQ33Xj51bSreB2oKYdPuVkHq4ow&s=10" alt="Carb rotation" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Carb Rotation Toolkit</h4>
+            <p>These resources helped me implement carb rotation effectively.</p>
+            <a href="https://digistore.harmoniabybeatrix.com/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What Is Carb Rotation?</h3>
+        <p>Carb rotation is a strategy where you alternate between low-carb and higher-carb days. It prevents metabolic slowdown, supports hormone balance, and makes long-term dieting easier.</p>
+        
+        <h3>How It Works</h3>
+        <ul>
+            <li><strong>Low-carb days:</strong> 20-50g net carbs</li>
+            <li><strong>Moderate-carb days:</strong> 50-100g net carbs</li>
+            <li><strong>High-carb days:</strong> 100-150g net carbs (timed with exercise)</li>
+        </ul>
+        
+        <h3>Why It Works for Women Over 45</h3>
+        <ul>
+            <li><strong>Hormone balance:</strong> Supports thyroid and adrenal function</li>
+            <li><strong>Metabolic health:</strong> Prevents metabolic slowdown</li>
+            <li><strong>Sustainability:</strong> Makes dieting easier long-term</li>
+            <li><strong>Stress reduction:</strong> Less diet stress</li>
+            <li><strong>Exercise performance:</strong> Carbs fuel workouts</li>
+        </ul>
+        
+        <h3>My 12-Week Carb Rotation Schedule</h3>
+        <ul>
+            <li><strong>Monday:</strong> Low-carb (20-30g)</li>
+            <li><strong>Tuesday:</strong> Low-carb (20-30g)</li>
+            <li><strong>Wednesday:</strong> Moderate-carb (50-75g)</li>
+            <li><strong>Thursday:</strong> Low-carb (20-30g)</li>
+            <li><strong>Friday:</strong> Low-carb (20-30g)</li>
+            <li><strong>Saturday:</strong> Moderate-carb (75-100g)</li>
+            <li><strong>Sunday:</strong> High-carb (100-150g)</li>
+        </ul>
+        
+        <h3>My Results</h3>
+        <ul>
+            <li><strong>Weight:</strong> Lost 12 lbs in 12 weeks</li>
+            <li><strong>Energy:</strong> Stable throughout the month</li>
+            <li><strong>Hormone balance:</strong> Improved</li>
+            <li><strong>Mood:</strong> Better, less irritable</li>
+            <li><strong>Sleep:</strong> Improved quality</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Carb rotation is a sustainable approach for women over 45. It supports hormone balance, prevents metabolic slowdown, and makes long-term health easier.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 178,
+    title: "Healthy Meal Planning Tips for Women 45+",
+    date: "July 13, 2024",
+    category: "Nutrition",
+    readTime: "7 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ThY20L_F-mm1wrzB3drjjhc73Don6gj61ENIOJ4T0g&s=10",
+    excerpt: "I struggled with meal planning after 45—until I discovered these 10 tips. They simplified my life and improved my health dramatically.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ThY20L_F-mm1wrzB3drjjhc73Don6gj61ENIOJ4T0g&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>After 45, meal planning felt overwhelming. My body needed different nutrients, and I didn't know what to eat. I was tired of making complicated meals that didn't help me feel better.</p>
+        
+        <p>These 10 meal planning tips transformed my health and simplified my life.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ThY20L_F-mm1wrzB3drjjhc73Don6gj61ENIOJ4T0g&s=10" alt="Meal planning" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Meal Planning Toolkit</h4>
+            <p>These tips and tools helped me plan healthy meals after 45.</p>
+            <a href="https://digistore.harmoniabybeatrix.com/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Tip #1: Start with Protein</h3>
+        <p>Plan protein first—it's essential for muscle preservation and fullness.</p>
+        
+        <h3>Tip #2: Add Vegetables</h3>
+        <p>Vegetables provide fiber, nutrients, and volume with few calories.</p>
+        
+        <h3>Tip #3: Include Healthy Fats</h3>
+        <p>Fats support hormone production and brain function.</p>
+        
+        <h3>Tip #4: Batch Cook</h3>
+        <p>Cook larger portions to save time and effort throughout the week.</p>
+        
+        <h3>Tip #5: Use Simple Recipes</h3>
+        <p>5 ingredients or less—simple is sustainable.</p>
+        
+        <h3>Tip #6: Prep Ingredients</h3>
+        <p>Wash, chop, and store vegetables in advance.</p>
+        
+        <h3>Tip #7: Include Snacks</h3>
+        <p>Plan healthy snacks to prevent cravings and overeating.</p>
+        
+        <h3>Tip #8: Stay Hydrated</h3>
+        <p>Water is essential for health—drink throughout the day.</p>
+        
+        <h3>Tip #9: Listen to Your Body</h3>
+        <p>Eat when hungry, stop when satisfied.</p>
+        
+        <h3>Tip #10: Be Flexible</h3>
+        <p>Plans change—adapt and keep going.</p>
+        
+        <h3>My Meal Planning Transformation</h3>
+        <ul>
+            <li><strong>Before:</strong> Overwhelmed, inconsistent, unhealthy</li>
+            <li><strong>After:</strong> Simple, consistent, healthy</li>
+            <li><strong>Results:</strong> Better energy, better health</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Meal planning doesn't have to be complicated. These 10 tips simplified my life and improved my health after 45.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 179,
+    title: "7 Nutrition Habits That Support Healthy Living After 45",
+    date: "July 11, 2024",
+    category: "Nutrition",
+    readTime: "7 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBgDpi0Bdvll9r8DUSFrXxlbq7JbkVuuAfFt807zkO5A&s=10",
+    excerpt: "After 45, I needed to change my nutrition habits. These 7 habits supported my health, energy, and well-being more than any diet ever did.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBgDpi0Bdvll9r8DUSFrXxlbq7JbkVuuAfFt807zkO5A&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>At 45, I realized my body was changing. What worked in my 30s didn't work anymore. I needed new nutrition habits—and these 7 changed everything.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBgDpi0Bdvll9r8DUSFrXxlbq7JbkVuuAfFt807zkO5A&s=10" alt="Nutrition habits" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Nutrition Toolkit</h4>
+            <p>These habits supported my health after 45.</p>
+            <a href="https://digistore.harmoniabybeatrix.com/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Habit #1: Prioritize Protein</h3>
+        <p>Protein supports muscle preservation, metabolism, and fullness.</p>
+        
+        <h3>Habit #2: Eat the Rainbow</h3>
+        <p>Different colored vegetables provide different nutrients.</p>
+        
+        <h3>Habit #3: Healthy Fats</h3>
+        <p>Include avocado, olive oil, nuts, and seeds daily.</p>
+        
+        <h3>Habit #4: Hydrate</h3>
+        <p>2.5-3 liters water daily—essential for health.</p>
+        
+        <h3>Habit #5: Reduce Sugar</h3>
+        <p>Limit added sugar—it affects energy and health.</p>
+        
+        <h3>Habit #6: Eat Mindfully</h3>
+        <p>Slow down, pay attention to food, enjoy meals.</p>
+        
+        <h3>Habit #7: Consistency Over Perfection</h3>
+        <p>Consistent good habits beat occasional perfection.</p>
+        
+        <h3>My 90-Day Results</h3>
+        <ul>
+            <li><strong>Energy:</strong> Improved significantly</li>
+            <li><strong>Weight:</strong> Lost 10 lbs</li>
+            <li><strong>Digestion:</strong> Improved</li>
+            <li><strong>Overall:</strong> Feeling healthier and more vibrant</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> These 7 nutrition habits supported my health after 45. Simple, consistent habits made all the difference.</p>
+    `,
+    author: "The Modern Guide"
 }
 
 
