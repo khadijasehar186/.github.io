@@ -14908,6 +14908,778 @@ const posts = [
         <p><strong>The Bottom Line:</strong> These 7 nutrition habits supported my health after 45. Simple, consistent habits made all the difference.</p>
     `,
     author: "The Modern Guide"
+},
+{
+    id: 180,
+    title: "25 High-Protein Smoothie Recipes for All-Day Energy",
+    date: "August 5, 2024",
+    category: "Smoothies & Nutrition",
+    readTime: "9 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxYoxgu8R6EdTSsbs0cSlxK1_Dk3bFaC_9NKkq-CncsQ&s=10",
+    excerpt: "I struggled with afternoon energy crashes until I started drinking these 25 high-protein smoothies. They keep me full and energized all day long.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxYoxgu8R6EdTSsbs0cSlxK1_Dk3bFaC_9NKkq-CncsQ&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I was tired of afternoon crashes. I'd eat lunch and then feel sluggish for hours. No amount of coffee helped. Then I started making high-protein smoothies—and everything changed.</p>
+        
+        <p>These 25 recipes keep me full and energized all day. Each one packs 20-30g of protein. Here's my complete collection.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxYoxgu8R6EdTSsbs0cSlxK1_Dk3bFaC_9NKkq-CncsQ&s=10" alt="Protein smoothies" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Protein Smoothie Toolkit</h4>
+            <p>These are the ingredients I use for high-protein smoothies.</p>
+            <a href="https://www.checkout-ds24.com/redir/644621/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Berry Protein Smoothies (5 Recipes)</h3>
+        
+        <h4>1. Triple Berry Blast</h4>
+        <p><strong>Ingredients:</strong> 1 cup mixed berries, 1 scoop vanilla protein, 1 cup almond milk, 1 tbsp chia seeds</p>
+        <p><strong>Protein:</strong> 25g</p>
+        
+        <h4>2. Strawberry Banana Protein</h4>
+        <p><strong>Ingredients:</strong> 1 cup strawberries, 1/2 banana, 1 scoop vanilla protein, 1 cup milk</p>
+        <p><strong>Protein:</strong> 22g</p>
+        
+        <h4>3. Blueberry Almond Smoothie</h4>
+        <p><strong>Ingredients:</strong> 1 cup blueberries, 1 tbsp almond butter, 1 scoop vanilla protein, 1 cup almond milk</p>
+        <p><strong>Protein:</strong> 24g</p>
+        
+        <h4>4. Raspberry Coconut Protein</h4>
+        <p><strong>Ingredients:</strong> 1 cup raspberries, 1/2 cup coconut milk, 1 scoop vanilla protein, 1 tbsp hemp seeds</p>
+        <p><strong>Protein:</strong> 23g</p>
+        
+        <h4>5. Cherry Chocolate Protein</h4>
+        <p><strong>Ingredients:</strong> 1 cup cherries, 1 tbsp cocoa powder, 1 scoop chocolate protein, 1 cup oat milk</p>
+        <p><strong>Protein:</strong> 24g</p>
+        
+        <h3>Green Protein Smoothies (5 Recipes)</h3>
+        
+        <h4>6. Green Power Smoothie</h4>
+        <p><strong>Ingredients:</strong> 1 cup spinach, 1/2 banana, 1 scoop vanilla protein, 1 cup almond milk</p>
+        <p><strong>Protein:</strong> 22g</p>
+        
+        <h4>7. Kale & Berry Protein</h4>
+        <p><strong>Ingredients:</strong> 1 cup kale, 1 cup berries, 1 scoop vanilla protein, 1 cup coconut water</p>
+        <p><strong>Protein:</strong> 23g</p>
+        
+        <h4>8. Avocado Green Protein</h4>
+        <p><strong>Ingredients:</strong> 1/2 avocado, 1 cup spinach, 1 scoop vanilla protein, 1 cup almond milk</p>
+        <p><strong>Protein:</strong> 22g</p>
+        
+        <h4>9. Minty Green Protein</h4>
+        <p><strong>Ingredients:</strong> 1 cup spinach, 1/2 cup mint, 1/2 banana, 1 scoop vanilla protein, 1 cup water</p>
+        <p><strong>Protein:</strong> 20g</p>
+        
+        <h4>10. Cucumber Lime Protein</h4>
+        <p><strong>Ingredients:</strong> 1/2 cucumber, 1/2 lime, 1/2 banana, 1 scoop vanilla protein, 1 cup coconut water</p>
+        <p><strong>Protein:</strong> 20g</p>
+        
+        <h3>Tropical Protein Smoothies (5 Recipes)</h3>
+        
+        <h4>11. Piña Colada Protein</h4>
+        <p><strong>Ingredients:</strong> 1 cup pineapple, 1/4 cup coconut milk, 1 scoop vanilla protein, 1 cup almond milk</p>
+        <p><strong>Protein:</strong> 22g</p>
+        
+        <h4>12. Mango Tango Protein</h4>
+        <p><strong>Ingredients:</strong> 1 cup mango, 1/2 banana, 1 scoop vanilla protein, 1 cup oat milk</p>
+        <p><strong>Protein:</strong> 21g</p>
+        
+        <h4>13. Tropical Sunrise</h4>
+        <p><strong>Ingredients:</strong> 1 cup pineapple, 1/2 mango, 1 scoop vanilla protein, 1 cup coconut milk</p>
+        <p><strong>Protein:</strong> 22g</p>
+        
+        <h4>14. Passionfruit Protein</h4>
+        <p><strong>Ingredients:</strong> 1 passionfruit, 1/2 banana, 1 scoop vanilla protein, 1 cup orange juice</p>
+        <p><strong>Protein:</strong> 20g</p>
+        
+        <h4>15. Coconut Lime Protein</h4>
+        <p><strong>Ingredients:</strong> 1/2 cup coconut milk, 1/2 lime, 1/2 banana, 1 scoop vanilla protein, 1 cup water</p>
+        <p><strong>Protein:</strong> 21g</p>
+        
+        <h3>Chocolate Protein Smoothies (5 Recipes)</h3>
+        
+        <h4>16. Chocolate Peanut Butter</h4>
+        <p><strong>Ingredients:</strong> 1 tbsp peanut butter, 1 tbsp cocoa, 1 scoop chocolate protein, 1 cup milk</p>
+        <p><strong>Protein:</strong> 25g</p>
+        
+        <h4>17. Chocolate Banana Protein</h4>
+        <p><strong>Ingredients:</strong> 1/2 banana, 1 tbsp cocoa, 1 scoop chocolate protein, 1 cup almond milk</p>
+        <p><strong>Protein:</strong> 23g</p>
+        
+        <h4>18. Chocolate Almond Protein</h4>
+        <p><strong>Ingredients:</strong> 1 tbsp almond butter, 1 tbsp cocoa, 1 scoop chocolate protein, 1 cup oat milk</p>
+        <p><strong>Protein:</strong> 24g</p>
+        
+        <h4>19. Double Chocolate Protein</h4>
+        <p><strong>Ingredients:</strong> 1 tbsp cocoa, 1 tbsp chocolate chips, 1 scoop chocolate protein, 1 cup milk</p>
+        <p><strong>Protein:</strong> 24g</p>
+        
+        <h4>20. Chocolate Mint Protein</h4>
+        <p><strong>Ingredients:</strong> 1 tbsp cocoa, 1/2 tsp mint extract, 1 scoop chocolate protein, 1 cup almond milk</p>
+        <p><strong>Protein:</strong> 22g</p>
+        
+        <h3>Nut Butter Protein Smoothies (5 Recipes)</h3>
+        
+        <h4>21. Peanut Butter Banana</h4>
+        <p><strong>Ingredients:</strong> 1 tbsp peanut butter, 1/2 banana, 1 scoop vanilla protein, 1 cup milk</p>
+        <p><strong>Protein:</strong> 25g</p>
+        
+        <h4>22. Almond Butter Berry</h4>
+        <p><strong>Ingredients:</strong> 1 tbsp almond butter, 1 cup berries, 1 scoop vanilla protein, 1 cup almond milk</p>
+        <p><strong>Protein:</strong> 24g</p>
+        
+        <h4>23. Cashew Butter Protein</h4>
+        <p><strong>Ingredients:</strong> 1 tbsp cashew butter, 1/2 banana, 1 scoop vanilla protein, 1 cup oat milk</p>
+        <p><strong>Protein:</strong> 23g</p>
+        
+        <h4>24. Sunflower Butter Protein</h4>
+        <p><strong>Ingredients:</strong> 1 tbsp sunflower butter, 1 cup berries, 1 scoop vanilla protein, 1 cup almond milk</p>
+        <p><strong>Protein:</strong> 22g</p>
+        
+        <h4>25. Tahini Date Protein</h4>
+        <p><strong>Ingredients:</strong> 1 tbsp tahini, 2 dates, 1 scoop vanilla protein, 1 cup oat milk</p>
+        <p><strong>Protein:</strong> 21g</p>
+        
+        <h3>My Protein Smoothie Tips</h3>
+        <ul>
+            <li><strong>Use quality protein powder:</strong> Whey, pea, or collagen all work</li>
+            <li><strong>Add healthy fats:</strong> Avocado, nut butters, or chia seeds</li>
+            <li><strong>Choose unsweetened milk:</strong> Reduces sugar intake</li>
+            <li><strong>Prep ingredients:</strong> Freeze fruit for quick blending</li>
+            <li><strong>Balance flavors:</strong> Sweet and tart combinations work best</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> These 25 high-protein smoothies kept me full and energized all day. Start with 3-5 favorites and build your collection.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 181,
+    title: "The Ultimate Green Smoothie Guide for Weight Loss & Wellness",
+    date: "August 3, 2024",
+    category: "Smoothies & Nutrition",
+    readTime: "8 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuGXlZ_s_siUvSb4g1hvjfb3cbDUxGClXgy5TIEgsqAA&s=10",
+    excerpt: "I discovered the power of green smoothies for weight loss and wellness. This complete guide covers everything—recipes, tips, and how to make them taste amazing.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuGXlZ_s_siUvSb4g1hvjfb3cbDUxGClXgy5TIEgsqAA&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I used to gag at the thought of green smoothies. They looked unappealing and I assumed they tasted like grass. But after discovering the right combinations, they became my favorite meal.</p>
+        
+        <p>Green smoothies helped me lose 12 pounds and feel more energetic. This guide covers everything you need to know.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuGXlZ_s_siUvSb4g1hvjfb3cbDUxGClXgy5TIEgsqAA&s=10" alt="Green smoothies" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Green Smoothie Toolkit</h4>
+            <p>These ingredients help me make delicious green smoothies.</p>
+            <a href="https://www.checkout-ds24.com/redir/644621/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Why Green Smoothies Work for Weight Loss</h3>
+        <ul>
+            <li><strong>High fiber:</strong> Keeps you full longer</li>
+            <li><strong>Low calorie:</strong> Nutrient-dense without excess calories</li>
+            <li><strong>Blood sugar control:</strong> Greens stabilize blood sugar</li>
+            <li><strong>Hydration:</strong> High water content supports metabolism</li>
+            <li><strong>Nutrient density:</strong> Packed with vitamins and minerals</li>
+        </ul>
+        
+        <h3>The Perfect Green Smoothie Formula</h3>
+        <ul>
+            <li><strong>1 cup greens:</strong> Spinach, kale, or mixed greens</li>
+            <li><strong>1 cup liquid:</strong> Water, almond milk, coconut water</li>
+            <li><strong>1/2 cup fruit:</strong> Banana, berries, mango, pineapple</li>
+            <li><strong>1 tbsp healthy fat:</strong> Avocado, chia seeds, flaxseed</li>
+            <li><strong>Optional protein:</strong> Protein powder, Greek yogurt</li>
+        </ul>
+        
+        <h3>10 Best Green Smoothie Recipes</h3>
+        
+        <h4>1. Classic Green Glow</h4>
+        <p>Spinach + banana + apple + almond milk + chia seeds</p>
+        
+        <h4>2. Tropical Green</h4>
+        <p>Kale + mango + pineapple + coconut water</p>
+        
+        <h4>3. Berry Green</h4>
+        <p>Spinach + mixed berries + banana + almond milk</p>
+        
+        <h4>4. Minty Green</h4>
+        <p>Spinach + cucumber + mint + lime + water</p>
+        
+        <h4>5. Avocado Green</h4>
+        <p>Kale + avocado + banana + almond milk</p>
+        
+        <h4>6. Ginger Green</h4>
+        <p>Spinach + apple + ginger + lemon + water</p>
+        
+        <h4>7. Protein Green</h4>
+        <p>Spinach + berries + banana + protein powder</p>
+        
+        <h4>8. Coconut Green</h4>
+        <p>Kale + pineapple + coconut milk + lime</p>
+        
+        <h4>9. Citrus Green</h4>
+        <p>Spinach + orange + grapefruit + water</p>
+        
+        <h4>10. Nutty Green</h4>
+        <p>Spinach + banana + almond butter + almond milk</p>
+        
+        <h3>My Green Smoothie Tips</h3>
+        <ul>
+            <li><strong>Use frozen fruit:</strong> Creates creamy texture</li>
+            <li><strong>Start with mild greens:</strong> Spinach is the most neutral</li>
+            <li><strong>Sweeten naturally:</strong> Banana or dates work well</li>
+            <li><strong>Add ginger:</strong> Reduces green taste</li>
+            <li><strong>Don't overdo greens:</strong> Start with 1 cup and build up</li>
+        </ul>
+        
+        <h3>My 30-Day Results</h3>
+        <ul>
+            <li><strong>Weight:</strong> Lost 12 lbs</li>
+            <li><strong>Energy:</strong> Improved significantly</li>
+            <li><strong>Digestion:</strong> Improved</li>
+            <li><strong>Skin:</strong> Clearer</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Green smoothies are a powerful tool for weight loss and wellness. These recipes made them taste amazing. Start with 1-2 recipes and find your favorites.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 182,
+    title: "10 Breakfast Smoothies That Keep You Full Until Lunch",
+    date: "August 1, 2024",
+    category: "Smoothies & Nutrition",
+    readTime: "6 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk4gTPXeHHqbcoigiR6mOPZhC_1hr0tmMKZ5eMOD3zuQ&s=10",
+    excerpt: "I used to be starving by 10 AM. These 10 breakfast smoothies keep me full until lunch—no mid-morning cravings or crashes.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk4gTPXeHHqbcoigiR6mOPZhC_1hr0tmMKZ5eMOD3zuQ&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Every morning, I'd eat breakfast and then feel hungry by 10 AM. I'd snack on whatever was available—usually something unhealthy. This cycle was ruining my health and weight loss efforts.</p>
+        
+        <p>Then I discovered these 10 breakfast smoothies. Each one keeps me full until lunch—no mid-morning cravings or crashes.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk4gTPXeHHqbcoigiR6mOPZhC_1hr0tmMKZ5eMOD3zuQ&s=10" alt="Breakfast smoothies" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Breakfast Smoothie Toolkit</h4>
+            <p>These ingredients help me make filling breakfast smoothies.</p>
+            <a href="https://www.checkout-ds24.com/redir/644621/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Recipe #1: Protein Power Smoothie</h3>
+        <p><strong>Ingredients:</strong> 1 scoop protein powder, 1 banana, 1 tbsp peanut butter, 1 cup almond milk</p>
+        <p><strong>Why it fills you up:</strong> 30g protein + fiber + healthy fats</p>
+        
+        <h3>Recipe #2: Oatmeal Smoothie</h3>
+        <p><strong>Ingredients:</strong> 1/2 cup oats, 1 banana, 1 tbsp almond butter, 1 cup milk</p>
+        <p><strong>Why it fills you up:</strong> 10g fiber + complex carbs + protein</p>
+        
+        <h3>Recipe #3: Berry & Greek Yogurt</h3>
+        <p><strong>Ingredients:</strong> 1 cup berries, 1/2 cup Greek yogurt, 1/2 banana, 1 cup almond milk</p>
+        <p><strong>Why it fills you up:</strong> 20g protein + fiber</p>
+        
+        <h3>Recipe #4: Chocolate Peanut Butter</h3>
+        <p><strong>Ingredients:</strong> 1 tbsp peanut butter, 1 tbsp cocoa, 1 banana, 1 cup milk</p>
+        <p><strong>Why it fills you up:</strong> Protein + healthy fats + fiber</p>
+        
+        <h3>Recipe #5: Green Protein Smoothie</h3>
+        <p><strong>Ingredients:</strong> 1 cup spinach, 1 scoop protein, 1 banana, 1 cup almond milk</p>
+        <p><strong>Why it fills you up:</strong> 25g protein + fiber</p>
+        
+        <h3>Recipe #6: Chia Seed Smoothie</h3>
+        <p><strong>Ingredients:</strong> 2 tbsp chia seeds, 1 banana, 1 cup berries, 1 cup milk</p>
+        <p><strong>Why it fills you up:</strong> 10g fiber + omega-3s</p>
+        
+        <h3>Recipe #7: Avocado Smoothie</h3>
+        <p><strong>Ingredients:</strong> 1/2 avocado, 1 banana, 1 scoop protein, 1 cup almond milk</p>
+        <p><strong>Why it fills you up:</strong> Healthy fats + 20g protein</p>
+        
+        <h3>Recipe #8: Nut Butter & Banana</h3>
+        <p><strong>Ingredients:</strong> 1 tbsp nut butter, 1 banana, 1 scoop protein, 1 cup milk</p>
+        <p><strong>Why it fills you up:</strong> 25g protein + healthy fats</p>
+        
+        <h3>Recipe #9: Tropical Protein</h3>
+        <p><strong>Ingredients:</strong> 1 cup pineapple, 1/2 mango, 1 scoop protein, 1 cup coconut milk</p>
+        <p><strong>Why it fills you up:</strong> 22g protein + fiber</p>
+        
+        <h3>Recipe #10: Oat & Berry Smoothie</h3>
+        <p><strong>Ingredients:</strong> 1/2 cup oats, 1 cup berries, 1 scoop protein, 1 cup almond milk</p>
+        <p><strong>Why it fills you up:</strong> Fiber + 20g protein</p>
+        
+        <h3>My Results</h3>
+        <ul>
+            <li><strong>Before:</strong> Hungry by 10 AM, snacks</li>
+            <li><strong>After:</strong> Full until lunch, no cravings</li>
+            <li><strong>Weight loss:</strong> Lost 8 lbs in 6 weeks</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> These breakfast smoothies keep me full until lunch. Start with 2-3 recipes and find your favorites.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 183,
+    title: "15 Easy Chair Yoga Exercises for Beginners at Home",
+    date: "August 7, 2024",
+    category: "Chair Yoga",
+    readTime: "8 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1hI6_JPGbN5riEOB4ZVaXcXmj4Kb2CmdsFqWw4NH_KQ&s",
+    excerpt: "I discovered chair yoga when I couldn't do regular yoga anymore. These 15 exercises are gentle, beginner-friendly, and can be done entirely from a chair.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1hI6_JPGbN5riEOB4ZVaXcXmj4Kb2CmdsFqWw4NH_KQ&s');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>When I couldn't do regular yoga anymore, I felt defeated. My body just couldn't get down on the floor. Then I discovered chair yoga—and it changed everything.</p>
+        
+        <p>These 15 exercises are gentle, beginner-friendly, and can be done entirely from a chair. They improved my flexibility, reduced my stress, and made me feel better.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1hI6_JPGbN5riEOB4ZVaXcXmj4Kb2CmdsFqWw4NH_KQ&s" alt="Chair yoga" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Chair Yoga Toolkit</h4>
+            <p>These are the chair yoga exercises I do daily.</p>
+            <a href="https://www.checkout-ds24.com/redir/595485/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Warm-Up Exercises (3 Exercises)</h3>
+        
+        <h4>1. Neck Rolls</h4>
+        <p>Slowly roll your head in a circle. 5 times each direction. Relieves neck tension.</p>
+        
+        <h4>2. Shoulder Shrugs</h4>
+        <p>Shrug shoulders up to ears, hold 3 seconds, release. Repeat 10 times.</p>
+        
+        <h4>3. Torso Twists</h4>
+        <p>Gently twist your upper body to the right, hold 5 seconds. Repeat left side. 5 times each side.</p>
+        
+        <h3>Upper Body Exercises (5 Exercises)</h3>
+        
+        <h4>4. Arm Raises</h4>
+        <p>Raise arms straight up, then lower. Repeat 10 times. Improves shoulder mobility.</p>
+        
+        <h4>5. Wrist Rolls</h4>
+        <p>Roll wrists in circles. 10 times each direction.</p>
+        
+        <h4>6. Arm Cross</h4>
+        <p>Cross arms at chest level, stretch, and hold. Repeat 5 times each side.</p>
+        
+        <h4>7. Shoulder Stretch</h4>
+        <p>Reach arm across chest, gently pull with other arm. Hold 30 seconds. Repeat other side.</p>
+        
+        <h4>8. Gentle Side Bends</h4>
+        <p>Bend to the right, then to the left. 5 times each side. Stretches side body.</p>
+        
+        <h3>Lower Body Exercises (4 Exercises)</h3>
+        
+        <h4>9. Seated Marches</h4>
+        <p>March in place while seated. 30 seconds. Improves circulation.</p>
+        
+        <h4>10. Ankle Rolls</h4>
+        <p>Roll ankles in circles. 10 times each direction.</p>
+        
+        <h4>11. Leg Extensions</h4>
+        <p>Straighten one leg, flex foot, hold 5 seconds. Repeat 10 times each leg.</p>
+        
+        <h4>12. Seated Squats</h4>
+        <p>Stand up and sit down slowly. 10 times. Strengthens legs.</p>
+        
+        <h3>Cool-Down Exercises (3 Exercises)</h3>
+        
+        <h4>13. Deep Breathing</h4>
+        <p>Inhale deeply for 4 counts, exhale for 6 counts. Repeat 5 times.</p>
+        
+        <h4>14. Seated Cat-Cow</h4>
+        <p>Arch back forward, then round back. 5 times. Stretches spine.</p>
+        
+        <h4>15. Final Relaxation</h4>
+        <p>Close eyes, focus on breath, relax for 2 minutes.</p>
+        
+        <h3>My 30-Day Chair Yoga Results</h3>
+        <ul>
+            <li><strong>Flexibility:</strong> Improved significantly</li>
+            <li><strong>Stress:</strong> Reduced</li>
+            <li><strong>Back pain:</strong> Reduced by 50%</li>
+            <li><strong>Energy:</strong> Improved</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Chair yoga is accessible and effective. These 15 exercises improved my flexibility and reduced my stress. Start with 3-4 exercises and build from there.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 184,
+    title: "10-Minute Chair Yoga Routine to Reduce Stress and Back Pain",
+    date: "August 6, 2024",
+    category: "Chair Yoga",
+    readTime: "7 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUSdLtSgvu6evXam1Hyv3F4k9sOPg2kVqJ7dIGUObOJQ&s=10",
+    excerpt: "I created this 10-minute chair yoga routine for busy days. It reduces stress, relieves back pain, and fits into any schedule—no mat required.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUSdLtSgvu6evXam1Hyv3F4k9sOPg2kVqJ7dIGUObOJQ&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I needed a quick way to reduce stress and back pain—but I didn't have time for a full yoga class. So I created this 10-minute chair yoga routine.</p>
+        
+        <p>It's simple, effective, and fits into any schedule. No mat required. Just a chair and 10 minutes.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUSdLtSgvu6evXam1Hyv3F4k9sOPg2kVqJ7dIGUObOJQ&s=10" alt="Chair yoga routine" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My 10-Minute Chair Yoga Toolkit</h4>
+            <p>This routine helped me reduce stress and back pain.</p>
+            <a href="https://www.checkout-ds24.com/redir/595485/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>The 10-Minute Routine</h3>
+        
+        <h4>Minute 1-2: Breathing (2 minutes)</h4>
+        <p>Inhale deeply for 4 counts, exhale for 6 counts. Repeat 5-6 times.</p>
+        
+        <h4>Minute 3: Neck Rolls (1 minute)</h4>
+        <p>Slowly roll head in circles. 5 times each direction.</p>
+        
+        <h4>Minute 4-5: Upper Back Stretch (2 minutes)</h4>
+        <p>Cross arms at chest, stretch forward. Hold 30 seconds. Repeat 2-3 times.</p>
+        
+        <h4>Minute 6: Side Stretches (1 minute)</h4>
+        <p>Bend to the right, then left. Hold 30 seconds each side.</p>
+        
+        <h4>Minute 7-8: Lower Back Relief (2 minutes)</h4>
+        <p>Gently twist to the right, hold 30 seconds. Repeat left side. 2 times each side.</p>
+        
+        <h4>Minute 9: Full Body Stretch (1 minute)</h4>
+        <p>Reach arms up, stretch whole body. Hold 30 seconds. Repeat.</p>
+        
+        <h4>Minute 10: Relaxation (1 minute)</h4>
+        <p>Close eyes, focus on breath, relax completely.</p>
+        
+        <h3>My Results</h3>
+        <ul>
+            <li><strong>Stress:</strong> Significantly reduced</li>
+            <li><strong>Back pain:</strong> Reduced by 60%</li>
+            <li><strong>Tension:</strong> Relieved</li>
+            <li><strong>Energy:</strong> Improved</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> This 10-minute chair yoga routine reduces stress and back pain. I do it daily—it only takes 10 minutes and makes a huge difference.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 185,
+    title: "Best Chair Yoga Poses for Seniors to Improve Balance & Mobility",
+    date: "August 5, 2024",
+    category: "Chair Yoga",
+    readTime: "8 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa9I4rdtnqn_4YJisyyNCTeaK3tmhl8V6ssGqaJOBKVQ&s=10",
+    excerpt: "I found these chair yoga poses helped my parents improve their balance and mobility. Here are the best poses for seniors—safe, gentle, and effective.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa9I4rdtnqn_4YJisyyNCTeaK3tmhl8V6ssGqaJOBKVQ&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I worried about my parents falling. Their balance wasn't what it used to be. They struggled with mobility. Then I found these chair yoga poses specifically designed for seniors.</p>
+        
+        <p>They're safe, gentle, and effective. Within weeks, their balance improved and they felt more confident moving.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa9I4rdtnqn_4YJisyyNCTeaK3tmhl8V6ssGqaJOBKVQ&s=10" alt="Senior chair yoga" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Senior Chair Yoga Toolkit</h4>
+            <p>These are the best chair yoga poses for seniors.</p>
+            <a href="https://www.checkout-ds24.com/redir/595485/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Best Poses for Balance</h3>
+        
+        <h4>1. Seated Mountain Pose</h4>
+        <p>Sit tall, feet flat, hands on knees. Improves posture and balance.</p>
+        
+        <h4>2. Seated Leg Lifts</h4>
+        <p>Lift one leg, hold 5 seconds, lower. Repeat 10 times each leg.</p>
+        
+        <h4>3. Seated Torso Twist</h4>
+        <p>Gently twist to the right, hold 30 seconds. Repeat left side.</p>
+        
+        <h4>4. Seated Arm Raises</h4>
+        <p>Raise arms above head, hold 5 seconds, lower. Repeat 10 times.</p>
+        
+        <h4>5. Seated Side Reach</h4>
+        <p>Reach arm to the right, hold 5 seconds. Repeat left side.</p>
+        
+        <h3>Best Poses for Mobility</h3>
+        
+        <h4>6. Seated Cat-Cow</h4>
+        <p>Arch back forward, then round back. 5 times. Improves spinal flexibility.</p>
+        
+        <h4>7. Seated Forward Fold</h4>
+        <p>Slowly fold forward, reaching toward feet. Hold 30 seconds.</p>
+        
+        <h4>8. Seated Shoulder Rolls</h4>
+        <p>Roll shoulders forward and backward. 10 times each direction.</p>
+        
+        <h4>9. Seated Ankle Rolls</h4>
+        <p>Roll ankles in circles. 10 times each direction.</p>
+        
+        <h4>10. Seated Deep Breathing</h4>
+        <p>Inhale deeply for 4 counts, exhale for 6 counts. Repeat 5 times.</p>
+        
+        <h3>Tips for Seniors</h3>
+        <ul>
+            <li><strong>Use a sturdy chair:</strong> No wheels, stable base</li>
+            <li><strong>Start slow:</strong> 5-10 minutes daily</li>
+            <li><strong>Listen to your body:</strong> Stop if anything hurts</li>
+            <li><strong>Breathe deeply:</strong> Supports relaxation</li>
+            <li><strong>Be consistent:</strong> Daily practice is best</li>
+        </ul>
+        
+        <h3>My Parents' 30-Day Results</h3>
+        <ul>
+            <li><strong>Balance:</strong> Improved significantly</li>
+            <li><strong>Mobility:</strong> Better flexibility</li>
+            <li><strong>Confidence:</strong> Increased</li>
+            <li><strong>Pain:</strong> Reduced</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> These chair yoga poses helped my parents improve their balance and mobility. They're safe, gentle, and effective for seniors.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 186,
+    title: "High-Protein Secrets: 20 Foods That Keep You Full Longer",
+    date: "August 4, 2024",
+    category: "High-Protein Nutrition",
+    readTime: "8 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDPGPHo5I6lviUD1HnHPSqDlh-P-279nasvNt4MYdUhg&s=10",
+    excerpt: "I discovered the protein secret to staying full longer. These 20 high-protein foods helped me lose weight without feeling hungry. Here's my complete list.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDPGPHo5I6lviUD1HnHPSqDlh-P-279nasvNt4MYdUhg&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I was always hungry. No matter what I ate, I'd feel hungry again within hours. Then I discovered the protein secret—eating enough protein keeps you full longer.</p>
+        
+        <p>These 20 high-protein foods helped me lose weight without feeling hungry. Here's my complete list.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDPGPHo5I6lviUD1HnHPSqDlh-P-279nasvNt4MYdUhg&s=10" alt="High-protein foods" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My High-Protein Toolkit</h4>
+            <p>These are the high-protein foods I eat daily.</p>
+            <a href="https://www.fitnoryx.com/digitaliest#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Animal Protein Sources (10 Foods)</h3>
+        <ul>
+            <li><strong>Eggs:</strong> 6g protein per egg. Versatile and filling.</li>
+            <li><strong>Chicken breast:</strong> 30g protein per 100g. Lean and satisfying.</li>
+            <li><strong>Salmon:</strong> 25g protein per 100g. Also rich in omega-3s.</li>
+            <li><strong>Tuna:</strong> 28g protein per 100g. Quick and easy.</li>
+            <li><strong>Greek yogurt:</strong> 20g protein per cup. Great for breakfast.</li>
+            <li><strong>Cottage cheese:</strong> 25g protein per cup. Low-fat option.</li>
+            <li><strong>Beef:</strong> 26g protein per 100g. Grass-fed when possible.</li>
+            <li><strong>Turkey:</strong> 28g protein per 100g. Lean and filling.</li>
+            <li><strong>Shrimp:</strong> 24g protein per 100g. Quick-cooking.</li>
+            <li><strong>Canned sardines:</strong> 25g protein per 100g. Affordable option.</li>
+        </ul>
+        
+        <h3>Plant Protein Sources (10 Foods)</h3>
+        <ul>
+            <li><strong>Lentils:</strong> 18g protein per cup. Fiber-rich and filling.</li>
+            <li><strong>Chickpeas:</strong> 15g protein per cup. Versatile and satisfying.</li>
+            <li><strong>Black beans:</strong> 15g protein per cup. High in fiber.</li>
+            <li><strong>Tofu:</strong> 20g protein per 100g. Soy-based protein.</li>
+            <li><strong>Tempeh:</strong> 21g protein per 100g. Fermented soy.</li>
+            <li><strong>Quinoa:</strong> 8g protein per cup. Complete protein.</li>
+            <li><strong>Peanut butter:</strong> 8g protein per 2 tbsp. Healthy fats.</li>
+            <li><strong>Almonds:</strong> 6g protein per 1/4 cup. Portable snack.</li>
+            <li><strong>Chia seeds:</strong> 5g protein per 2 tbsp. Also high in fiber.</li>
+            <li><strong>Hemp seeds:</strong> 10g protein per 3 tbsp. Complete protein.</li>
+        </ul>
+        
+        <h3>How Much Protein You Need</h3>
+        <ul>
+            <li><strong>Minimum:</strong> 0.8g per kg body weight</li>
+            <li><strong>Active:</strong> 1.2-1.6g per kg body weight</li>
+            <li><strong>Weight loss:</strong> 1.6-2.2g per kg body weight</li>
+            <li><strong>Example:</strong> 70kg person needs 84-112g protein daily</li>
+        </ul>
+        
+        <h3>My Protein Journey</h3>
+        <ul>
+            <li><strong>Before:</strong> 50g protein daily, always hungry</li>
+            <li><strong>After:</strong> 100g protein daily, satisfied</li>
+            <li><strong>Results:</strong> Lost 15 lbs without hunger</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Protein keeps you full longer. These 20 foods helped me lose weight without feeling hungry. Include 1-2 protein sources at every meal.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 187,
+    title: "How to Build High-Protein Meals Without Spending a Fortune",
+    date: "August 3, 2024",
+    category: "High-Protein Nutrition",
+    readTime: "7 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqRdKtsTnYL1zbaW9rr_lg5vXKBilIT0PvWvBJiPyxhg&s=10",
+    excerpt: "I built high-protein meals on a budget. Here are my secrets for getting enough protein without spending a fortune—affordable, practical, and effective.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqRdKtsTnYL1zbaW9rr_lg5vXKBilIT0PvWvBJiPyxhg&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I wanted to eat high-protein meals but thought it was too expensive. Chicken breast, salmon, and protein powder cost a fortune. I was wrong.</p>
+        
+        <p>After years of experimentation, I found affordable ways to build high-protein meals. Here are my secrets for getting enough protein on a budget.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqRdKtsTnYL1zbaW9rr_lg5vXKBilIT0PvWvBJiPyxhg&s=10" alt="Budget protein" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Budget Protein Toolkit</h4>
+            <p>These are the affordable protein sources I rely on.</p>
+            <a href="https://www.fitnoryx.com/digitaliest#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Affordable Animal Protein Sources</h3>
+        <ul>
+            <li><strong>Eggs:</strong> $2-3 per dozen, 6g protein each</li>
+            <li><strong>Canned tuna:</strong> $1-2 per can, 28g protein</li>
+            <li><strong>Chicken thighs:</strong> $3-4 per lb, cheaper than breast</li>
+            <li><strong>Pork:</strong> $3-4 per lb, protein-dense</li>
+            <li><strong>Canned sardines:</strong> $1-2 per can, 25g protein</li>
+        </ul>
+        
+        <h3>Affordable Plant Protein Sources</h3>
+        <ul>
+            <li><strong>Lentils:</strong> $1-2 per lb, 18g protein per cup</li>
+            <li><strong>Chickpeas:</strong> $1-2 per lb, 15g protein per cup</li>
+            <li><strong>Black beans:</strong> $1-2 per lb, 15g protein per cup</li>
+            <li><strong>Tofu:</strong> $2-3 per block, 20g protein</li>
+            <li><strong>Peanut butter:</strong> $3-4 per jar, 8g protein per 2 tbsp</li>
+        </ul>
+        
+        <h3>Smart Shopping Tips</h3>
+        <ul>
+            <li><strong>Buy in bulk:</strong> Beans, lentils, and rice are cheap in bulk</li>
+            <li><strong>Shop sales:</strong> Stock up when meat is on sale</li>
+            <li><strong>Buy frozen:</strong> Frozen vegetables and fish are often cheaper</li>
+            <li><strong>Use simple recipes:</strong> 5 ingredients or less</li>
+            <li><strong>Meal prep:</strong> Cook larger portions for the week</li>
+        </ul>
+        
+        <h3>My Budget High-Protein Plan</h3>
+        <ul>
+            <li><strong>Breakfast:</strong> Eggs and vegetables ($2 per meal)</li>
+            <li><strong>Lunch:</strong> Lentil soup ($2 per meal)</li>
+            <li><strong>Dinner:</strong> Chicken with vegetables ($3-4 per meal)</li>
+            <li><strong>Snack:</strong> Peanut butter and fruit ($1 per snack)</li>
+            <li><strong>Total:</strong> $8-10 per day for high-protein meals</li>
+        </ul>
+        
+        <h3>My Results</h3>
+        <ul>
+            <li><strong>Protein intake:</strong> 100g+ daily</li>
+            <li><strong>Weekly cost:</strong> $50-70</li>
+            <li><strong>Weight loss:</strong> 12 lbs in 6 weeks</li>
+            <li><strong>Energy:</strong> Improved</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> High-protein meals don't have to be expensive. These affordable sources helped me get enough protein without breaking the bank.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 188,
+    title: "The Complete High-Protein Meal Plan for Energy and Fat Loss",
+    date: "August 2, 2024",
+    category: "High-Protein Nutrition",
+    readTime: "9 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRls0EN3yJBauugzXDsa7I8J1JblNjvP6Mgu2NnREcm3Q&s=10",
+    excerpt: "I created this high-protein meal plan for energy and fat loss. It's simple, delicious, and helped me lose 15 pounds without feeling hungry.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRls0EN3yJBauugzXDsa7I8J1JblNjvP6Mgu2NnREcm3Q&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I wanted a meal plan that would give me energy and help me lose weight. I didn't want to be hungry or feel deprived. This high-protein meal plan delivered both.</p>
+        
+        <p>Within 8 weeks, I lost 15 pounds and had more energy than ever. Here's my complete 7-day meal plan.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRls0EN3yJBauugzXDsa7I8J1JblNjvP6Mgu2NnREcm3Q&s=10" alt="High-protein meal plan" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My High-Protein Meal Plan Toolkit</h4>
+            <p>These are the recipes and ingredients I use.</p>
+            <a href="https://www.fitnoryx.com/digitaliest#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Day 1: Getting Started</h3>
+        <p><strong>Breakfast:</strong> 3 eggs + spinach + 1 slice whole grain toast (30g protein)</p>
+        <p><strong>Lunch:</strong> Grilled chicken salad with mixed greens (35g protein)</p>
+        <p><strong>Dinner:</strong> Salmon with asparagus and quinoa (35g protein)</p>
+        <p><strong>Snack:</strong> Greek yogurt with berries (20g protein)</p>
+        <p><strong>Total:</strong> 120g protein</p>
+        
+        <h3>Day 2: Building Momentum</h3>
+        <p><strong>Breakfast:</strong> Protein smoothie (berries + protein powder + almond milk) (25g protein)</p>
+        <p><strong>Lunch:</strong> Tuna salad lettuce wraps (30g protein)</p>
+        <p><strong>Dinner:</strong> Grilled chicken with roasted vegetables (35g protein)</p>
+        <p><strong>Snack:</strong> Hard-boiled eggs (12g protein)</p>
+        <p><strong>Total:</strong> 102g protein</p>
+        
+        <h3>Day 3: Finding Your Rhythm</h3>
+        <p><strong>Breakfast:</strong> Greek yogurt + berries + nuts (25g protein)</p>
+        <p><strong>Lunch:</strong> Lentil soup + whole grain bread (25g protein)</p>
+        <p><strong>Dinner:</strong> Lean beef with stir-fried vegetables (35g protein)</p>
+        <p><strong>Snack:</strong> Peanut butter on celery (10g protein)</p>
+        <p><strong>Total:</strong> 95g protein</p>
+        
+        <h3>Day 4: Midweek Reset</h3>
+        <p><strong>Breakfast:</strong> Oatmeal + protein powder + berries (30g protein)</p>
+        <p><strong>Lunch:</strong> Chickpea salad with tahini dressing (20g protein)</p>
+        <p><strong>Dinner:</strong> Fish tacos with cabbage slaw (30g protein)</p>
+        <p><strong>Snack:</strong> Cottage cheese (15g protein)</p>
+        <p><strong>Total:</strong> 95g protein</p>
+        
+        <h3>Day 5: Staying Strong</h3>
+        <p><strong>Breakfast:</strong> 3 eggs + vegetables + cheese (30g protein)</p>
+        <p><strong>Lunch:</strong> Chicken Caesar salad (35g protein)</p>
+        <p><strong>Dinner:</strong> Shrimp stir-fry with vegetables (30g protein)</p>
+        <p><strong>Snack:</strong> Almonds and apple (10g protein)</p>
+        <p><strong>Total:</strong> 105g protein</p>
+        
+        <h3>Day 6: Weekend Prep</h3>
+        <p><strong>Breakfast:</strong> Protein pancakes (25g protein)</p>
+        <p><strong>Lunch:</strong> Turkey and cheese lettuce wraps (30g protein)</p>
+        <p><strong>Dinner:</strong> Grilled pork chops with vegetables (35g protein)</p>
+        <p><strong>Snack:</strong> Greek yogurt (20g protein)</p>
+        <p><strong>Total:</strong> 110g protein</p>
+        
+        <h3>Day 7: Review and Prep</h3>
+        <p><strong>Breakfast:</strong> Smoked salmon with cream cheese on whole grain toast (25g protein)</p>
+        <p><strong>Lunch:</strong> Leftover grilled chicken salad (35g protein)</p>
+        <p><strong>Dinner:</strong> Baked fish with roasted vegetables (30g protein)</p>
+        <p><strong>Snack:</strong> Hard-boiled eggs (12g protein)</p>
+        <p><strong>Total:</strong> 102g protein</p>
+        
+        <h3>My 8-Week Results</h3>
+        <ul>
+            <li><strong>Weight:</strong> Lost 15 lbs</li>
+            <li><strong>Energy:</strong> Significantly improved</li>
+            <li><strong>Hunger:</strong> Reduced dramatically</li>
+            <li><strong>Muscle:</strong> Preserved</li>
+            <li><strong>Overall:</strong> Feeling healthier and stronger</li>
+        </ul>
+        
+        <h3>My Meal Prep Strategy</h3>
+        <ul>
+            <li><strong>Sunday:</strong> Cook proteins for the week</li>
+            <li><strong>Daily:</strong> 15-20 minute meal prep</li>
+            <li><strong>Always on hand:</strong> Eggs, Greek yogurt, protein powder</li>
+            <li><strong>Simple recipes:</strong> 5 ingredients or less</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> This high-protein meal plan helped me lose 15 pounds and gain energy. It's simple, delicious, and sustainable. Try it for 7 days and see the difference.</p>
+    `,
+    author: "The Modern Guide"
 }
 
 
