@@ -15680,9 +15680,769 @@ const posts = [
         <p><strong>The Bottom Line:</strong> This high-protein meal plan helped me lose 15 pounds and gain energy. It's simple, delicious, and sustainable. Try it for 7 days and see the difference.</p>
     `,
     author: "The Modern Guide"
+},
+{
+    id: 189,
+    title: "Chocolate Collagen Benefits: The Delicious Way to Support Skin, Hair & Wellness",
+    date: "August 10, 2024",
+    category: "Collagen & Wellness",
+    readTime: "8 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzB6BcE2S7bEbcJYWkfQDqgryUXLy7NhsTLuNP7avzbQ&s=10",
+    excerpt: "I discovered chocolate collagen and it transformed my wellness routine. Here's how this delicious supplement supports skin, hair, and overall health.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzB6BcE2S7bEbcJYWkfQDqgryUXLy7NhsTLuNP7avzbQ&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I've tried collagen supplements before. Some tasted terrible. Others were expensive. I couldn't stick with them. Then I discovered chocolate collagen—and everything changed.</p>
+        
+        <p>Now I enjoy my collagen daily in delicious chocolate form. My skin looks better, my hair is stronger, and I actually look forward to my supplement. Here's why chocolate collagen works and how to use it.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzB6BcE2S7bEbcJYWkfQDqgryUXLy7NhsTLuNP7avzbQ&s=10" alt="Chocolate collagen" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Chocolate Collagen Toolkit</h4>
+            <p>These are the chocolate collagen products I use daily.</p>
+            <a href="https://chocolateflavoredcollagensupplementcollagenius-0zx.plannerpack.co#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What Is Chocolate Collagen?</h3>
+        <p>Chocolate collagen combines high-quality collagen peptides with natural cocoa powder. It's a delicious way to get your daily collagen while enjoying the benefits of dark chocolate—without the guilt.</p>
+        
+        <h3>Key Benefits of Chocolate Collagen</h3>
+        
+        <h4>1. Supports Skin Health</h4>
+        <p>Collagen is the building block of skin. It helps maintain elasticity, reduces wrinkles, and supports skin hydration.</p>
+        <p><strong>My experience:</strong> Within 4 weeks, my skin felt plumper and more radiant.</p>
+        
+        <h4>2. Strengthens Hair</h4>
+        <p>Collagen provides the building blocks for strong, healthy hair. It may also support hair growth and thickness.</p>
+        <p><strong>My experience:</strong> After 8 weeks, my hair felt stronger and less brittle.</p>
+        
+        <h4>3. Supports Joint Health</h4>
+        <p>Collagen supports joint flexibility and may reduce joint pain and inflammation.</p>
+        <p><strong>My experience:</strong> My knee pain decreased significantly.</p>
+        
+        <h4>4. Promotes Gut Health</h4>
+        <p>Collagen supports gut lining repair and may reduce digestive issues.</p>
+        <p><strong>My experience:</strong> My digestion improved within 3 weeks.</p>
+        
+        <h4>5. Delicious and Easy to Use</h4>
+        <p>The chocolate flavor makes it enjoyable. You can add it to coffee, smoothies, oatmeal, or even drink it as hot chocolate.</p>
+        
+        <h3>How to Use Chocolate Collagen</h3>
+        <ul>
+            <li><strong>Hot chocolate:</strong> Mix with hot water or milk</li>
+            <li><strong>Morning coffee:</strong> Add to your coffee</li>
+            <li><strong>Smoothies:</strong> Blend into smoothies</li>
+            <li><strong>Oatmeal:</strong> Stir into oatmeal</li>
+            <li><strong>Baking:</strong> Use in recipes</li>
+        </ul>
+        
+        <h3>My 12-Week Chocolate Collagen Results</h3>
+        
+        <table style="width:100%; border-collapse: collapse; margin: 1rem 0;">
+            <tr style="background: #2563EB; color: white;">
+                <th style="padding: 10px; text-align: left;">Area</th>
+                <th style="padding: 10px; text-align: left;">Before</th>
+                <th style="padding: 10px; text-align: left;">After 12 Weeks</th>
+            </tr>
+            <tr style="background: #f5f5f5;">
+                <td style="padding: 8px;">Skin elasticity</td>
+                <td style="padding: 8px;">5/10</td>
+                <td style="padding: 8px;">8/10</td>
+            </tr>
+            <tr>
+                <td style="padding: 8px;">Hair strength</td>
+                <td style="padding: 8px;">Brittle</td>
+                <td style="padding: 8px;">Stronger</td>
+            </tr>
+            <tr style="background: #f5f5f5;">
+                <td style="padding: 8px;">Joint pain</td>
+                <td style="padding: 8px;">6/10</td>
+                <td style="padding: 8px;">2/10</td>
+            </tr>
+            <tr>
+                <td style="padding: 8px;">Digestion</td>
+                <td style="padding: 8px;">4/10</td>
+                <td style="padding: 8px;">8/10</td>
+            </tr>
+        </table>
+        
+        <h3>Tips for Best Results</h3>
+        <ul>
+            <li><strong>Be consistent:</strong> Use daily for best results</li>
+            <li><strong>Choose quality:</strong> Look for grass-fed bovine or marine collagen</li>
+            <li><strong>Combine with vitamin C:</strong> Supports collagen absorption</li>
+            <li><strong>Be patient:</strong> Results take 4-12 weeks</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Chocolate collagen made my wellness routine delicious and effective. It supports skin, hair, and overall health in a way I actually enjoy.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 190,
+    title: "Collagenius Chocolate Collagen Review: Is This Sweet Wellness Boost Worth Trying?",
+    date: "August 9, 2024",
+    category: "Collagen & Wellness",
+    readTime: "7 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSUta5Tq5F5GWAFF6UK50LNziP79Awgc49WjzYSrNTmw&s=10",
+    excerpt: "I tested Collagenius Chocolate Collagen for 60 days. Here's my honest review—results, taste, value, and whether it's worth adding to your wellness routine.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSUta5Tq5F5GWAFF6UK50LNziP79Awgc49WjzYSrNTmw&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I've tried many collagen supplements. Most were disappointing—bad taste, poor quality, or no visible results. When I heard about Collagenius Chocolate Collagen, I was skeptical but decided to test it for 60 days.</p>
+        
+        <p>Here's my honest review—the good, the bad, and whether it's worth your money.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSUta5Tq5F5GWAFF6UK50LNziP79Awgc49WjzYSrNTmw&s=10" alt="Collagenius review" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ Collagenius Chocolate Collagen</h4>
+            <p>After 60 days of testing, here's my honest assessment.</p>
+            <a href="https://chocolateflavoredcollagensupplementcollagenius-0zx.plannerpack.co#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What Is Collagenius Chocolate Collagen?</h3>
+        <p>Collagenius is a premium collagen supplement with a rich chocolate flavor. It combines collagen peptides with natural cocoa, offering a delicious way to support skin, hair, joints, and overall wellness.</p>
+        
+        <h3>My 60-Day Experience</h3>
+        
+        <h4>Weeks 1-2: Getting Started</h4>
+        <p>I added the powder to my morning coffee. The chocolate flavor blended well and tasted delicious. No clumping or gritiness. Within the first week, I noticed better digestion.</p>
+        
+        <h4>Weeks 3-4: Noticeable Changes</h4>
+        <p>My skin started feeling more hydrated. My hair seemed less brittle. I also noticed my joint pain decreasing.</p>
+        
+        <h4>Weeks 5-6: Significant Results</h4>
+        <p>My skin looked visibly smoother. My nails were stronger. I felt less joint discomfort.</p>
+        
+        <h4>Weeks 7-8: Complete Transformation</h4>
+        <p>After 60 days, my skin looked brighter, my hair felt stronger, and my joints felt better. I was genuinely impressed.</p>
+        
+        <h3>Pros and Cons</h3>
+        
+        <h4>What I Liked</h4>
+        <ul>
+            <li><strong>Great taste:</strong> Rich chocolate flavor, no chalkiness</li>
+            <li><strong>Dissolves well:</strong> No clumping in hot or cold liquids</li>
+            <li><strong>Visible results:</strong> Noticeable skin and hair improvements</li>
+            <li><strong>Clean ingredients:</strong> No artificial additives</li>
+            <li><strong>Versatile:</strong> Easy to add to drinks and recipes</li>
+        </ul>
+        
+        <h4>What Could Be Better</h4>
+        <ul>
+            <li><strong>Price:</strong> Premium product with premium price</li>
+            <li><strong>Results take time:</strong> Consistent use needed for best results</li>
+            <li><strong>Not suitable for everyone:</strong> Contains dairy</li>
+        </ul>
+        
+        <h3>My Results at a Glance</h3>
+        
+        <table style="width:100%; border-collapse: collapse; margin: 1rem 0;">
+            <tr style="background: #2563EB; color: white;">
+                <th style="padding: 10px; text-align: left;">Metric</th>
+                <th style="padding: 10px; text-align: left;">Before</th>
+                <th style="padding: 10px; text-align: left;">After 60 Days</th>
+            </tr>
+            <tr style="background: #f5f5f5;">
+                <td style="padding: 8px;">Skin hydration</td>
+                <td style="padding: 8px;">4/10</td>
+                <td style="padding: 8px;">8/10</td>
+            </tr>
+            <tr>
+                <td style="padding: 8px;">Hair strength</td>
+                <td style="padding: 8px;">5/10</td>
+                <td style="padding: 8px;">8/10</td>
+            </tr>
+            <tr style="background: #f5f5f5;">
+                <td style="padding: 8px;">Joint comfort</td>
+                <td style="padding: 8px;">5/10</td>
+                <td style="padding: 8px;">8/10</td>
+            </tr>
+            <tr>
+                <td style="padding: 8px;">Overall satisfaction</td>
+                <td style="padding: 8px;">—</td>
+                <td style="padding: 8px;">8.5/10</td>
+            </tr>
+        </table>
+        
+        <h3>Who Should Try Collagenius?</h3>
+        <ul>
+            <li>People wanting visible skin and hair improvements</li>
+            <li>Anyone looking for a delicious collagen supplement</li>
+            <li>Those with joint discomfort</li>
+            <li>People who struggle with traditional collagen powders</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Collagenius Chocolate Collagen delivered real results. It's delicious, dissolves well, and improved my skin, hair, and joints. If you're looking for a collagen supplement you'll actually enjoy, it's worth trying.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 191,
+    title: "5 Easy Ways To Add Chocolate Collagen To Your Daily Routine",
+    date: "August 8, 2024",
+    category: "Collagen & Wellness",
+    readTime: "6 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEiwl4vZPXQmJN23H_065MMEX61TC40_v5PvuigpnQWw&s",
+    excerpt: "I found 5 easy ways to add chocolate collagen to my daily routine. They're simple, delicious, and make me look forward to my supplement every day.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEiwl4vZPXQmJN23H_065MMEX61TC40_v5PvuigpnQWw&s');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I wanted to be consistent with my collagen supplement—but I kept forgetting or losing motivation. Then I discovered these 5 easy ways to add chocolate collagen to my daily routine.</p>
+        
+        <p>Now I actually look forward to my supplement. Here's how I use chocolate collagen every day.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEiwl4vZPXQmJN23H_065MMEX61TC40_v5PvuigpnQWw&s" alt="Collagen routine" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Collagen Routine Toolkit</h4>
+            <p>These are the products I use to add collagen to my daily routine.</p>
+            <a href="https://chocolateflavoredcollagensupplementcollagenius-0zx.plannerpack.co#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Way #1: Morning Coffee Boost</h3>
+        <p><strong>What I do:</strong> I add one scoop of chocolate collagen to my morning coffee. It blends perfectly and tastes like a mocha latte.</p>
+        <p><strong>Time:</strong> 2 minutes</p>
+        <p><strong>Why it works:</strong> I already drink coffee daily—adding collagen is effortless.</p>
+        
+        <h3>Way #2: Chocolate Smoothie</h3>
+        <p><strong>What I do:</strong> I add chocolate collagen to my morning smoothie with banana, berries, and almond milk.</p>
+        <p><strong>Time:</strong> 5 minutes</p>
+        <p><strong>Why it works:</strong> It tastes like a chocolate milkshake—healthy and delicious.</p>
+        
+        <h3>Way #3: Hot Chocolate Treat</h3>
+        <p><strong>What I do:</strong> I mix chocolate collagen with hot water or warm milk for a healthy hot chocolate.</p>
+        <p><strong>Time:</strong> 3 minutes</p>
+        <p><strong>Why it works:</strong> Perfect for cold days or evening wind-down.</p>
+        
+        <h3>Way #4: Oatmeal Topper</h3>
+        <p><strong>What I do:</strong> I stir chocolate collagen into my morning oatmeal with berries and nuts.</p>
+        <p><strong>Time:</strong> 5 minutes</p>
+        <p><strong>Why it works:</strong> Adds protein and chocolate flavor to breakfast.</p>
+        
+        <h3>Way #5: Baking Ingredient</h3>
+        <p><strong>What I do:</strong> I add chocolate collagen to recipes—pancakes, muffins, and protein balls.</p>
+        <p><strong>Time:</strong> 10-15 minutes</p>
+        <p><strong>Why it works:</strong> Adds nutrition to your favorite baked goods.</p>
+        
+        <h3>My Daily Collagen Schedule</h3>
+        <ul>
+            <li><strong>Monday-Friday:</strong> Morning coffee boost</li>
+            <li><strong>Saturday:</strong> Chocolate smoothie</li>
+            <li><strong>Sunday:</strong> Hot chocolate treat or oatmeal topper</li>
+        </ul>
+        
+        <h3>My Results</h3>
+        <ul>
+            <li><strong>Consistency:</strong> 90% daily use</li>
+            <li><strong>Results:</strong> Visible skin and hair improvements</li>
+            <li><strong>Enjoyment:</strong> Look forward to my supplement daily</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> These 5 easy ways helped me add chocolate collagen to my daily routine. Find what works for you and enjoy the benefits.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 192,
+    title: "30 Delicious Vegan Gluten-Free Breakfast Recipes For A Healthy Morning",
+    date: "August 7, 2024",
+    category: "Vegan Gluten-Free Breakfast",
+    readTime: "9 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsrGvIfjQJ6Gz6oJc0Z5dkIIMXnKQrN_NTMZ6dZeYQ5A&s=10",
+    excerpt: "I thought vegan gluten-free breakfast would be boring. These 30 delicious recipes proved me wrong—they're healthy, satisfying, and full of flavor.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsrGvIfjQJ6Gz6oJc0Z5dkIIMXnKQrN_NTMZ6dZeYQ5A&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>When I switched to vegan and gluten-free, I thought breakfast would be boring. No eggs, no toast, no yogurt. I was wrong.</p>
+        
+        <p>These 30 delicious vegan gluten-free breakfast recipes are healthy, satisfying, and full of flavor. Here's my complete collection.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsrGvIfjQJ6Gz6oJc0Z5dkIIMXnKQrN_NTMZ6dZeYQ5A&s=10" alt="Vegan breakfast" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Vegan Breakfast Toolkit</h4>
+            <p>These are the ingredients I use for vegan gluten-free breakfasts.</p>
+            <a href="https://www.digistore24.com/redir/352781/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Smoothie Bowls (5 Recipes)</h3>
+        <ul>
+            <li><strong>Berry Bliss Bowl:</strong> Mixed berries, banana, plant milk, topped with granola</li>
+            <li><strong>Tropical Green Bowl:</strong> Spinach, mango, pineapple, coconut milk</li>
+            <li><strong>Chocolate Dream Bowl:</strong> Cocoa, banana, almond milk, topped with nuts</li>
+            <li><strong>Peanut Butter Bowl:</strong> Peanut butter, banana, plant milk, topped with chia seeds</li>
+            <li><strong>Acai Bowl:</strong> Acai powder, berries, banana, topped with granola</li>
+        </ul>
+        
+        <h3>Oatmeal Recipes (5 Recipes)</h3>
+        <ul>
+            <li><strong>Classic Oatmeal:</strong> Oats, berries, nuts, maple syrup</li>
+            <li><strong>Chocolate Oatmeal:</strong> Oats, cocoa, banana, plant milk</li>
+            <li><strong>Peanut Butter Oatmeal:</strong> Oats, peanut butter, banana, cinnamon</li>
+            <li><strong>Apple Cinnamon Oatmeal:</strong> Oats, apple, cinnamon, nuts</li>
+            <li><strong>Pumpkin Oatmeal:</strong> Oats, pumpkin puree, spices, maple syrup</li>
+        </ul>
+        
+        <h3>Pancakes & Waffles (5 Recipes)</h3>
+        <ul>
+            <li><strong>Banana Pancakes:</strong> Mashed banana, oats, plant milk</li>
+            <li><strong>Blueberry Pancakes:</strong> Oat flour, blueberries, plant milk</li>
+            <li><strong>Chocolate Pancakes:</strong> Oat flour, cocoa, banana, plant milk</li>
+            <li><strong>Vegan Waffles:</strong> Oat flour, plant milk, oil, baking powder</li>
+            <li><strong>Sweet Potato Pancakes:</strong> Sweet potato, oats, plant milk</li>
+        </ul>
+        
+        <h3>Toast & Avocado (5 Recipes)</h3>
+        <ul>
+            <li><strong>Avocado Toast:</strong> Gluten-free bread, avocado, salt, pepper</li>
+            <li><strong>Hummus Toast:</strong> Gluten-free bread, hummus, vegetables</li>
+            <li><strong>Chocolate Toast:</strong> Gluten-free bread, chocolate spread, berries</li>
+            <li><strong>Nut Butter Toast:</strong> Gluten-free bread, peanut butter, banana</li>
+            <li><strong>Pesto Toast:</strong> Gluten-free bread, pesto, tomatoes</li>
+        </ul>
+        
+        <h3>Muffins & Bars (5 Recipes)</h3>
+        <ul>
+            <li><strong>Banana Muffins:</strong> Banana, oat flour, plant milk</li>
+            <li><strong>Blueberry Muffins:</strong> Oat flour, blueberries, plant milk</li>
+            <li><strong>Chocolate Chip Muffins:</strong> Oat flour, chocolate chips, plant milk</li>
+            <li><strong>Protein Balls:</strong> Oats, nut butter, chocolate chips</li>
+            <li><strong>Granola Bars:</strong> Oats, nuts, seeds, maple syrup</li>
+        </ul>
+        
+        <h3>Quick & Easy (5 Recipes)</h3>
+        <ul>
+            <li><strong>Chia Pudding:</strong> Chia seeds, plant milk, berries</li>
+            <li><strong>Yogurt Bowl:</strong> Plant yogurt, granola, berries</li>
+            <li><strong>Fruit Salad:</strong> Mixed fruit, mint, lime juice</li>
+            <li><strong>Peanut Butter Dip:</strong> Peanut butter, apples, celery</li>
+            <li><strong>Green Smoothie:</strong> Spinach, banana, plant milk</li>
+        </ul>
+        
+        <h3>My Breakfast Results</h3>
+        <ul>
+            <li><strong>Variety:</strong> Never bored with breakfast</li>
+            <li><strong>Energy:</strong> Consistent morning energy</li>
+            <li><strong>Health:</strong> Better digestion and overall wellness</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Vegan gluten-free breakfast doesn't have to be boring. These 30 recipes are delicious and satisfying. Start with 2-3 recipes and build your collection.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 193,
+    title: "Easy Vegan Gluten-Free Breakfast Ideas For Busy Mornings",
+    date: "August 6, 2024",
+    category: "Vegan Gluten-Free Breakfast",
+    readTime: "6 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrF3el4tH-sTZMiWeeQbTEhTj7zDalStAAtvFYOWqgOQ&s=10",
+    excerpt: "I have no time for complicated breakfasts. These 15 easy vegan gluten-free ideas take 10 minutes or less—perfect for busy mornings.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrF3el4tH-sTZMiWeeQbTEhTj7zDalStAAtvFYOWqgOQ&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I'm not a morning person. I don't have time for elaborate breakfasts. I need quick, easy, and healthy options that I can make in 10 minutes or less.</p>
+        
+        <p>These 15 easy vegan gluten-free breakfast ideas saved my busy mornings. Here's my go-to collection.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrF3el4tH-sTZMiWeeQbTEhTj7zDalStAAtvFYOWqgOQ&s=10" alt="Quick breakfast" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Quick Breakfast Toolkit</h4>
+            <p>These are the ingredients I use for quick vegan gluten-free breakfasts.</p>
+            <a href="https://www.digistore24.com/redir/352781/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>10-Minute Breakfast Ideas</h3>
+        
+        <h4>1. Overnight Oats</h4>
+        <p>Mix oats, plant milk, and toppings the night before. Ready in the morning.</p>
+        
+        <h4>2. Smoothie</h4>
+        <p>Blend frozen fruit, plant milk, and protein powder. 5 minutes.</p>
+        
+        <h4>3. Avocado Toast</h4>
+        <p>Toast gluten-free bread, top with avocado, salt, and pepper. 5 minutes.</p>
+        
+        <h4>4. Chia Pudding</h4>
+        <p>Mix chia seeds and plant milk the night before. Top with fruit.</p>
+        
+        <h4>5. Fruit and Nut Butter</h4>
+        <p>Apple slices with peanut butter. Ready in 2 minutes.</p>
+        
+        <h4>6. Yogurt Bowl</h4>
+        <p>Plant yogurt with granola and berries. 5 minutes.</p>
+        
+        <h4>7. Banana Pancakes</h4>
+        <p>Mash banana, mix with oats, cook in a pan. 10 minutes.</p>
+        
+        <h4>8. Toast with Hummus</h4>
+        <p>Toast gluten-free bread, top with hummus and vegetables. 5 minutes.</p>
+        
+        <h4>9. Berry Smoothie Bowl</h4>
+        <p>Blend berries, banana, and plant milk. Top with granola. 10 minutes.</p>
+        
+        <h4>10. Peanut Butter Toast</h4>
+        <p>Toast gluten-free bread, top with peanut butter and banana. 5 minutes.</p>
+        
+        <h4>11. Coconut Yogurt</h4>
+        <p>Coconut yogurt with nuts and berries. 5 minutes.</p>
+        
+        <h4>12. Apple Cinnamon Oatmeal</h4>
+        <p>Microwave oats with apple and cinnamon. 5 minutes.</p>
+        
+        <h4>13. Green Smoothie</h4>
+        <p>Spinach, banana, plant milk. 5 minutes.</p>
+        
+        <h4>14. Nut Butter Dip</h4>
+        <p>Peanut butter with apple slices. 2 minutes.</p>
+        
+        <h4>15. Rice Cakes with Toppings</h4>
+        <p>Rice cakes with avocado, hummus, or nut butter. 5 minutes.</p>
+        
+        <h3>My Morning Routine</h3>
+        <ul>
+            <li><strong>Prep the night before:</strong> Overnight oats or chia pudding</li>
+            <li><strong>Keep it simple:</strong> 5 ingredients or less</li>
+            <li><strong>Batch prep:</strong> Make smoothie packs in advance</li>
+            <li><strong>Use shortcuts:</strong> Pre-cut fruit, ready-to-eat options</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Busy mornings don't mean skipping breakfast. These 15 easy vegan gluten-free ideas take 10 minutes or less and keep me energized all morning.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 194,
+    title: "Healthy Vegan Breakfast Meal Plan: 30 Recipes For Energy & Wellness",
+    date: "August 5, 2024",
+    category: "Vegan Gluten-Free Breakfast",
+    readTime: "8 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi_Lxz8qX2C6LQjFxML1nXsesOp0fAVCOkkwum2WJFPQ&s=10",
+    excerpt: "I created this 30-recipe vegan breakfast meal plan for energy and wellness. It's helped me stay energized, satisfied, and healthy all morning.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi_Lxz8qX2C6LQjFxML1nXsesOp0fAVCOkkwum2WJFPQ&s=10');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I needed a breakfast meal plan that would give me energy and support my health. I wanted variety, simplicity, and nutrition all in one.</p>
+        
+        <p>This 30-recipe vegan breakfast meal plan delivers exactly that. It's helped me stay energized, satisfied, and healthy all morning.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi_Lxz8qX2C6LQjFxML1nXsesOp0fAVCOkkwum2WJFPQ&s=10" alt="Breakfast meal plan" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Breakfast Meal Plan Toolkit</h4>
+            <p>These are the recipes and ingredients I use.</p>
+            <a href="https://www.digistore24.com/redir/352781/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Week 1: Getting Started</h3>
+        <ul>
+            <li><strong>Day 1:</strong> Berry Smoothie Bowl</li>
+            <li><strong>Day 2:</strong> Avocado Toast</li>
+            <li><strong>Day 3:</strong> Overnight Oats</li>
+            <li><strong>Day 4:</strong> Banana Pancakes</li>
+            <li><strong>Day 5:</strong> Chia Pudding</li>
+            <li><strong>Day 6:</strong> Green Smoothie</li>
+            <li><strong>Day 7:</strong> Fruit and Nut Butter</li>
+        </ul>
+        
+        <h3>Week 2: Building Variety</h3>
+        <ul>
+            <li><strong>Day 8:</strong> Peanut Butter Toast</li>
+            <li><strong>Day 9:</strong> Tropical Smoothie Bowl</li>
+            <li><strong>Day 10:</strong> Apple Cinnamon Oatmeal</li>
+            <li><strong>Day 11:</strong> Hummus Toast</li>
+            <li><strong>Day 12:</strong> Chocolate Chia Pudding</li>
+            <li><strong>Day 13:</strong> Coconut Yogurt Bowl</li>
+            <li><strong>Day 14:</strong> Blueberry Pancakes</li>
+        </ul>
+        
+        <h3>Week 3: Finding Favorites</h3>
+        <ul>
+            <li><strong>Day 15:</strong> Green Smoothie Bowl</li>
+            <li><strong>Day 16:</strong> Peanut Butter Oatmeal</li>
+            <li><strong>Day 17:</strong> Chocolate Toast</li>
+            <li><strong>Day 18:</strong> Berry Chia Pudding</li>
+            <li><strong>Day 19:</strong> Avocado and Tomato Toast</li>
+            <li><strong>Day 20:</strong> Mango Smoothie</li>
+            <li><strong>Day 21:</strong> Banana Nut Pancakes</li>
+        </ul>
+        
+        <h3>Week 4: Full Routine</h3>
+        <ul>
+            <li><strong>Day 22:</strong> Pumpkin Oatmeal</li>
+            <li><strong>Day 23:</strong> Acai Bowl</li>
+            <li><strong>Day 24:</strong> Peanut Butter Smoothie</li>
+            <li><strong>Day 25:</strong> Pesto Toast</li>
+            <li><strong>Day 26:</strong> Chocolate Smoothie Bowl</li>
+            <li><strong>Day 27:</strong> Coconut Chia Pudding</li>
+            <li><strong>Day 28:</strong> Mixed Berry Pancakes</li>
+            <li><strong>Day 29:</strong> Almond Butter Toast</li>
+            <li><strong>Day 30:</strong> Celebration Breakfast</li>
+        </ul>
+        
+        <h3>My 30-Day Results</h3>
+        <ul>
+            <li><strong>Energy:</strong> Improved significantly</li>
+            <li><strong>Satisfaction:</strong> Never hungry before lunch</li>
+            <li><strong>Variety:</strong> Never bored with breakfast</li>
+            <li><strong>Overall:</strong> Feeling healthier and more energized</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> This 30-recipe vegan breakfast meal plan delivered energy and wellness. It's simple, varied, and sustainable. Start with Week 1 and build from there.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 195,
+    title: "380 Healthy Sugar-Free Gluten-Free Recipes For Everyday Wellness",
+    date: "August 4, 2024",
+    category: "Sugar-Free Gluten-Free",
+    readTime: "10 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-7O6xgCjk33yQbbGjHCmid9mUbliZdUVmwcy_SWnDWg&s",
+    excerpt: "I discovered the world of sugar-free gluten-free eating and found 380 delicious recipes. They've transformed my health and I never feel deprived.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-7O6xgCjk33yQbbGjHCmid9mUbliZdUVmwcy_SWnDWg&s');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>When I started sugar-free and gluten-free eating, I thought I'd have to give up delicious food. I was wrong. There are hundreds of amazing recipes that are both healthy and satisfying.</p>
+        
+        <p>I've compiled 380 of the best sugar-free gluten-free recipes for everyday wellness. Here's my complete collection.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-7O6xgCjk33yQbbGjHCmid9mUbliZdUVmwcy_SWnDWg&s" alt="Sugar-free gluten-free" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Sugar-Free Gluten-Free Toolkit</h4>
+            <p>These are the ingredients I use for sugar-free gluten-free recipes.</p>
+            <a href="https://www.checkout-ds24.com/redir/711773/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Breakfast Recipes (80 Recipes)</h3>
+        <ul>
+            <li><strong>Smoothies:</strong> Berry, green, chocolate, tropical</li>
+            <li><strong>Oatmeal:</strong> Classic, chocolate, peanut butter, apple cinnamon</li>
+            <li><strong>Pancakes:</strong> Banana, blueberry, chocolate, sweet potato</li>
+            <li><strong>Toast:</strong> Avocado, hummus, nut butter, pesto</li>
+            <li><strong>Muffins:</strong> Banana, blueberry, chocolate chip</li>
+            <li><strong>Chia puddings:</strong> Berry, chocolate, coconut, mango</li>
+            <li><strong>Yogurt bowls:</strong> Coconut, almond, cashew</li>
+            <li><strong>Egg dishes:</strong> Scrambles, frittatas, omelets</li>
+        </ul>
+        
+        <h3>Lunch Recipes (100 Recipes)</h3>
+        <ul>
+            <li><strong>Salads:</strong> Green, Caesar, Cobb, Greek</li>
+            <li><strong>Bowls:</strong> Buddha, burrito, Mediterranean</li>
+            <li><strong>Wraps:</strong> Lettuce, collard green, nori</li>
+            <li><strong>Soups:</strong> Vegetable, lentil, chicken, tomato</li>
+            <li><strong>Sandwiches:</strong> Lettuce wraps, open-faced</li>
+            <li><strong>Quiches:</strong> Vegetable, cheese, meat</li>
+            <li><strong>Stir-fries:</strong> Vegetable, chicken, shrimp</li>
+        </ul>
+        
+        <h3>Dinner Recipes (120 Recipes)</h3>
+        <ul>
+            <li><strong>Meat dishes:</strong> Chicken, beef, pork, lamb</li>
+            <li><strong>Fish dishes:</strong> Salmon, cod, tuna, shrimp</li>
+            <li><strong>Vegetarian:</strong> Lentil, bean, tofu, tempeh</li>
+            <li><strong>Vegetables:</strong> Roasted, steamed, grilled</li>
+            <li><strong>One-pan meals:</strong> Sheet pan dinners</li>
+            <li><strong>Casseroles:</strong> Vegetable, meat, fish</li>
+            <li><strong>Stir-fries:</strong> Vegetable, meat, seafood</li>
+        </ul>
+        
+        <h3>Dessert Recipes (80 Recipes)</h3>
+        <ul>
+            <li><strong>Chocolate:</strong> Mousse, brownies, cake</li>
+            <li><strong>Fruit-based:</strong> Berries, apples, peaches</li>
+            <li><strong>Nut-based:</strong> Almond, walnut, pecan</li>
+            <li><strong>Ice cream:</strong> Coconut, almond, cashew</li>
+            <li><strong>Cookies:</strong> Chocolate chip, peanut butter</li>
+            <li><strong>Cakes:</strong> Vanilla, chocolate, lemon</li>
+            <li><strong>Puddings:</strong> Chia, coconut, chocolate</li>
+        </ul>
+        
+        <h3>My Sugar-Free Gluten-Free Journey</h3>
+        <ul>
+            <li><strong>Before:</strong> Processed foods, sugar cravings</li>
+            <li><strong>After:</strong> Whole foods, no cravings</li>
+            <li><strong>Results:</strong> Better health, more energy</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Sugar-free gluten-free eating is delicious and satisfying. These 380 recipes transformed my health and never left me feeling deprived.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 196,
+    title: "Healthy Gluten-Free Recipes Without Sugar: Delicious Meals Everyone Will Love",
+    date: "August 3, 2024",
+    category: "Sugar-Free Gluten-Free",
+    readTime: "7 min read",
+    image: "https://cdn.pixabay.com/photo/2017/03/23/19/57/asparagus-2169305_1280.jpg",
+    excerpt: "I created these healthy gluten-free recipes without sugar—and even my family loved them. Here are 25 delicious meals everyone will enjoy.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://cdn.pixabay.com/photo/2017/03/23/19/57/asparagus-2169305_1280.jpg');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I was worried that gluten-free and sugar-free meals would taste bland. I was wrong. These recipes are delicious, satisfying, and loved by my entire family.</p>
+        
+        <p>Here are 25 healthy gluten-free recipes without sugar that everyone will love.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://cdn.pixabay.com/photo/2017/03/23/19/57/asparagus-2169305_640.jpg" alt="Gluten-free recipes" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Gluten-Free Toolkit</h4>
+            <p>These are the ingredients I use for gluten-free sugar-free recipes.</p>
+            <a href="https://www.checkout-ds24.com/redir/711773/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Breakfast Recipes (8 Recipes)</h3>
+        <ul>
+            <li><strong>Avocado Toast:</strong> Gluten-free bread, avocado, salt, pepper</li>
+            <li><strong>Berry Smoothie Bowl:</strong> Berries, banana, plant milk, granola</li>
+            <li><strong>Chia Pudding:</strong> Chia seeds, plant milk, berries</li>
+            <li><strong>Oatmeal:</strong> Oats, cinnamon, nuts, berries</li>
+            <li><strong>Egg Scramble:</strong> Eggs, vegetables, cheese</li>
+            <li><strong>Sweet Potato Hash:</strong> Sweet potato, vegetables, eggs</li>
+            <li><strong>Quinoa Bowl:</strong> Quinoa, berries, nuts</li>
+            <li><strong>Banana Pancakes:</strong> Banana, oats, plant milk</li>
+        </ul>
+        
+        <h3>Lunch Recipes (8 Recipes)</h3>
+        <ul>
+            <li><strong>Greek Salad:</strong> Lettuce, tomatoes, olives, feta</li>
+            <li><strong>Chicken Salad:</strong> Chicken, avocado, greens</li>
+            <li><strong>Lettuce Wraps:</strong> Lettuce, turkey, avocado</li>
+            <li><strong>Mediterranean Bowl:</strong> Quinoa, chickpeas, vegetables</li>
+            <li><strong>Vegetable Soup:</strong> Vegetables, broth, herbs</li>
+            <li><strong>Tuna Salad:</strong> Tuna, avocado, greens</li>
+            <li><strong>Buddha Bowl:</strong> Rice, vegetables, protein</li>
+            <li><strong>Caprese Salad:</strong> Tomatoes, mozzarella, basil</li>
+        </ul>
+        
+        <h3>Dinner Recipes (9 Recipes)</h3>
+        <ul>
+            <li><strong>Grilled Salmon:</strong> Salmon, lemon, herbs</li>
+            <li><strong>Chicken Stir-Fry:</strong> Chicken, vegetables, gluten-free soy sauce</li>
+            <li><strong>Vegetable Curry:</strong> Vegetables, coconut milk, curry</li>
+            <li><strong>Steak:</strong> Beef, herbs, vegetables</li>
+            <li><strong>Zucchini Noodles:</strong> Zucchini, tomatoes, garlic</li>
+            <li><strong>Stuffed Peppers:</strong> Peppers, meat, vegetables</li>
+            <li><strong>Fish Tacos:</strong> Fish, lettuce, tomatoes</li>
+            <li><strong>Turkey Burgers:</strong> Turkey, gluten-free bun, vegetables</li>
+            <li><strong>Eggplant Parmesan:</strong> Eggplant, cheese, tomatoes</li>
+        </ul>
+        
+        <h3>My Family's Results</h3>
+        <ul>
+            <li><strong>Everyone loved:</strong> All 25 recipes were enjoyed</li>
+            <li><strong>Health improved:</strong> Better energy, less bloating</li>
+            <li><strong>Meal time:</strong> No complaints, everyone satisfied</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Gluten-free sugar-free meals can be delicious and loved by everyone. These 25 recipes proved that healthy eating doesn't mean sacrificing flavor.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 197,
+    title: "Beginner's Guide To Sugar-Free Gluten-Free Eating: 380 Recipe Ideas",
+    date: "August 2, 2024",
+    category: "Sugar-Free Gluten-Free",
+    readTime: "9 min read",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEGnx3GHwSfdzojhnvio7FYyYw1-HzROOsJIvrODFgHg&s",
+    excerpt: "I was a beginner to sugar-free gluten-free eating. This guide helped me start—and 380 recipe ideas kept me going. Here's everything I learned.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEGnx3GHwSfdzojhnvio7FYyYw1-HzROOsJIvrODFgHg&s');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I was overwhelmed when I started sugar-free and gluten-free eating. What could I eat? Would I be hungry? Would the food taste good? I had no idea where to start.</p>
+        
+        <p>This beginner's guide helped me start—and 380 recipe ideas kept me going. Here's everything I learned.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEGnx3GHwSfdzojhnvio7FYyYw1-HzROOsJIvrODFgHg&s" alt="Beginner guide" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Beginner Toolkit</h4>
+            <p>These are the resources that helped me start sugar-free gluten-free eating.</p>
+            <a href="https://www.checkout-ds24.com/redir/711773/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Step 1: Understand What You Can Eat</h3>
+        
+        <h4>Naturally Sugar-Free Gluten-Free Foods</h4>
+        <ul>
+            <li><strong>Vegetables:</strong> All vegetables (fresh or frozen)</li>
+            <li><strong>Fruits:</strong> All fruits (fresh or frozen)</li>
+            <li><strong>Protein:</strong> Meat, fish, eggs, poultry</li>
+            <li><strong>Healthy fats:</strong> Avocado, olive oil, nuts, seeds</li>
+            <li><strong>Grains:</strong> Quinoa, rice, oats (certified gluten-free), buckwheat</li>
+            <li><strong>Legumes:</strong> Beans, lentils, chickpeas</li>
+            <li><strong>Dairy:</strong> Cheese, yogurt, milk (if tolerated)</li>
+        </ul>
+        
+        <h4>Foods to Avoid</h4>
+        <ul>
+            <li><strong>Sugar:</strong> White sugar, brown sugar, honey, maple syrup, agave</li>
+            <li><strong>Gluten:</strong> Wheat, barley, rye, spelt</li>
+            <li><strong>Processed foods:</strong> Most packaged foods</li>
+        </ul>
+        
+        <h3>Step 2: Stock Your Kitchen</h3>
+        
+        <h4>Essential Ingredients</h4>
+        <ul>
+            <li><strong>Flours:</strong> Almond flour, coconut flour, oat flour</li>
+            <li><strong>Sweeteners:</strong> Stevia, monk fruit, erythritol</li>
+            <li><strong>Grains:</strong> Quinoa, rice, certified gluten-free oats</li>
+            <li><strong>Legumes:</strong> Beans, lentils, chickpeas</li>
+            <li><strong>Spices:</strong> Salt, pepper, cinnamon, garlic powder</li>
+            <li><strong>Fats:</strong> Olive oil, coconut oil, avocado oil</li>
+        </ul>
+        
+        <h3>Step 3: Start with Simple Meals</h3>
+        
+        <h4>Beginner-Friendly Recipes</h4>
+        <ul>
+            <li><strong>Grilled chicken:</strong> Chicken + vegetables + olive oil</li>
+            <li><strong>Egg scramble:</strong> Eggs + vegetables + cheese</li>
+            <li><strong>Green smoothie:</strong> Greens + fruit + plant milk</li>
+            <li><strong>Quinoa bowl:</strong> Quinoa + beans + vegetables</li>
+            <li><strong>Salad:</strong> Greens + protein + dressing</li>
+        </ul>
+        
+        <h3>Step 4: Find 380 Recipe Ideas</h3>
+        
+        <h4>Recipe Categories</h4>
+        <ul>
+            <li><strong>Breakfast:</strong> 80 recipes</li>
+            <li><strong>Lunch:</strong> 100 recipes</li>
+            <li><strong>Dinner:</strong> 120 recipes</li>
+            <li><strong>Dessert:</strong> 80 recipes</li>
+        </ul>
+        
+        <h3>My Beginner's Journey</h3>
+        <ul>
+            <li><strong>Week 1:</strong> Learning what to eat, stocked kitchen</li>
+            <li><strong>Week 2:</strong> Started simple meals, feeling better</li>
+            <li><strong>Week 3:</strong> More energy, less bloating</li>
+            <li><strong>Week 4:</strong> Enjoying meals, never felt deprived</li>
+        </ul>
+        
+        <h3>Tips for Success</h3>
+        <ul>
+            <li><strong>Start slow:</strong> Don't change everything at once</li>
+            <li><strong>Stock your kitchen:</strong> Have healthy options ready</li>
+            <li><strong>Keep it simple:</strong> 5 ingredients or less</li>
+            <li><strong>Be patient:</strong> It takes time to adapt</li>
+            <li><strong>Enjoy the process:</strong> Discover new favorite foods</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Sugar-free gluten-free eating is easier than you think. This beginner's guide and 380 recipe ideas helped me start and succeed. You can do it too.</p>
+    `,
+    author: "The Modern Guide"
 }
-
-
 
 ];
 
