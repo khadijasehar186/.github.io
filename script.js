@@ -16442,6 +16442,1506 @@ const posts = [
         <p><strong>The Bottom Line:</strong> Sugar-free gluten-free eating is easier than you think. This beginner's guide and 380 recipe ideas helped me start and succeed. You can do it too.</p>
     `,
     author: "The Modern Guide"
+},
+{
+    id: 198,
+    title: "10 Easy Keto Baking Recipes for Beginners",
+    date: "August 15, 2024",
+    category: "Keto Baking",
+    readTime: "8 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_820390/image/product/PUA436EA.png",
+    excerpt: "I was intimidated by keto baking until I tried these 10 easy recipes. They're foolproof and helped me enjoy baked goods while staying in ketosis.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_820390/image/product/PUA436EA.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>When I started keto, I thought I'd never enjoy baked goods again. Bread, cookies, cakes—all off-limits. Then I discovered keto baking, and everything changed.</p>
+        
+        <p>These 10 easy keto baking recipes are foolproof and perfect for beginners. They helped me enjoy baked goods while staying in ketosis.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_820390/image/product/PUA436EA.png" alt="Keto baking" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Keto Baking Toolkit</h4>
+            <p>These are the ingredients I use for easy keto baking.</p>
+            <a href="https://ketobreads.net/ds/bakery-bundle#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Recipe #1: Keto Sandwich Bread</h3>
+        <p><strong>Net carbs:</strong> 2g per slice</p>
+        <p><strong>Why it's easy:</strong> No yeast required, just mix and bake</p>
+        
+        <h3>Recipe #2: Keto Chocolate Chip Cookies</h3>
+        <p><strong>Net carbs:</strong> 3g per cookie</p>
+        <p><strong>Why it's easy:</strong> One bowl, simple ingredients</p>
+        
+        <h3>Recipe #3: Keto Brownies</h3>
+        <p><strong>Net carbs:</strong> 4g per brownie</p>
+        <p><strong>Why it's easy:</strong> Fudgy, no special techniques</p>
+        
+        <h3>Recipe #4: Keto Mug Cake</h3>
+        <p><strong>Net carbs:</strong> 3g per serving</p>
+        <p><strong>Why it's easy:</strong> 1 minute in the microwave</p>
+        
+        <h3>Recipe #5: Keto Cheesecake</h3>
+        <p><strong>Net carbs:</strong> 4g per slice</p>
+        <p><strong>Why it's easy:</strong> No water bath needed</p>
+        
+        <h3>Recipe #6: Keto Pancakes</h3>
+        <p><strong>Net carbs:</strong> 3g per pancake</p>
+        <p><strong>Why it's easy:</strong> Simple batter, cooks quickly</p>
+        
+        <h3>Recipe #7: Keto Muffins</h3>
+        <p><strong>Net carbs:</strong> 3g per muffin</p>
+        <p><strong>Why it's easy:</strong> One bowl, muffin tin</p>
+        
+        <h3>Recipe #8: Keto Scones</h3>
+        <p><strong>Net carbs:</strong> 4g per scone</p>
+        <p><strong>Why it's easy:</strong> Simple dough, no kneading</p>
+        
+        <h3>Recipe #9: Keto Baguette</h3>
+        <p><strong>Net carbs:</strong> 2g per serving</p>
+        <p><strong>Why it's easy:</strong> No complicated shaping</p>
+        
+        <h3>Recipe #10: Keto Cinnamon Rolls</h3>
+        <p><strong>Net carbs:</strong> 5g per roll</p>
+        <p><strong>Why it's easy:</strong> Simple dough, no yeast</p>
+        
+        <h3>My Keto Baking Journey</h3>
+        <ul>
+            <li><strong>Before:</strong> Intimidated by keto baking</li>
+            <li><strong>After:</strong> Enjoying baked goods regularly</li>
+            <li><strong>Results:</strong> Stayed in ketosis, satisfied cravings</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Keto baking is easier than you think. These 10 recipes helped me enjoy baked goods while staying in ketosis. Start with the mug cake—it's the easiest.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 199,
+    title: "15 Irresistible Low-Carb Desserts for Your Keto Diet",
+    date: "August 14, 2024",
+    category: "Keto Baking",
+    readTime: "8 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_820390/image/product/PUA436EA.png",
+    excerpt: "I thought keto meant no desserts. These 15 irresistible low-carb desserts proved me wrong—they're delicious and keep me in ketosis.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_820390/image/product/PUA436EA.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Giving up desserts was the hardest part of keto. I love sweets and thought I'd never enjoy them again. Then I discovered these 15 low-carb desserts.</p>
+        
+        <p>They're delicious, satisfying, and keep me in ketosis. Here are my favorites.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_820390/image/product/PUA436EA.png" alt="Low-carb desserts" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Low-Carb Dessert Toolkit</h4>
+            <p>These are the ingredients I use for low-carb desserts.</p>
+            <a href="https://ketobreads.net/ds/bakery-bundle#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Chocolate Desserts (5 Recipes)</h3>
+        <ul>
+            <li><strong>Keto Chocolate Mousse:</strong> Rich and creamy, 3g net carbs</li>
+            <li><strong>Keto Brownies:</strong> Fudgy and satisfying, 4g net carbs</li>
+            <li><strong>Keto Chocolate Cake:</strong> Decadent, 5g net carbs</li>
+            <li><strong>Keto Chocolate Truffles:</strong> Bite-sized, 2g net carbs</li>
+            <li><strong>Keto Hot Chocolate:</strong> Warm and comforting, 2g net carbs</li>
+        </ul>
+        
+        <h3>Cheesecake Desserts (5 Recipes)</h3>
+        <ul>
+            <li><strong>Classic Keto Cheesecake:</strong> Creamy, 4g net carbs</li>
+            <li><strong>Chocolate Cheesecake:</strong> Rich, 5g net carbs</li>
+            <li><strong>Berry Swirl Cheesecake:</strong> Fruity, 5g net carbs</li>
+            <li><strong>Pumpkin Cheesecake:</strong> Fall favorite, 5g net carbs</li>
+            <li><strong>No-Bake Cheesecake:</strong> Quick and easy, 4g net carbs</li>
+        </ul>
+        
+        <h3>Other Desserts (5 Recipes)</h3>
+        <ul>
+            <li><strong>Keto Ice Cream:</strong> Creamy, 3g net carbs</li>
+            <li><strong>Keto Lemon Bars:</strong> Tangy, 4g net carbs</li>
+            <li><strong>Keto Panna Cotta:</strong> Elegant, 3g net carbs</li>
+            <li><strong>Keto Tiramisu:</strong> Coffee-flavored, 5g net carbs</li>
+            <li><strong>Keto Cinnamon Rolls:</strong> Warm and gooey, 5g net carbs</li>
+        </ul>
+        
+        <h3>My Dessert Journey</h3>
+        <ul>
+            <li><strong>Before:</strong> No desserts on keto</li>
+            <li><strong>After:</strong> 15 delicious options</li>
+            <li><strong>Results:</strong> Satisfied cravings, stayed in ketosis</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Keto doesn't mean no desserts. These 15 low-carb desserts helped me satisfy my sweet tooth while staying in ketosis.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 200,
+    title: "The Ultimate Keto Baking Guide: Breads, Cookies & Desserts",
+    date: "August 13, 2024",
+    category: "Keto Baking",
+    readTime: "10 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_820390/image/product/PUA436EA.png",
+    excerpt: "This complete keto baking guide covers everything—breads, cookies, desserts, and more. I've tested every recipe to ensure they work.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_820390/image/product/PUA436EA.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I've tested dozens of keto baking recipes over the years. Some were great. Others were failures. This guide includes only the ones that actually work.</p>
+        
+        <p>Here's my complete keto baking guide—breads, cookies, desserts, and more. Every recipe has been tested and perfected.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_820390/image/product/PUA436EA.png" alt="Keto baking guide" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Keto Baking Guide Toolkit</h4>
+            <p>These are the essential ingredients for keto baking.</p>
+            <a href="https://ketobreads.net/ds/bakery-bundle#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Essential Keto Baking Ingredients</h3>
+        <ul>
+            <li><strong>Almond flour:</strong> The most versatile keto flour</li>
+            <li><strong>Coconut flour:</strong> Absorbent, use sparingly</li>
+            <li><strong>Erythritol:</strong> Best sugar substitute</li>
+            <li><strong>Eggs:</strong> Essential for structure</li>
+            <li><strong>Butter:</strong> Adds flavor and moisture</li>
+            <li><strong>Baking powder:</strong> For rise</li>
+            <li><strong>Xanthan gum:</strong> Helps with texture</li>
+        </ul>
+        
+        <h3>Keto Breads (5 Recipes)</h3>
+        <ul>
+            <li><strong>Classic Sandwich Bread:</strong> 2g net carbs per slice</li>
+            <li><strong>Garlic Bread:</strong> 3g net carbs per serving</li>
+            <li><strong>Cheese Bread:</strong> 2g net carbs per serving</li>
+            <li><strong>English Muffins:</strong> 3g net carbs each</li>
+            <li><strong>Flatbread:</strong> 2g net carbs per serving</li>
+        </ul>
+        
+        <h3>Keto Cookies (5 Recipes)</h3>
+        <ul>
+            <li><strong>Chocolate Chip:</strong> 3g net carbs per cookie</li>
+            <li><strong>Peanut Butter:</strong> 3g net carbs per cookie</li>
+            <li><strong>Snickerdoodle:</strong> 3g net carbs per cookie</li>
+            <li><strong>Gingerbread:</strong> 3g net carbs per cookie</li>
+            <li><strong>Shortbread:</strong> 2g net carbs per cookie</li>
+        </ul>
+        
+        <h3>Keto Desserts (5 Recipes)</h3>
+        <ul>
+            <li><strong>Cheesecake:</strong> 4g net carbs per slice</li>
+            <li><strong>Brownies:</strong> 4g net carbs per serving</li>
+            <li><strong>Chocolate Cake:</strong> 5g net carbs per slice</li>
+            <li><strong>Mug Cake:</strong> 3g net carbs per serving</li>
+            <li><strong>Ice Cream:</strong> 3g net carbs per serving</li>
+        </ul>
+        
+        <h3>My Keto Baking Tips</h3>
+        <ul>
+            <li><strong>Measure carefully:</strong> Keto baking is precise</li>
+            <li><strong>Use room temperature ingredients:</strong> Mixes better</li>
+            <li><strong>Don't overmix:</strong> Makes baked goods tough</li>
+            <li><strong>Check doneness early:</strong> Keto bakes faster</li>
+            <li><strong>Cool completely:</strong> Before slicing or serving</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Keto baking is possible and delicious. This guide covers breads, cookies, desserts, and everything in between.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 201,
+    title: "7-Day High-Protein Vegan Meal Plan for Beginners",
+    date: "August 12, 2024",
+    category: "High-Protein Vegan",
+    readTime: "9 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_4830506/image/product/701NPKUU.png",
+    excerpt: "I thought vegan meant low protein. This 7-day meal plan proved me wrong—it's high-protein, delicious, and perfect for beginners.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_4830506/image/product/701NPKUU.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I wanted to eat more plant-based but worried about protein. I thought vegan meant low protein and unsatisfying meals. This 7-day meal plan changed everything.</p>
+        
+        <p>Here's my high-protein vegan meal plan for beginners—delicious, satisfying, and packed with protein.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_4830506/image/product/701NPKUU.png" alt="High-protein vegan" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My High-Protein Vegan Toolkit</h4>
+            <p>These are the ingredients I use for high-protein vegan meals.</p>
+            <a href="https://www.checkout-ds24.com/redir/637568/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Day 1: Getting Started</h3>
+        <p><strong>Breakfast:</strong> Tofu scramble with vegetables (25g protein)</p>
+        <p><strong>Lunch:</strong> Lentil soup with quinoa (30g protein)</p>
+        <p><strong>Dinner:</strong> Chickpea curry with brown rice (35g protein)</p>
+        
+        <h3>Day 2: Building Momentum</h3>
+        <p><strong>Breakfast:</strong> Peanut butter smoothie (20g protein)</p>
+        <p><strong>Lunch:</strong> Black bean wrap (25g protein)</p>
+        <p><strong>Dinner:</strong> Tempeh stir-fry (30g protein)</p>
+        
+        <h3>Day 3: Finding Your Rhythm</h3>
+        <p><strong>Breakfast:</strong> Oatmeal with nuts and seeds (20g protein)</p>
+        <p><strong>Lunch:</strong> Chickpea salad wrap (25g protein)</p>
+        <p><strong>Dinner:</strong> Lentil bolognese (30g protein)</p>
+        
+        <h3>Day 4: Midweek Reset</h3>
+        <p><strong>Breakfast:</strong> Green smoothie with protein powder (25g protein)</p>
+        <p><strong>Lunch:</strong> Mediterranean quinoa bowl (25g protein)</p>
+        <p><strong>Dinner:</strong> Tofu curry (30g protein)</p>
+        
+        <h3>Day 5: Staying Strong</h3>
+        <p><strong>Breakfast:</strong> Avocado toast with hemp seeds (20g protein)</p>
+        <p><strong>Lunch:</strong> Bean and vegetable soup (25g protein)</p>
+        <p><strong>Dinner:</strong> Seitan stir-fry (35g protein)</p>
+        
+        <h3>Day 6: Weekend Prep</h3>
+        <p><strong>Breakfast:</strong> Protein pancakes (25g protein)</p>
+        <p><strong>Lunch:</strong> Buddha bowl with quinoa and chickpeas (30g protein)</p>
+        <p><strong>Dinner:</strong> Black bean burgers (25g protein)</p>
+        
+        <h3>Day 7: Review and Prep</h3>
+        <p><strong>Breakfast:</strong> Smoothie bowl with protein (25g protein)</p>
+        <p><strong>Lunch:</strong> Mediterranean lentil salad (25g protein)</p>
+        <p><strong>Dinner:</strong> Vegetable and tofu stir-fry (30g protein)</p>
+        
+        <h3>My High-Protein Vegan Results</h3>
+        <ul>
+            <li><strong>Protein:</strong> 100g+ daily</li>
+            <li><strong>Energy:</strong> Improved</li>
+            <li><strong>Weight:</strong> Lost 8 lbs in 4 weeks</li>
+            <li><strong>Overall:</strong> Feeling healthier and stronger</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Vegan can be high-protein and delicious. This 7-day meal plan helped me get enough protein while eating plant-based.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 202,
+    title: "20 High-Protein Vegan Foods to Add to Your Diet",
+    date: "August 11, 2024",
+    category: "High-Protein Vegan",
+    readTime: "7 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_4830506/image/product/701NPKUU.png",
+    excerpt: "I discovered 20 high-protein vegan foods that transformed my plant-based diet. They're delicious, filling, and packed with protein.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_4830506/image/product/701NPKUU.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I was worried about protein when I went vegan. I thought I'd need to eat massive amounts of food to get enough. Then I discovered these 20 high-protein vegan foods.</p>
+        
+        <p>They're delicious, filling, and packed with protein. Here's my complete list.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_4830506/image/product/701NPKUU.png" alt="Vegan protein foods" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My High-Protein Vegan Toolkit</h4>
+            <p>These are the high-protein vegan foods I eat regularly.</p>
+            <a href="https://www.checkout-ds24.com/redir/637568/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Legumes (5 Foods)</h3>
+        <ul>
+            <li><strong>Lentils:</strong> 18g protein per cup</li>
+            <li><strong>Chickpeas:</strong> 15g protein per cup</li>
+            <li><strong>Black beans:</strong> 15g protein per cup</li>
+            <li><strong>Kidney beans:</strong> 15g protein per cup</li>
+            <li><strong>Split peas:</strong> 16g protein per cup</li>
+        </ul>
+        
+        <h3>Soy Products (5 Foods)</h3>
+        <ul>
+            <li><strong>Tofu:</strong> 20g protein per 100g</li>
+            <li><strong>Tempeh:</strong> 21g protein per 100g</li>
+            <li><strong>Edamame:</strong> 17g protein per cup</li>
+            <li><strong>Soy milk:</strong> 8g protein per cup</li>
+            <li><strong>Soy yogurt:</strong> 10g protein per cup</li>
+        </ul>
+        
+        <h3>Seeds and Nuts (5 Foods)</h3>
+        <ul>
+            <li><strong>Hemp seeds:</strong> 10g protein per 3 tbsp</li>
+            <li><strong>Chia seeds:</strong> 5g protein per 2 tbsp</li>
+            <li><strong>Flaxseed:</strong> 5g protein per 2 tbsp</li>
+            <li><strong>Almonds:</strong> 6g protein per 1/4 cup</li>
+            <li><strong>Pumpkin seeds:</strong> 9g protein per 1/4 cup</li>
+        </ul>
+        
+        <h3>Grains (5 Foods)</h3>
+        <ul>
+            <li><strong>Quinoa:</strong> 8g protein per cup</li>
+            <li><strong>Amaranth:</strong> 9g protein per cup</li>
+            <li><strong>Buckwheat:</strong> 6g protein per cup</li>
+            <li><strong>Oats:</strong> 6g protein per cup</li>
+            <li><strong>Wild rice:</strong> 7g protein per cup</li>
+        </ul>
+        
+        <h3>How to Combine Plant Proteins</h3>
+        <ul>
+            <li><strong>Rice + beans:</strong> Complete protein</li>
+            <li><strong>Quinoa + lentils:</strong> Complete protein</li>
+            <li><strong>Tofu + brown rice:</strong> Complete protein</li>
+            <li><strong>Hummus + pita:</strong> Complete protein</li>
+            <li><strong>Peanut butter + bread:</strong> Complete protein</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Vegan protein is abundant and delicious. These 20 high-protein vegan foods helped me get enough protein on a plant-based diet.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 203,
+    title: "High-Protein Vegan Meal Prep Ideas for a Busy Week",
+    date: "August 10, 2024",
+    category: "High-Protein Vegan",
+    readTime: "7 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_4830506/image/product/701NPKUU.png",
+    excerpt: "I created these high-protein vegan meal prep ideas for busy weeks. They save time, keep me on track, and make healthy eating easy.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_4830506/image/product/701NPKUU.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Busy weeks always derailed my healthy eating. I'd grab convenience food and feel terrible. Then I started meal prepping high-protein vegan meals.</p>
+        
+        <p>These meal prep ideas save time, keep me on track, and make healthy eating easy.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_4830506/image/product/701NPKUU.png" alt="Vegan meal prep" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Meal Prep Toolkit</h4>
+            <p>These are the containers and ingredients I use for meal prep.</p>
+            <a href="https://www.checkout-ds24.com/redir/637568/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Breakfast Meal Prep</h3>
+        <ul>
+            <li><strong>Overnight Oats:</strong> Oats + plant milk + chia seeds + berries</li>
+            <li><strong>Tofu Scramble:</strong> Tofu + vegetables + spices</li>
+            <li><strong>Protein Smoothie Packs:</strong> Pre-portioned fruit + protein powder</li>
+        </ul>
+        
+        <h3>Lunch Meal Prep</h3>
+        <ul>
+            <li><strong>Quinoa Bowls:</strong> Quinoa + beans + vegetables + dressing</li>
+            <li><strong>Lentil Soup:</strong> Lentils + vegetables + broth</li>
+            <li><strong>Chickpea Salad:</strong> Chickpeas + vegetables + tahini dressing</li>
+        </ul>
+        
+        <h3>Dinner Meal Prep</h3>
+        <ul>
+            <li><strong>Tofu Stir-Fry:</strong> Tofu + vegetables + sauce</li>
+            <li><strong>Black Bean Burgers:</strong> Black beans + oats + spices</li>
+            <li><strong>Vegetable Curry:</strong> Vegetables + coconut milk + curry</li>
+        </ul>
+        
+        <h3>Snack Meal Prep</h3>
+        <ul>
+            <li><strong>Energy Balls:</strong> Dates + nuts + seeds</li>
+            <li><strong>Hummus:</strong> Chickpeas + tahini + lemon</li>
+            <li><strong>Roasted Chickpeas:</strong> Chickpeas + oil + spices</li>
+        </ul>
+        
+        <h3>My Meal Prep Schedule</h3>
+        <ul>
+            <li><strong>Sunday:</strong> 2 hours of prep for the week</li>
+            <li><strong>Monday-Wednesday:</strong> Use prepped meals</li>
+            <li><strong>Thursday:</strong> Quick prep for the weekend</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Meal prep makes healthy eating easy. These high-protein vegan ideas save time and keep me on track.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 204,
+    title: "15 Quick High-Protein Vegan Recipes for Busy Days",
+    date: "August 9, 2024",
+    category: "High-Protein Vegan",
+    readTime: "7 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_1016914/image/product/EKJ4P3B1.jpg",
+    excerpt: "I created these 15 quick high-protein vegan recipes for busy days. Each takes 20 minutes or less and is packed with plant-based protein.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_1016914/image/product/EKJ4P3B1.jpg');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I needed quick, high-protein vegan meals for busy days. These 15 recipes take 20 minutes or less and are packed with plant-based protein.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_1016914/image/product/EKJ4P3B1.jpg" alt="Quick vegan recipes" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Quick Vegan Toolkit</h4>
+            <p>These are the ingredients I use for quick vegan meals.</p>
+            <a href="https://www.digistore24.com/redir/499722/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Breakfast Recipes (5)</h3>
+        <ul>
+            <li><strong>Peanut Butter Smoothie:</strong> Peanut butter + banana + plant milk + protein powder</li>
+            <li><strong>Avocado Toast with Hemp Seeds:</strong> Gluten-free bread + avocado + hemp seeds</li>
+            <li><strong>Chia Pudding:</strong> Chia seeds + plant milk + berries</li>
+            <li><strong>Tofu Scramble:</strong> Tofu + spinach + tomatoes + spices</li>
+            <li><strong>Oatmeal with Nuts:</strong> Oats + plant milk + nuts + berries</li>
+        </ul>
+        
+        <h3>Lunch Recipes (5)</h3>
+        <ul>
+            <li><strong>Chickpea Salad Wrap:</strong> Chickpeas + vegan mayo + celery + lettuce wrap</li>
+            <li><strong>Lentil Soup:</strong> Lentils + vegetables + broth</li>
+            <li><strong>Quinoa Bowl:</strong> Quinoa + black beans + avocado + salsa</li>
+            <li><strong>Hummus and Vegetable Wrap:</strong> Hummus + vegetables + tortilla</li>
+            <li><strong>Green Smoothie:</strong> Spinach + banana + protein powder + plant milk</li>
+        </ul>
+        
+        <h3>Dinner Recipes (5)</h3>
+        <ul>
+            <li><strong>Tofu Stir-Fry:</strong> Tofu + vegetables + soy sauce</li>
+            <li><strong>Black Bean Burgers:</strong> Black beans + oats + spices</li>
+            <li><strong>Chickpea Curry:</strong> Chickpeas + coconut milk + curry</li>
+            <li><strong>Lentil Bolognese:</strong> Lentils + tomato sauce + pasta</li>
+            <li><strong>Tempeh Tacos:</strong> Tempeh + spices + lettuce wraps</li>
+        </ul>
+        
+        <h3>My Quick Meal Results</h3>
+        <ul>
+            <li><strong>Time:</strong> 15-20 minutes per meal</li>
+            <li><strong>Protein:</strong> 25-35g per meal</li>
+            <li><strong>Energy:</strong> Sustained throughout the day</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> High-protein vegan meals can be quick and easy. These 15 recipes take 20 minutes or less and keep me energized.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 205,
+    title: "10 Easy Vegan Protein Meals Ready in 20 Minutes",
+    date: "August 8, 2024",
+    category: "High-Protein Vegan",
+    readTime: "6 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_1016914/image/product/EKJ4P3B1.jpg",
+    excerpt: "I needed vegan protein meals that were ready in 20 minutes. These 10 recipes are my go-to—quick, protein-packed, and delicious.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_1016914/image/product/EKJ4P3B1.jpg');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I don't have time for complicated meals. I need easy, protein-packed meals ready in 20 minutes. These 10 vegan protein meals are my go-to.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_1016914/image/product/EKJ4P3B1.jpg" alt="Vegan protein meals" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Vegan Meal Toolkit</h4>
+            <p>These are the ingredients I use for quick vegan protein meals.</p>
+            <a href="https://www.digistore24.com/redir/499722/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Meal #1: Tofu Scramble</h3>
+        <p>Tofu + spinach + tomatoes + spices. 15 minutes, 25g protein</p>
+        
+        <h3>Meal #2: Lentil Soup</h3>
+        <p>Lentils + vegetables + broth. 20 minutes, 28g protein</p>
+        
+        <h3>Meal #3: Chickpea Wrap</h3>
+        <p>Chickpeas + vegetables + dressing in a wrap. 10 minutes, 22g protein</p>
+        
+        <h3>Meal #4: Quinoa Bowl</h3>
+        <p>Quinoa + black beans + avocado + salsa. 15 minutes, 25g protein</p>
+        
+        <h3>Meal #5: Tofu Stir-Fry</h3>
+        <p>Tofu + vegetables + soy sauce. 20 minutes, 28g protein</p>
+        
+        <h3>Meal #6: Black Bean Burgers</h3>
+        <p>Black beans + oats + spices. 20 minutes, 22g protein</p>
+        
+        <h3>Meal #7: Chickpea Curry</h3>
+        <p>Chickpeas + coconut milk + curry. 20 minutes, 25g protein</p>
+        
+        <h3>Meal #8: Lentil Bolognese</h3>
+        <p>Lentils + tomato sauce + pasta. 20 minutes, 30g protein</p>
+        
+        <h3>Meal #9: Tempeh Tacos</h3>
+        <p>Tempeh + spices + lettuce wraps. 15 minutes, 26g protein</p>
+        
+        <h3>Meal #10: Green Smoothie Bowl</h3>
+        <p>Spinach + banana + protein powder + toppings. 10 minutes, 25g protein</p>
+        
+        <h3>My Results</h3>
+        <ul>
+            <li><strong>Time:</strong> 10-20 minutes per meal</li>
+            <li><strong>Protein:</strong> 22-30g per meal</li>
+            <li><strong>Satisfaction:</strong> Full and energized</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Vegan protein meals can be quick and satisfying. These 10 recipes are ready in 20 minutes and packed with protein.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 206,
+    title: "Easy High-Protein Vegan Dinners for Busy Weeknights",
+    date: "August 7, 2024",
+    category: "High-Protein Vegan",
+    readTime: "7 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_1016914/image/product/EKJ4P3B1.jpg",
+    excerpt: "I created these easy high-protein vegan dinners for busy weeknights. They're quick, satisfying, and packed with plant-based protein.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_1016914/image/product/EKJ4P3B1.jpg');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Weeknights are busy. I need easy, satisfying dinners that are ready quickly. These high-protein vegan dinners are my go-to for busy nights.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_1016914/image/product/EKJ4P3B1.jpg" alt="Vegan dinners" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Vegan Dinner Toolkit</h4>
+            <p>These are the recipes I use for quick vegan dinners.</p>
+            <a href="https://www.digistore24.com/redir/499722/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Monday: Chickpea Curry</h3>
+        <p>Chickpeas + coconut milk + curry + rice. 20 minutes, 28g protein</p>
+        
+        <h3>Tuesday: Tofu Stir-Fry</h3>
+        <p>Tofu + vegetables + soy sauce + rice. 20 minutes, 30g protein</p>
+        
+        <h3>Wednesday: Black Bean Burgers</h3>
+        <p>Black beans + oats + spices + bun. 20 minutes, 25g protein</p>
+        
+        <h3>Thursday: Lentil Bolognese</h3>
+        <p>Lentils + tomato sauce + pasta. 20 minutes, 32g protein</p>
+        
+        <h3>Friday: Tempeh Tacos</h3>
+        <p>Tempeh + spices + lettuce wraps. 15 minutes, 28g protein</p>
+        
+        <h3>Saturday: Quinoa Bowl</h3>
+        <p>Quinoa + black beans + avocado + salsa. 15 minutes, 25g protein</p>
+        
+        <h3>Sunday: Vegetable Stir-Fry</h3>
+        <p>Vegetables + tofu + soy sauce + rice. 20 minutes, 28g protein</p>
+        
+        <h3>My Weeknight Results</h3>
+        <ul>
+            <li><strong>Prep time:</strong> 15-20 minutes</li>
+            <li><strong>Protein:</strong> 25-32g per meal</li>
+            <li><strong>Satisfaction:</strong> Full and energized</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Weeknight vegan dinners can be quick and high-protein. These 7 recipes are my go-to for busy nights.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 207,
+    title: "52 Weeks of Healthy Dinner Ideas for the Whole Year",
+    date: "August 6, 2024",
+    category: "Healthy Dinner Ideas",
+    readTime: "10 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_3619098/image/product/Q1ECL5UW.png",
+    excerpt: "I created 52 weeks of healthy dinner ideas—one for every week of the year. They're varied, delicious, and take the guesswork out of dinner planning.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_3619098/image/product/Q1ECL5UW.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Dinner planning was overwhelming. Every week, I'd struggle to figure out what to cook. Then I created 52 weeks of dinner ideas—one for every week of the year.</p>
+        
+        <p>Here's my complete year of healthy dinner ideas. They're varied, delicious, and take the guesswork out of dinner planning.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_3619098/image/product/Q1ECL5UW.png" alt="Healthy dinners" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Dinner Planning Toolkit</h4>
+            <p>These are the recipes I use for healthy dinners.</p>
+            <a href="https://www.checkout-ds24.com/redir/701215/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Seasonal Dinner Ideas</h3>
+        
+        <h4>Spring (Weeks 1-13)</h4>
+        <ul>
+            <li>Week 1: Lemon Herb Chicken</li>
+            <li>Week 2: Spring Vegetable Pasta</li>
+            <li>Week 3: Grilled Salmon with Asparagus</li>
+            <li>Week 4: Quinoa and Vegetable Bowl</li>
+            <li>Week 5: Chicken Stir-Fry</li>
+            <li>Week 6: Vegetable Curry</li>
+            <li>Week 7: Turkey Burgers</li>
+            <li>Week 8: Shrimp Scampi</li>
+            <li>Week 9: Grilled Vegetable Salad</li>
+            <li>Week 10: Chicken and Vegetable Soup</li>
+            <li>Week 11: Lentil Bolognese</li>
+            <li>Week 12: Fish Tacos</li>
+            <li>Week 13: Spring Frittata</li>
+        </ul>
+        
+        <h4>Summer (Weeks 14-26)</h4>
+        <ul>
+            <li>Week 14: Grilled Steak</li>
+            <li>Week 15: Summer Vegetable Pasta</li>
+            <li>Week 16: Grilled Fish with Salsa</li>
+            <li>Week 17: Quinoa Salad</li>
+            <li>Week 18: Chicken and Vegetable Skewers</li>
+            <li>Week 19: Vegetable and Chickpea Curry</li>
+            <li>Week 20: Turkey and Vegetable Wraps</li>
+            <li>Week 21: Shrimp and Vegetable Stir-Fry</li>
+            <li>Week 22: Grilled Vegetable Bowl</li>
+            <li>Week 23: Cold Noodle Salad</li>
+            <li>Week 24: Fish and Vegetable Packet</li>
+            <li>Week 25: Taco Salad</li>
+            <li>Week 26: Summer Frittata</li>
+        </ul>
+        
+        <h4>Fall (Weeks 27-39)</h4>
+        <ul>
+            <li>Week 27: Roasted Chicken</li>
+            <li>Week 28: Vegetable and Lentil Soup</li>
+            <li>Week 29: Turkey Meatloaf</li>
+            <li>Week 30: Stuffed Peppers</li>
+            <li>Week 31: Chicken and Vegetable Stew</li>
+            <li>Week 32: Vegetable and Quinoa Bowl</li>
+            <li>Week 33: Pork Tenderloin</li>
+            <li>Week 34: Fall Vegetable Pasta</li>
+            <li>Week 35: Salmon with Roasted Vegetables</li>
+            <li>Week 36: Turkey and Vegetable Chili</li>
+            <li>Week 37: Butternut Squash Soup</li>
+            <li>Week 38: Chicken and Vegetable Casserole</li>
+            <li>Week 39: Lentil and Vegetable Stew</li>
+        </ul>
+        
+        <h4>Winter (Weeks 40-52)</h4>
+        <ul>
+            <li>Week 40: Roast Chicken with Vegetables</li>
+            <li>Week 41: Vegetable and Bean Soup</li>
+            <li>Week 42: Turkey and Vegetable Casserole</li>
+            <li>Week 43: Beef Stew</li>
+            <li>Week 44: Chicken and Vegetable Soup</li>
+            <li>Week 45: Vegetable and Lentil Chili</li>
+            <li>Week 46: Pasta with Vegetable Sauce</li>
+            <li>Week 47: Fish and Vegetable Bake</li>
+            <li>Week 48: Winter Vegetable Stir-Fry</li>
+            <li>Week 49: Turkey and Vegetable Shepherd's Pie</li>
+            <li>Week 50: Vegetable and Quinoa Soup</li>
+            <li>Week 51: Roasted Vegetable and Chicken</li>
+            <li>Week 52: New Year Celebration Dinner</li>
+        </ul>
+        
+        <h3>My Dinner Planning Results</h3>
+        <ul>
+            <li><strong>No guesswork:</strong> Every week is planned</li>
+            <li><strong>Variety:</strong> Never bored with meals</li>
+            <li><strong>Healthy:</strong> Balanced and nutritious</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Planning dinners doesn't have to be difficult. This 52-week guide takes the guesswork out of dinner planning for the whole year.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 208,
+    title: "20 Healthy Dinner Ideas for Easy Weekly Meal Planning",
+    date: "August 5, 2024",
+    category: "Healthy Dinner Ideas",
+    readTime: "7 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_3619098/image/product/Q1ECL5UW.png",
+    excerpt: "I needed easy healthy dinner ideas for weekly meal planning. These 20 recipes are my go-to—simple, nutritious, and family-friendly.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_3619098/image/product/Q1ECL5UW.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Meal planning is easier when you have a go-to list of recipes. These 20 healthy dinner ideas are my favorites—simple, nutritious, and family-friendly.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_3619098/image/product/Q1ECL5UW.png" alt="Dinner ideas" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Dinner Meal Plan Toolkit</h4>
+            <p>These are the recipes I use for weekly meal planning.</p>
+            <a href="https://www.checkout-ds24.com/redir/701215/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Chicken Dinners (5)</h3>
+        <ul>
+            <li><strong>Lemon Herb Chicken:</strong> Chicken + lemon + herbs + vegetables</li>
+            <li><strong>Chicken Stir-Fry:</strong> Chicken + vegetables + soy sauce</li>
+            <li><strong>Chicken and Vegetable Soup:</strong> Chicken + vegetables + broth</li>
+            <li><strong>Grilled Chicken:</strong> Chicken + spices + vegetables</li>
+            <li><strong>Chicken and Vegetable Casserole:</strong> Chicken + vegetables + cheese</li>
+        </ul>
+        
+        <h3>Fish Dinners (5)</h3>
+        <ul>
+            <li><strong>Grilled Salmon:</strong> Salmon + lemon + herbs</li>
+            <li><strong>Fish Tacos:</strong> Fish + lettuce + tomatoes + salsa</li>
+            <li><strong>Shrimp Scampi:</strong> Shrimp + garlic + lemon + pasta</li>
+            <li><strong>Baked Fish:</strong> Fish + vegetables + herbs</li>
+            <li><strong>Fish and Vegetable Packet:</strong> Fish + vegetables + foil packet</li>
+        </ul>
+        
+        <h3>Vegetarian Dinners (5)</h3>
+        <ul>
+            <li><strong>Lentil Bolognese:</strong> Lentils + tomato sauce + pasta</li>
+            <li><strong>Chickpea Curry:</strong> Chickpeas + coconut milk + curry</li>
+            <li><strong>Quinoa Bowl:</strong> Quinoa + beans + vegetables + dressing</li>
+            <li><strong>Vegetable Stir-Fry:</strong> Vegetables + soy sauce + rice</li>
+            <li><strong>Stuffed Peppers:</strong> Peppers + quinoa + vegetables</li>
+        </ul>
+        
+        <h3>Other Dinners (5)</h3>
+        <ul>
+            <li><strong>Turkey Burgers:</strong> Turkey + lettuce + tomato</li>
+            <li><strong>Beef Stir-Fry:</strong> Beef + vegetables + soy sauce</li>
+            <li><strong>Pork Tenderloin:</strong> Pork + herbs + vegetables</li>
+            <li><strong>Vegetable Curry:</strong> Vegetables + coconut milk + curry</li>
+            <li><strong>Taco Salad:</strong> Meat + lettuce + tomatoes + cheese</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Meal planning is easier with these 20 healthy dinner ideas. They're simple, nutritious, and perfect for weekly planning.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 209,
+    title: "260 Healthy Dinner Ideas to Inspire Your Meal Plan",
+    date: "August 4, 2024",
+    category: "Healthy Dinner Ideas",
+    readTime: "10 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_3619098/image/product/Q1ECL5UW.png",
+    excerpt: "I compiled 260 healthy dinner ideas to inspire your meal plan. That's one dinner for every day of the year—with 100 extra to spare.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_3619098/image/product/Q1ECL5UW.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Dinner inspiration never runs out with 260 ideas. That's one dinner for every day of the year—with 100 extra to spare.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_3619098/image/product/Q1ECL5UW.png" alt="Dinner inspiration" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Dinner Inspiration Toolkit</h4>
+            <p>These are the recipes that keep me inspired.</p>
+            <a href="https://www.checkout-ds24.com/redir/701215/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Chicken Dinners (60 Ideas)</h3>
+        <ul>
+            <li>Grilled chicken, roasted chicken, chicken stir-fry, chicken soup, chicken casserole, chicken salad, chicken curry, chicken tacos, chicken pasta, chicken wrap</li>
+            <li>Lemon herb chicken, garlic chicken, honey mustard chicken, barbecue chicken, teriyaki chicken, chicken fajitas, chicken enchiladas, chicken pot pie, chicken meatballs, chicken skewers</li>
+        </ul>
+        
+        <h3>Fish and Seafood Dinners (40 Ideas)</h3>
+        <ul>
+            <li>Salmon, grilled fish, baked fish, fish tacos, shrimp scampi, shrimp stir-fry, shrimp curry, salmon bowl, tuna salad, fish soup</li>
+            <li>Grilled salmon, baked cod, lemon fish, garlic shrimp, shrimp pasta, fish cakes, salmon burgers, fish stew, shrimp and vegetables, fish and chips</li>
+        </ul>
+        
+        <h3>Vegetarian Dinners (60 Ideas)</h3>
+        <ul>
+            <li>Lentil soup, chickpea curry, quinoa bowl, vegetable stir-fry, stuffed peppers, vegetable curry, bean burgers, lentil bolognese, vegetable pasta, tofu stir-fry</li>
+            <li>Vegetable soup, chickpea salad, lentil salad, quinoa salad, vegetable chili, bean soup, tofu curry, tempeh stir-fry, vegetable frittata, vegetable stew</li>
+        </ul>
+        
+        <h3>Meat Dinners (40 Ideas)</h3>
+        <ul>
+            <li>Steak, pork chops, turkey burgers, beef stir-fry, pork tenderloin, turkey meatloaf, beef stew, roast beef, pork curry, turkey chili</li>
+            <li>Grilled steak, pork roast, turkey breast, beef stew, pork stir-fry, turkey soup, beef curry, pork chops, turkey burgers, beef tacos</li>
+        </ul>
+        
+        <h3>Quick Dinners (60 Ideas)</h3>
+        <ul>
+            <li>Salad bowls, wraps, sandwiches, stir-fries, pasta, rice bowls, soup, omelets, frittatas, tacos</li>
+            <li>20-minute dinners, one-pan meals, sheet pan dinners, quick soups, fast salads, easy wraps, simple sandwiches, quick stir-fries, fast pasta, 15-minute meals</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> 260 healthy dinner ideas will keep you inspired all year. Never run out of dinner ideas again.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 210,
+    title: "20 Healthy Smoothie Recipes for Breakfast & Snacks",
+    date: "August 3, 2024",
+    category: "Smoothies",
+    readTime: "7 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_3619098/image/product/AY5ERAB1.png",
+    excerpt: "I created 20 healthy smoothie recipes for breakfast and snacks. They're quick, nutritious, and keep me energized all day.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_3619098/image/product/AY5ERAB1.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I needed quick, healthy options for breakfast and snacks. These 20 smoothie recipes are my go-to—they're nutritious, delicious, and keep me energized.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_3619098/image/product/AY5ERAB1.png" alt="Smoothie recipes" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Smoothie Toolkit</h4>
+            <p>These are the ingredients I use for healthy smoothies.</p>
+            <a href="https://www.checkout-ds24.com/redir/711237/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Breakfast Smoothies (10)</h3>
+        <ul>
+            <li><strong>Berry Blast:</strong> Berries + banana + almond milk</li>
+            <li><strong>Green Morning:</strong> Spinach + banana + apple + almond milk</li>
+            <li><strong>Tropical Sunrise:</strong> Mango + pineapple + coconut milk</li>
+            <li><strong>Chocolate Peanut Butter:</strong> Cocoa + banana + peanut butter + almond milk</li>
+            <li><strong>Strawberry Banana:</strong> Strawberries + banana + almond milk</li>
+            <li><strong>Blueberry Oat:</strong> Blueberries + oats + almond milk</li>
+            <li><strong>Avocado Green:</strong> Avocado + spinach + banana + almond milk</li>
+            <li><strong>Protein Power:</strong> Protein powder + banana + almond milk</li>
+            <li><strong>Mango Tango:</strong> Mango + orange juice + banana</li>
+            <li><strong>Peach Smoothie:</strong> Peach + banana + almond milk</li>
+        </ul>
+        
+        <h3>Snack Smoothies (10)</h3>
+        <ul>
+            <li><strong>Berry Protein:</strong> Berries + protein powder + almond milk</li>
+            <li><strong>Green Snack:</strong> Spinach + cucumber + apple + water</li>
+            <li><strong>Tropical Snack:</strong> Pineapple + mango + coconut water</li>
+            <li><strong>Chocolate Snack:</strong> Cocoa + banana + almond milk</li>
+            <li><strong>Strawberry Snack:</strong> Strawberries + banana + almond milk</li>
+            <li><strong>Blueberry Snack:</strong> Blueberries + banana + almond milk</li>
+            <li><strong>Avocado Snack:</strong> Avocado + banana + almond milk</li>
+            <li><strong>Protein Snack:</strong> Protein powder + berries + almond milk</li>
+            <li><strong>Mango Snack:</strong> Mango + banana + almond milk</li>
+            <li><strong>Peach Snack:</strong> Peach + banana + almond milk</li>
+        </ul>
+        
+        <h3>My Smoothie Results</h3>
+        <ul>
+            <li><strong>Energy:</strong> Sustained all day</li>
+            <li><strong>Convenience:</strong> Quick and easy</li>
+            <li><strong>Health:</strong> Nutrient-dense</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Smoothies are a great way to get nutrition quickly. These 20 recipes keep me energized and satisfied.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 211,
+    title: "15 High-Protein Smoothie Recipes That Actually Taste Delicious",
+    date: "August 2, 2024",
+    category: "Smoothies",
+    readTime: "7 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_3619098/image/product/AY5ERAB1.png",
+    excerpt: "I created 15 high-protein smoothie recipes that actually taste delicious. They're packed with protein and full of flavor.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_3619098/image/product/AY5ERAB1.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I needed high-protein smoothies that actually tasted good. I was tired of chalky protein shakes. These 15 recipes are delicious and packed with protein.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_3619098/image/product/AY5ERAB1.png" alt="Protein smoothies" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Protein Smoothie Toolkit</h4>
+            <p>These are the ingredients I use for protein smoothies.</p>
+            <a href="https://www.checkout-ds24.com/redir/711237/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Chocolate Protein Smoothies (5)</h3>
+        <ul>
+            <li><strong>Chocolate Peanut Butter:</strong> Protein powder + cocoa + peanut butter + banana + almond milk</li>
+            <li><strong>Chocolate Banana:</strong> Protein powder + cocoa + banana + almond milk</li>
+            <li><strong>Chocolate Berry:</strong> Protein powder + cocoa + berries + almond milk</li>
+            <li><strong>Double Chocolate:</strong> Protein powder + cocoa + chocolate chips + banana + almond milk</li>
+            <li><strong>Chocolate Mint:</strong> Protein powder + cocoa + mint + almond milk</li>
+        </ul>
+        
+        <h3>Berry Protein Smoothies (5)</h3>
+        <ul>
+            <li><strong>Triple Berry:</strong> Protein powder + mixed berries + banana + almond milk</li>
+            <li><strong>Strawberry Banana:</strong> Protein powder + strawberries + banana + almond milk</li>
+            <li><strong>Blueberry Almond:</strong> Protein powder + blueberries + almond butter + almond milk</li>
+            <li><strong>Raspberry Coconut:</strong> Protein powder + raspberries + coconut milk + banana</li>
+            <li><strong>Cherry Almond:</strong> Protein powder + cherries + almond butter + almond milk</li>
+        </ul>
+        
+        <h3>Green Protein Smoothies (5)</h3>
+        <ul>
+            <li><strong>Green Power:</strong> Protein powder + spinach + banana + almond milk</li>
+            <li><strong>Kale Berry:</strong> Protein powder + kale + berries + almond milk</li>
+            <li><strong>Avocado Green:</strong> Protein powder + avocado + spinach + banana + almond milk</li>
+            <li><strong>Minty Green:</strong> Protein powder + spinach + mint + banana + almond milk</li>
+            <li><strong>Cucumber Lime:</strong> Protein powder + cucumber + lime + spinach + water</li>
+        </ul>
+        
+        <h3>My Protein Smoothie Results</h3>
+        <ul>
+            <li><strong>Protein:</strong> 25-30g per smoothie</li>
+            <li><strong>Taste:</strong> Delicious and satisfying</li>
+            <li><strong>Energy:</strong> Sustained all day</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> High-protein smoothies can taste delicious. These 15 recipes are packed with protein and full of flavor.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 212,
+    title: "100 Smoothie Ideas: Fruit, Green, Protein & Dessert Smoothies",
+    date: "August 1, 2024",
+    category: "Smoothies",
+    readTime: "10 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_3619098/image/product/AY5ERAB1.png",
+    excerpt: "I compiled 100 smoothie ideas—fruit, green, protein, and dessert. There's something for every craving and every time of day.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_3619098/image/product/AY5ERAB1.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I never run out of smoothie ideas with this collection. 100 smoothies—fruit, green, protein, and dessert—for every craving and time of day.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_3619098/image/product/AY5ERAB1.png" alt="Smoothie ideas" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Smoothie Ideas Toolkit</h4>
+            <p>These are the ingredients I use for different smoothies.</p>
+            <a href="https://www.checkout-ds24.com/redir/711237/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Fruit Smoothies (25 Ideas)</h3>
+        <ul>
+            <li>Berry Blast, Strawberry Banana, Mango Tango, Peach Paradise, Tropical Sunrise, Blueberry Oat, Pineapple Coconut, Watermelon Lime, Grapefruit Orange, Apple Cinnamon, Pear Ginger, Cherry Almond, Raspberry Lemon, Blackberry Mint, Kiwi Lime, Papaya Orange, Passionfruit Banana, Guava Pineapple, Lychee Mango, Dragon Fruit Berry, Cantaloupe Mint, Honeydew Lime, Peach Mango, Fig Honey, Plum Berry</li>
+        </ul>
+        
+        <h3>Green Smoothies (25 Ideas)</h3>
+        <ul>
+            <li>Green Power, Kale Berry, Avocado Green, Minty Green, Cucumber Lime, Spinach Apple, Celery Green, Swiss Chard Berry, Collard Mango, Arugula Peach, Watercress Pineapple, Bok Choy Banana, Pea Shoot Berry, Herb Garden, Green Detox, Tropical Green, Citrus Green, Berry Green, Mango Green, Apple Green, Pineapple Green, Kiwi Green, Pear Green, Melon Green, Mint Green</li>
+        </ul>
+        
+        <h3>Protein Smoothies (25 Ideas)</h3>
+        <ul>
+            <li>Chocolate Peanut Butter, Chocolate Banana, Triple Berry, Strawberry Banana, Blueberry Almond, Chocolate Almond, Vanilla Berry, Vanilla Banana, Coffee Protein, Matcha Protein, Mocha Protein, Peanut Butter Banana, Almond Butter Berry, Cashew Butter Banana, Sunflower Butter Berry, Coconut Protein, Chocolate Coconut, Berry Coconut, Green Protein, Tropical Protein, Chocolate Mint, Strawberry Protein, Banana Protein, Mixed Berry Protein, Mango Protein</li>
+        </ul>
+        
+        <h3>Dessert Smoothies (25 Ideas)</h3>
+        <ul>
+            <li>Chocolate Dream, Vanilla Bean, Strawberry Cheesecake, Blueberry Pie, Chocolate Chip Cookie, Peanut Butter Cup, Banana Split, Mango Lassi, Chocolate Brownie, Cinnamon Roll, Apple Pie, Pumpkin Spice, Caramel Apple, Chocolate Hazelnut, Vanilla Almond, Strawberry Shortcake, Lemon Meringue, Key Lime Pie, Coconut Cream, Tiramisu, Chocolate Mint, Banana Pudding, Peach Cobbler, Berry Crumble, Cookie Dough</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> 100 smoothie ideas mean you'll never get bored. Fruit, green, protein, and dessert—there's something for everyone.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 213,
+    title: "15 High-Protein Fitness Meals for a Healthy Lifestyle",
+    date: "July 31, 2024",
+    category: "High-Protein Fitness",
+    readTime: "7 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_5629071/image/product/O798VS53.jpg",
+    excerpt: "I created 15 high-protein fitness meals for a healthy lifestyle. They support muscle recovery, keep me full, and taste amazing.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_5629071/image/product/O798VS53.jpg');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I needed high-protein meals that supported my fitness goals. These 15 recipes are my go-to—they support muscle recovery, keep me full, and taste amazing.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_5629071/image/product/O798VS53.jpg" alt="Fitness meals" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Fitness Meal Toolkit</h4>
+            <p>These are the recipes I use for fitness meals.</p>
+            <a href="https://www.checkout-ds24.com/redir/715344/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Breakfast Fitness Meals (5)</h3>
+        <ul>
+            <li><strong>Protein Oatmeal:</strong> Oats + protein powder + berries</li>
+            <li><strong>Egg Scramble:</strong> Eggs + vegetables + cheese</li>
+            <li><strong>Greek Yogurt Bowl:</strong> Greek yogurt + granola + berries</li>
+            <li><strong>Protein Smoothie:</strong> Protein powder + banana + almond milk</li>
+            <li><strong>Tofu Scramble:</strong> Tofu + vegetables + spices</li>
+        </ul>
+        
+        <h3>Lunch Fitness Meals (5)</h3>
+        <ul>
+            <li><strong>Chicken Salad:</strong> Chicken + avocado + greens</li>
+            <li><strong>Tuna Salad:</strong> Tuna + avocado + greens</li>
+            <li><strong>Quinoa Bowl:</strong> Quinoa + beans + vegetables</li>
+            <li><strong>Lentil Soup:</strong> Lentils + vegetables + broth</li>
+            <li><strong>Turkey Wrap:</strong> Turkey + vegetables + wrap</li>
+        </ul>
+        
+        <h3>Dinner Fitness Meals (5)</h3>
+        <ul>
+            <li><strong>Grilled Salmon:</strong> Salmon + asparagus + quinoa</li>
+            <li><strong>Chicken Stir-Fry:</strong> Chicken + vegetables + rice</li>
+            <li><strong>Beef and Broccoli:</strong> Beef + broccoli + rice</li>
+            <li><strong>Turkey Burgers:</strong> Turkey + lettuce + tomato</li>
+            <li><strong>Fish Tacos:</strong> Fish + lettuce + salsa</li>
+        </ul>
+        
+        <h3>My Fitness Results</h3>
+        <ul>
+            <li><strong>Protein:</strong> 100-120g daily</li>
+            <li><strong>Muscle recovery:</strong> Improved</li>
+            <li><strong>Energy:</strong> Sustained through workouts</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> High-protein fitness meals support muscle recovery and energy. These 15 recipes keep me fueled and satisfied.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 214,
+    title: "20 Easy High-Protein Recipes for Fitness & Meal Prep",
+    date: "July 30, 2024",
+    category: "High-Protein Fitness",
+    readTime: "7 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_5629071/image/product/O798VS53.jpg",
+    excerpt: "I created 20 easy high-protein recipes for fitness and meal prep. They're simple, nutritious, and perfect for busy weeks.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_5629071/image/product/O798VS53.jpg');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I needed easy high-protein recipes for fitness and meal prep. These 20 recipes are my go-to—simple, nutritious, and perfect for busy weeks.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_5629071/image/product/O798VS53.jpg" alt="Meal prep recipes" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Meal Prep Toolkit</h4>
+            <p>These are the recipes I use for meal prep.</p>
+            <a href="https://www.checkout-ds24.com/redir/715344/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Breakfast Meal Prep (5)</h3>
+        <ul>
+            <li><strong>Egg Muffins:</strong> Eggs + vegetables + cheese</li>
+            <li><strong>Overnight Oats:</strong> Oats + protein powder + berries</li>
+            <li><strong>Greek Yogurt Parfaits:</strong> Greek yogurt + granola + berries</li>
+            <li><strong>Protein Pancakes:</strong> Protein powder + eggs + oats</li>
+            <li><strong>Breakfast Burritos:</strong> Eggs + beans + vegetables</li>
+        </ul>
+        
+        <h3>Lunch Meal Prep (5)</h3>
+        <ul>
+            <li><strong>Chicken and Quinoa Bowls:</strong> Chicken + quinoa + vegetables</li>
+            <li><strong>Lentil Soup:</strong> Lentils + vegetables + broth</li>
+            <li><strong>Tuna Salad Containers:</strong> Tuna + greens + dressing</li>
+            <li><strong>Turkey and Vegetable Wraps:</strong> Turkey + vegetables + wrap</li>
+            <li><strong>Salad Jars:</strong> Greens + protein + vegetables + dressing</li>
+        </ul>
+        
+        <h3>Dinner Meal Prep (5)</h3>
+        <ul>
+            <li><strong>Grilled Chicken and Vegetables:</strong> Chicken + vegetables</li>
+            <li><strong>Salmon and Asparagus:</strong> Salmon + asparagus</li>
+            <li><strong>Turkey Meatballs:</strong> Turkey + breadcrumbs + sauce</li>
+            <li><strong>Beef Stir-Fry:</strong> Beef + vegetables + rice</li>
+            <li><strong>Vegetable and Bean Casserole:</strong> Vegetables + beans + cheese</li>
+        </ul>
+        
+        <h3>Snack Meal Prep (5)</h3>
+        <ul>
+            <li><strong>Energy Balls:</strong> Dates + nuts + protein powder</li>
+            <li><strong>Hard-Boiled Eggs:</strong> Eggs</li>
+            <li><strong>Greek Yogurt Cups:</strong> Greek yogurt + berries</li>
+            <li><strong>Protein Bars:</strong> Oats + protein powder + nut butter</li>
+            <li><strong>Nuts and Seeds Mix:</strong> Almonds + walnuts + pumpkin seeds</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Meal prep is easier with these 20 high-protein recipes. They're simple, nutritious, and perfect for busy weeks.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 215,
+    title: "10 High-Protein Breakfast Ideas to Fuel Your Day",
+    date: "July 29, 2024",
+    category: "High-Protein Fitness",
+    readTime: "6 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_5629071/image/product/O798VS53.jpg",
+    excerpt: "I created 10 high-protein breakfast ideas to fuel my day. They're quick, satisfying, and keep me energized all morning.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_5629071/image/product/O798VS53.jpg');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Breakfast sets the tone for the day. These 10 high-protein breakfast ideas fuel my day and keep me energized all morning.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_5629071/image/product/O798VS53.jpg" alt="High-protein breakfast" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Breakfast Toolkit</h4>
+            <p>These are the recipes I use for high-protein breakfasts.</p>
+            <a href="https://www.checkout-ds24.com/redir/715344/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Idea #1: Protein Oatmeal</h3>
+        <p>Oats + protein powder + berries + nuts. 25g protein</p>
+        
+        <h3>Idea #2: Egg Scramble</h3>
+        <p>3 eggs + spinach + tomatoes + cheese. 25g protein</p>
+        
+        <h3>Idea #3: Greek Yogurt Bowl</h3>
+        <p>Greek yogurt + granola + berries. 25g protein</p>
+        
+        <h3>Idea #4: Protein Smoothie</h3>
+        <p>Protein powder + banana + almond milk + peanut butter. 30g protein</p>
+        
+        <h3>Idea #5: Tofu Scramble</h3>
+        <p>Tofu + vegetables + spices. 25g protein</p>
+        
+        <h3>Idea #6: Protein Pancakes</h3>
+        <p>Protein powder + eggs + oats + berries. 25g protein</p>
+        
+        <h3>Idea #7: Breakfast Burrito</h3>
+        <p>Eggs + beans + cheese + vegetables. 25g protein</p>
+        
+        <h3>Idea #8: Smoked Salmon Toast</h3>
+        <p>Smoked salmon + cream cheese + whole grain toast. 25g protein</p>
+        
+        <h3>Idea #9: Turkey Sausage and Eggs</h3>
+        <p>Turkey sausage + eggs + vegetables. 30g protein</p>
+        
+        <h3>Idea #10: Cottage Cheese Bowl</h3>
+        <p>Cottage cheese + fruit + nuts. 25g protein</p>
+        
+        <h3>My Breakfast Results</h3>
+        <ul>
+            <li><strong>Energy:</strong> Sustained all morning</li>
+            <li><strong>Hunger:</strong> None until lunch</li>
+            <li><strong>Productivity:</strong> Improved</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> High-protein breakfasts fuel your day. These 10 ideas keep me energized and satisfied all morning.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 216,
+    title: "10 High-Protein Meals for Easy Healthy Eating",
+    date: "July 28, 2024",
+    category: "High-Protein Fitness",
+    readTime: "6 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_5527372/image/product/V020AFWY.png",
+    excerpt: "I created 10 high-protein meals for easy healthy eating. They're simple, nutritious, and keep me full and energized.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_5527372/image/product/V020AFWY.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Healthy eating is easier with go-to high-protein meals. These 10 recipes are my favorites—simple, nutritious, and satisfying.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_5527372/image/product/V020AFWY.png" alt="High-protein meals" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Healthy Eating Toolkit</h4>
+            <p>These are the recipes I use for easy healthy eating.</p>
+            <a href="https://www.checkout-ds24.com/redir/716036/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Meal #1: Grilled Chicken Salad</h3>
+        <p>Chicken + greens + vegetables + dressing. 30g protein</p>
+        
+        <h3>Meal #2: Salmon with Vegetables</h3>
+        <p>Salmon + roasted vegetables. 35g protein</p>
+        
+        <h3>Meal #3: Lentil Soup</h3>
+        <p>Lentils + vegetables + broth. 28g protein</p>
+        
+        <h3>Meal #4: Turkey Wrap</h3>
+        <p>Turkey + vegetables + wrap. 25g protein</p>
+        
+        <h3>Meal #5: Quinoa Bowl</h3>
+        <p>Quinoa + beans + vegetables + dressing. 25g protein</p>
+        
+        <h3>Meal #6: Tofu Stir-Fry</h3>
+        <p>Tofu + vegetables + soy sauce. 28g protein</p>
+        
+        <h3>Meal #7: Chicken and Vegetable Soup</h3>
+        <p>Chicken + vegetables + broth. 30g protein</p>
+        
+        <h3>Meal #8: Tuna Salad</h3>
+        <p>Tuna + greens + vegetables. 25g protein</p>
+        
+        <h3>Meal #9: Turkey Burgers</h3>
+        <p>Turkey + bun + vegetables. 25g protein</p>
+        
+        <h3>Meal #10: Vegetable and Bean Casserole</h3>
+        <p>Vegetables + beans + cheese. 25g protein</p>
+        
+        <h3>My Results</h3>
+        <ul>
+            <li><strong>Protein:</strong> 25-35g per meal</li>
+            <li><strong>Energy:</strong> Sustained</li>
+            <li><strong>Satisfaction:</strong> Full and content</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Healthy eating is easier with these 10 high-protein meals. They're simple, nutritious, and satisfying.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 217,
+    title: "10 Delicious Protein-Packed Meals for Busy Days",
+    date: "July 27, 2024",
+    category: "High-Protein Fitness",
+    readTime: "6 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_5527372/image/product/V020AFWY.png",
+    excerpt: "I created 10 delicious protein-packed meals for busy days. They're quick, satisfying, and keep me fueled when I'm on the go.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_5527372/image/product/V020AFWY.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Busy days need quick, protein-packed meals. These 10 recipes are my go-to—they're delicious, satisfying, and keep me fueled.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_5527372/image/product/V020AFWY.png" alt="Busy day meals" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Busy Day Toolkit</h4>
+            <p>These are the meals I use on busy days.</p>
+            <a href="https://www.checkout-ds24.com/redir/716036/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Meal #1: Chicken Wrap</h3>
+        <p>Chicken + vegetables + wrap. 15 minutes, 30g protein</p>
+        
+        <h3>Meal #2: Tuna Salad</h3>
+        <p>Tuna + greens + dressing. 10 minutes, 25g protein</p>
+        
+        <h3>Meal #3: Quinoa Bowl</h3>
+        <p>Quinoa + beans + avocado + salsa. 15 minutes, 25g protein</p>
+        
+        <h3>Meal #4: Turkey and Cheese Roll-Ups</h3>
+        <p>Turkey + cheese + vegetables. 10 minutes, 25g protein</p>
+        
+        <h3>Meal #5: Lentil Soup</h3>
+        <p>Lentils + vegetables + broth. 20 minutes, 28g protein</p>
+        
+        <h3>Meal #6: Salmon Salad</h3>
+        <p>Salmon + greens + vegetables. 15 minutes, 30g protein</p>
+        
+        <h3>Meal #7: Black Bean Wrap</h3>
+        <p>Black beans + vegetables + wrap. 15 minutes, 22g protein</p>
+        
+        <h3>Meal #8: Egg and Vegetable Scramble</h3>
+        <p>Eggs + vegetables + cheese. 15 minutes, 25g protein</p>
+        
+        <h3>Meal #9: Greek Yogurt Parfait</h3>
+        <p>Greek yogurt + granola + berries. 10 minutes, 25g protein</p>
+        
+        <h3>Meal #10: Smoothie Bowl</h3>
+        <p>Protein powder + fruit + toppings. 10 minutes, 25g protein</p>
+        
+        <h3>My Busy Day Results</h3>
+        <ul>
+            <li><strong>Time:</strong> 10-20 minutes</li>
+            <li><strong>Protein:</strong> 22-30g per meal</li>
+            <li><strong>Energy:</strong> Sustained all day</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Busy days need quick, protein-packed meals. These 10 recipes are delicious, satisfying, and keep me fueled.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 218,
+    title: "High-Protein Meal Ideas for Breakfast, Lunch & Dinner",
+    date: "July 26, 2024",
+    category: "High-Protein Fitness",
+    readTime: "7 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_5527372/image/product/V020AFWY.png",
+    excerpt: "I compiled high-protein meal ideas for breakfast, lunch, and dinner. These recipes keep me full and energized all day.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_5527372/image/product/V020AFWY.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>High-protein meals are essential for staying full and energized. I compiled my favorite ideas for breakfast, lunch, and dinner.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_5527372/image/product/V020AFWY.png" alt="Meal ideas" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Meal Ideas Toolkit</h4>
+            <p>These are the recipes I use for high-protein meals.</p>
+            <a href="https://www.checkout-ds24.com/redir/716036/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Breakfast Ideas</h3>
+        <ul>
+            <li>Protein Oatmeal: 25g protein</li>
+            <li>Egg Scramble: 25g protein</li>
+            <li>Greek Yogurt Bowl: 25g protein</li>
+            <li>Protein Smoothie: 30g protein</li>
+            <li>Tofu Scramble: 25g protein</li>
+        </ul>
+        
+        <h3>Lunch Ideas</h3>
+        <ul>
+            <li>Grilled Chicken Salad: 30g protein</li>
+            <li>Tuna Salad: 25g protein</li>
+            <li>Quinoa Bowl: 25g protein</li>
+            <li>Lentil Soup: 28g protein</li>
+            <li>Turkey Wrap: 25g protein</li>
+        </ul>
+        
+        <h3>Dinner Ideas</h3>
+        <ul>
+            <li>Salmon with Vegetables: 35g protein</li>
+            <li>Chicken Stir-Fry: 30g protein</li>
+            <li>Turkey Burgers: 25g protein</li>
+            <li>Beef and Broccoli: 30g protein</li>
+            <li>Vegetable and Bean Casserole: 25g protein</li>
+        </ul>
+        
+        <h3>My Daily Protein Routine</h3>
+        <ul>
+            <li><strong>Breakfast:</strong> 25-30g protein</li>
+            <li><strong>Lunch:</strong> 25-30g protein</li>
+            <li><strong>Dinner:</strong> 25-35g protein</li>
+            <li><strong>Total:</strong> 75-95g protein daily</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> High-protein meals keep you full and energized. These ideas for breakfast, lunch, and dinner make it easy to get enough protein.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 219,
+    title: "15 High-Protein Recipes for a Balanced Weight-Loss Diet",
+    date: "July 25, 2024",
+    category: "High-Protein Fitness",
+    readTime: "7 min read",
+    image: "https://www.digistore24-app.com/webinc/images/defaults/product_thumb.png",
+    excerpt: "I created 15 high-protein recipes for a balanced weight-loss diet. They're satisfying, nutritious, and helped me lose weight without feeling hungry.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/webinc/images/defaults/product_thumb.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I wanted to lose weight without feeling hungry. These 15 high-protein recipes are satisfying, nutritious, and helped me stay on track.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/webinc/images/defaults/product_thumb.png" alt="Weight loss recipes" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Weight Loss Toolkit</h4>
+            <p>These are the recipes I use for weight loss.</p>
+            <a href="https://www.checkout-ds24.com/redir/719051/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Breakfast Weight-Loss Recipes (5)</h3>
+        <ul>
+            <li><strong>Protein Oatmeal:</strong> Oats + protein powder + berries</li>
+            <li><strong>Egg White Scramble:</strong> Egg whites + vegetables</li>
+            <li><strong>Greek Yogurt Bowl:</strong> Greek yogurt + berries</li>
+            <li><strong>Protein Smoothie:</strong> Protein powder + fruit + almond milk</li>
+            <li><strong>Tofu Scramble:</strong> Tofu + vegetables</li>
+        </ul>
+        
+        <h3>Lunch Weight-Loss Recipes (5)</h3>
+        <ul>
+            <li><strong>Grilled Chicken Salad:</strong> Chicken + greens + vegetables</li>
+            <li><strong>Tuna Salad:</strong> Tuna + greens + vegetables</li>
+            <li><strong>Quinoa Bowl:</strong> Quinoa + beans + vegetables</li>
+            <li><strong>Lentil Soup:</strong> Lentils + vegetables + broth</li>
+            <li><strong>Turkey Wrap:</strong> Turkey + vegetables + wrap</li>
+        </ul>
+        
+        <h3>Dinner Weight-Loss Recipes (5)</h3>
+        <ul>
+            <li><strong>Salmon with Vegetables:</strong> Salmon + asparagus + quinoa</li>
+            <li><strong>Chicken Stir-Fry:</strong> Chicken + vegetables</li>
+            <li><strong>Turkey Burgers:</strong> Turkey + lettuce + tomato</li>
+            <li><strong>Grilled Fish:</strong> Fish + vegetables</li>
+            <li><strong>Vegetable and Bean Soup:</strong> Vegetables + beans + broth</li>
+        </ul>
+        
+        <h3>My Weight-Loss Results</h3>
+        <ul>
+            <li><strong>Weight:</strong> Lost 12 lbs in 8 weeks</li>
+            <li><strong>Hunger:</strong> Minimal</li>
+            <li><strong>Energy:</strong> Sustained</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Weight loss doesn't mean being hungry. These 15 high-protein recipes helped me lose weight while feeling satisfied.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 220,
+    title: "20 High-Protein Meal Prep Recipes for Healthy Eating",
+    date: "July 24, 2024",
+    category: "High-Protein Fitness",
+    readTime: "7 min read",
+    image: "https://www.digistore24-app.com/webinc/images/defaults/product_thumb.png",
+    excerpt: "I created 20 high-protein meal prep recipes for healthy eating. They make weekly meal prep easy and keep me on track.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/webinc/images/defaults/product_thumb.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Meal prep makes healthy eating easy. These 20 high-protein recipes are my go-to for weekly meal prep—they're simple, nutritious, and keep me on track.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/webinc/images/defaults/product_thumb.png" alt="Meal prep" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Meal Prep Toolkit</h4>
+            <p>These are the recipes I use for meal prep.</p>
+            <a href="https://www.checkout-ds24.com/redir/719051/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Breakfast Meal Prep (5)</h3>
+        <ul>
+            <li>Egg Muffins, Overnight Oats, Greek Yogurt Parfaits, Protein Pancakes, Breakfast Burritos</li>
+        </ul>
+        
+        <h3>Lunch Meal Prep (5)</h3>
+        <ul>
+            <li>Chicken and Quinoa Bowls, Lentil Soup, Tuna Salad Containers, Turkey Wraps, Salad Jars</li>
+        </ul>
+        
+        <h3>Dinner Meal Prep (5)</h3>
+        <ul>
+            <li>Grilled Chicken and Vegetables, Salmon and Asparagus, Turkey Meatballs, Beef Stir-Fry, Vegetable and Bean Casserole</li>
+        </ul>
+        
+        <h3>Snack Meal Prep (5)</h3>
+        <ul>
+            <li>Energy Balls, Hard-Boiled Eggs, Greek Yogurt Cups, Protein Bars, Nuts and Seeds Mix</li>
+        </ul>
+        
+        <h3>My Meal Prep Results</h3>
+        <ul>
+            <li><strong>Time saved:</strong> 2 hours weekly</li>
+            <li><strong>Consistency:</strong> 90% healthy eating</li>
+            <li><strong>Protein:</strong> 100g+ daily</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Meal prep is easier with these 20 high-protein recipes. They keep me on track and save time during the week.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 221,
+    title: "The Ultimate High-Protein Cookbook Guide for Healthy Meals",
+    date: "July 23, 2024",
+    category: "High-Protein Fitness",
+    readTime: "10 min read",
+    image: "https://www.digistore24-app.com/webinc/images/defaults/product_thumb.png",
+    excerpt: "This complete high-protein cookbook guide covers everything—breakfast, lunch, dinner, snacks, and more. Over 100 recipes for healthy meals.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/webinc/images/defaults/product_thumb.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>This complete guide covers everything you need for high-protein healthy eating. Over 100 recipes for breakfast, lunch, dinner, snacks, and more.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/webinc/images/defaults/product_thumb.png" alt="Cookbook guide" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Cookbook Guide Toolkit</h4>
+            <p>These are the recipes and tips for high-protein eating.</p>
+            <a href="https://www.checkout-ds24.com/redir/719051/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Breakfast Chapter (20 Recipes)</h3>
+        <ul>
+            <li>Protein Oatmeal, Egg Scramble, Greek Yogurt Bowl, Protein Smoothie, Tofu Scramble, Protein Pancakes, Breakfast Burrito, Smoked Salmon Toast, Turkey Sausage and Eggs, Cottage Cheese Bowl, Egg Muffins, Overnight Oats, Greek Yogurt Parfaits, Protein Pancakes, Breakfast Burritos, Avocado Toast, Chia Pudding, Quinoa Bowl, Sweet Potato Hash, Veggie Omelet</li>
+        </ul>
+        
+        <h3>Lunch Chapter (25 Recipes)</h3>
+        <ul>
+            <li>Grilled Chicken Salad, Tuna Salad, Quinoa Bowl, Lentil Soup, Turkey Wrap, Chicken Wrap, Salmon Salad, Black Bean Wrap, Egg Salad, Chicken and Quinoa Bowls, Lentil Soup, Tuna Salad Containers, Turkey Wraps, Salad Jars, Chicken Salad, Tuna Melt, Turkey and Cheese Roll-Ups, Chickpea Salad, Mediterranean Bowl, Vegetable Soup, Buddha Bowl, Caprese Salad, Greek Salad, Chicken Caesar Salad, Salmon Salad</li>
+        </ul>
+        
+        <h3>Dinner Chapter (30 Recipes)</h3>
+        <ul>
+            <li>Grilled Salmon, Chicken Stir-Fry, Turkey Burgers, Beef and Broccoli, Vegetable and Bean Casserole, Salmon with Vegetables, Chicken and Vegetable Soup, Turkey Meatballs, Fish Tacos, Stuffed Peppers, Lentil Bolognese, Tofu Stir-Fry, Vegetable Curry, Pork Tenderloin, Grilled Chicken, Baked Fish, Shrimp Scampi, Chicken Fajitas, Beef Stir-Fry, Turkey Chili, Vegetable Soup, Chicken Soup, Lentil Stew, Bean Burgers, Tofu Curry, Tempeh Stir-Fry, Zucchini Noodles, Eggplant Parmesan, Fish and Vegetables, Roasted Chicken</li>
+        </ul>
+        
+        <h3>Snack Chapter (15 Recipes)</h3>
+        <ul>
+            <li>Energy Balls, Hard-Boiled Eggs, Greek Yogurt Cups, Protein Bars, Nuts and Seeds Mix, Hummus, Roasted Chickpeas, Apple with Peanut Butter, Cheese Sticks, Turkey Jerky, Protein Shake, Vegetable Sticks, Trail Mix, Cottage Cheese, Nut Butter</li>
+        </ul>
+        
+        <h3>My Cookbook Guide Results</h3>
+        <ul>
+            <li><strong>Variety:</strong> 100+ recipes</li>
+            <li><strong>Protein:</strong> 100g+ daily</li>
+            <li><strong>Health:</strong> Improved overall wellness</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> This high-protein cookbook guide covers everything you need for healthy meals. Over 100 recipes to keep you inspired and on track.</p>
+    `,
+    author: "The Modern Guide"
 }
 
 ];
