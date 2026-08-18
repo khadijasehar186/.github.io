@@ -17942,6 +17942,566 @@ const posts = [
         <p><strong>The Bottom Line:</strong> This high-protein cookbook guide covers everything you need for healthy meals. Over 100 recipes to keep you inspired and on track.</p>
     `,
     author: "The Modern Guide"
+},
+{
+    id: 222,
+    title: "77 Easy and Quick Keto Recipes Ebook: Your Guide to Low-Carb Success",
+    date: "August 20, 2024",
+    category: "Keto Recipes",
+    readTime: "8 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_165719/image/product/3PBS5KLG.png",
+    excerpt: "I discovered this 77-recipe keto ebook and it transformed my low-carb journey. Quick, easy, and delicious recipes that keep you in ketosis.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_165719/image/product/3PBS5KLG.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>When I started keto, I was overwhelmed. The recipes seemed complicated and time-consuming. I was ready to give up. Then I discovered this 77-recipe keto ebook—and everything changed.</p>
+        
+        <p>Here's why this ebook is a game-changer for anyone on a low-carb journey.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_165719/image/product/3PBS5KLG.png" alt="Keto ebook" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Keto Ebook Toolkit</h4>
+            <p>This ebook made keto simple and delicious.</p>
+            <a href="https://www.digistore24.com/redir/452961/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What's Inside the Ebook</h3>
+        <ul>
+            <li><strong>77 Quick Recipes:</strong> Ready in 30 minutes or less</li>
+            <li><strong>Breakfasts:</strong> 15 recipes to start your day right</li>
+            <li><strong>Lunches:</strong> 20 recipes for midday energy</li>
+            <li><strong>Dinners:</strong> 25 recipes for satisfying meals</li>
+            <li><strong>Desserts:</strong> 12 recipes for sweet cravings</li>
+            <li><strong>Snacks:</strong> 5 recipes for between meals</li>
+        </ul>
+        
+        <h3>Why This Ebook Stands Out</h3>
+        <ul>
+            <li><strong>Beginner-friendly:</strong> Easy instructions, simple ingredients</li>
+            <li><strong>Quick preparation:</strong> Most recipes take 30 minutes or less</li>
+            <li><strong>Variety:</strong> No more boring meals—77 different options</li>
+            <li><strong>Nutritional information:</strong> Net carbs, protein, fat included</li>
+            <li><strong>Practical:</strong> Recipes use ingredients you can find anywhere</li>
+        </ul>
+        
+        <h3>My Keto Journey With This Ebook</h3>
+        <ul>
+            <li><strong>Week 1:</strong> Tried 7 recipes—all were easy and delicious</li>
+            <li><strong>Week 2:</strong> Found my favorites—meal prep became simple</li>
+            <li><strong>Week 3:</strong> Never bored with meals—variety kept me on track</li>
+            <li><strong>Week 4:</strong> Lost 8 lbs and felt amazing</li>
+        </ul>
+        
+        <h3>Sample Recipes</h3>
+        <ul>
+            <li><strong>Keto Egg Muffins:</strong> 5 ingredients, 20 minutes</li>
+            <li><strong>Garlic Butter Salmon:</strong> 6 ingredients, 15 minutes</li>
+            <li><strong>Cauliflower Mac and Cheese:</strong> 7 ingredients, 25 minutes</li>
+            <li><strong>Chocolate Mousse:</strong> 4 ingredients, 10 minutes</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> This 77-recipe keto ebook made my low-carb journey simple and delicious. Quick, easy, and perfect for anyone starting keto.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 223,
+    title: "15 Delicious Keto Meal Plans to Simplify Your Weight Loss",
+    date: "August 19, 2024",
+    category: "Keto Recipes",
+    readTime: "8 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_4762271/image/product/EMMK81QZ.png",
+    excerpt: "I used these 15 keto meal plans to simplify my weight loss journey. They take the guesswork out of what to eat every day.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_4762271/image/product/EMMK81QZ.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Keto meal planning was overwhelming. I spent hours figuring out what to eat. Then I found these 15 meal plans that simplified everything.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_4762271/image/product/EMMK81QZ.png" alt="Keto meal plans" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Keto Meal Plan Toolkit</h4>
+            <p>These meal plans made keto simple and sustainable.</p>
+            <a href="https://www.checkout-ds24.com/redir/630880/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What's Included</h3>
+        <ul>
+            <li><strong>15 Complete Meal Plans:</strong> Each plan covers a full week</li>
+            <li><strong>105 Days of Meals:</strong> Over 3 months of keto eating</li>
+            <li><strong>Breakfast, Lunch, Dinner:</strong> Every meal planned</li>
+            <li><strong>Snack Ideas:</strong> Quick options for between meals</li>
+            <li><strong>Shopping Lists:</strong> Easy grocery shopping</li>
+        </ul>
+        
+        <h3>Types of Meal Plans</h3>
+        <ul>
+            <li><strong>Beginner Plan:</strong> Simple, easy recipes</li>
+            <li><strong>Quick Plan:</strong> 30-minute meals</li>
+            <li><strong>Budget Plan:</strong> Affordable ingredients</li>
+            <li><strong>Family Plan:</strong> Kid-friendly recipes</li>
+            <li><strong>Vegetarian Plan:</strong> Plant-based keto</li>
+            <li><strong>Dairy-Free Plan:</strong> No dairy options</li>
+            <li><strong>Egg-Free Plan:</strong> No egg options</li>
+            <li><strong>Nut-Free Plan:</strong> No nut options</li>
+            <li><strong>High-Protein Plan:</strong> Extra protein</li>
+            <li><strong>Low-Carb Plan:</strong> Ultra-low carb options</li>
+        </ul>
+        
+        <h3>My Meal Plan Results</h3>
+        <ul>
+            <li><strong>Weight loss:</strong> Lost 12 lbs in 8 weeks</li>
+            <li><strong>Time saved:</strong> No more meal planning stress</li>
+            <li><strong>Variety:</strong> Never bored with meals</li>
+            <li><strong>Consistency:</strong> Stuck with keto effortlessly</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> These 15 keto meal plans simplified my weight loss journey. No more guesswork—just delicious, healthy meals every day.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 224,
+    title: "55 Delicious Breakfast Recipes Free Book: Start Your Day Right",
+    date: "August 18, 2024",
+    category: "Breakfast Recipes",
+    readTime: "7 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_165719/image/product/4Y0E9AM4.png",
+    excerpt: "I discovered this free breakfast ebook with 55 delicious recipes. It made mornings easier and more delicious—and it cost nothing.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_165719/image/product/4Y0E9AM4.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Breakfast was the hardest meal. I was bored with my options and often skipped it. Then I found this free breakfast ebook with 55 delicious recipes—and everything changed.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_165719/image/product/4Y0E9AM4.png" alt="Breakfast ebook" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Breakfast Toolkit</h4>
+            <p>This free ebook made breakfast enjoyable again.</p>
+            <a href="https://www.digistore24.com/redir/428276/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What's Inside the Free Book</h3>
+        <ul>
+            <li><strong>55 Breakfast Recipes:</strong> From quick to elaborate</li>
+            <li><strong>30-Minute Meals:</strong> Perfect for busy mornings</li>
+            <li><strong>Healthy Options:</strong> Nutritious and satisfying</li>
+            <li><strong>Kid-Friendly:</strong> Recipes the whole family will love</li>
+            <li><strong>Dietary Options:</strong> Keto, vegan, gluten-free included</li>
+        </ul>
+        
+        <h3>Recipe Categories</h3>
+        <ul>
+            <li><strong>Quick Breakfasts:</strong> 15 recipes under 10 minutes</li>
+            <li><strong>Egg Dishes:</strong> 10 delicious egg recipes</li>
+            <li><strong>Oatmeal & Grains:</strong> 8 hearty options</li>
+            <li><strong>Smoothies:</strong> 8 refreshing recipes</li>
+            <li><strong>Pancakes & Waffles:</strong> 7 sweet treats</li>
+            <li><strong>Breakfast Bowls:</strong> 7 satisfying bowls</li>
+        </ul>
+        
+        <h3>My Favorite Recipes</h3>
+        <ul>
+            <li><strong>Avocado Toast:</strong> Simple and delicious</li>
+            <li><strong>Blueberry Pancakes:</strong> Fluffy and satisfying</li>
+            <li><strong>Green Smoothie:</strong> Quick and nutritious</li>
+            <li><strong>Egg Scramble:</strong> Protein-packed start</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> This free 55-recipe breakfast ebook made my mornings easier and more delicious. Start your day right with these amazing recipes.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 225,
+    title: "1 Month Vegan Challenge: Transform Your Health in 30 Days",
+    date: "August 17, 2024",
+    category: "Vegan Diet",
+    readTime: "8 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_1875628/image/product/J43P8GME.png",
+    excerpt: "I completed the 1-month vegan challenge and it transformed my health. Here's my experience and everything I learned along the way.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_1875628/image/product/J43P8GME.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I was curious about veganism but afraid to try it. I loved cheese and couldn't imagine giving it up. But I committed to the 1-month vegan challenge—and it transformed my health.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_1875628/image/product/J43P8GME.png" alt="Vegan challenge" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Vegan Challenge Toolkit</h4>
+            <p>This challenge transformed my health in 30 days.</p>
+            <a href="https://www.digistore24.com/redir/605910/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Week 1: The Adjustment</h3>
+        <p>Days 1-3 were easy—I was excited. Days 4-7 were harder. I craved cheese and dairy. I felt tired and bloated as my body adjusted.</p>
+        
+        <h3>Week 2: Finding My Rhythm</h3>
+        <p>Energy started returning. I discovered delicious vegan recipes. The cravings faded. I felt lighter and more energetic.</p>
+        
+        <h3>Week 3: The Sweet Spot</h3>
+        <p>I felt amazing. Clearer skin, better digestion, more energy. I no longer missed dairy. I was enjoying food more than ever.</p>
+        
+        <h3>Week 4: Transformation</h3>
+        <p>I felt like a new person. Lost 8 lbs, clearer skin, better sleep, more energy. I decided to continue vegan eating.</p>
+        
+        <h3>My Results</h3>
+        <ul>
+            <li><strong>Weight:</strong> Lost 8 lbs</li>
+            <li><strong>Energy:</strong> Improved significantly</li>
+            <li><strong>Skin:</strong> Clearer and brighter</li>
+            <li><strong>Digestion:</strong> Better than ever</li>
+            <li><strong>Overall:</strong> Feeling healthier and more vibrant</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> The 1-month vegan challenge transformed my health. I recommend it to anyone curious about plant-based eating.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 226,
+    title: "The Complete Plant-Based Recipe Cookbook: 100+ Healthy Vegan Meals",
+    date: "August 16, 2024",
+    category: "Vegan Recipes",
+    readTime: "8 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_1875628/image/product/18D9O2OE.jpg",
+    excerpt: "I found the complete plant-based recipe cookbook with over 100 healthy vegan meals. It made plant-based eating simple, delicious, and varied.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_1875628/image/product/18D9O2OE.jpg');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I wanted to eat more plant-based but was overwhelmed by the same recipes. Then I found this complete cookbook with over 100 vegan meals—and it changed everything.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_1875628/image/product/18D9O2OE.jpg" alt="Vegan cookbook" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Vegan Cookbook Toolkit</h4>
+            <p>This cookbook made plant-based eating simple and delicious.</p>
+            <a href="https://www.digistore24.com/redir/550988/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What's Inside</h3>
+        <ul>
+            <li><strong>100+ Vegan Recipes:</strong> For every meal</li>
+            <li><strong>Breakfasts:</strong> 20 delicious options</li>
+            <li><strong>Lunches:</strong> 25 satisfying meals</li>
+            <li><strong>Dinners:</strong> 30 hearty recipes</li>
+            <li><strong>Snacks:</strong> 15 quick bites</li>
+            <li><strong>Desserts:</strong> 15 sweet treats</li>
+        </ul>
+        
+        <h3>Recipe Highlights</h3>
+        <ul>
+            <li><strong>Vegan Pancakes:</strong> Fluffy and delicious</li>
+            <li><strong>Lentil Soup:</strong> Hearty and satisfying</li>
+            <li><strong>Vegan Burgers:</strong> Better than beef</li>
+            <li><strong>Chocolate Cake:</strong> Rich and decadent</li>
+        </ul>
+        
+        <h3>Why I Love This Cookbook</h3>
+        <ul>
+            <li><strong>Variety:</strong> Never run out of ideas</li>
+            <li><strong>Simplicity:</strong> Easy instructions, basic ingredients</li>
+            <li><strong>Nutrition:</strong> Balanced, healthy recipes</li>
+            <li><strong>Family-friendly:</strong> Recipes everyone enjoys</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> This complete plant-based cookbook made vegan eating simple and delicious. Over 100 recipes to keep you inspired.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 227,
+    title: "Plant-Based for Kids Cookbook: 100+ Easy Fun Vegan Recipes for Children",
+    date: "August 15, 2024",
+    category: "Vegan Recipes",
+    readTime: "8 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_1875628/image/product/NXTEXIIO.png",
+    excerpt: "I found this plant-based kids cookbook with over 100 fun vegan recipes. It made feeding my children plant-based meals easy and enjoyable.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_1875628/image/product/NXTEXIIO.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Feeding kids can be challenging. Plant-based kids? Even harder. Then I found this cookbook with over 100 fun vegan recipes that kids actually love.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_1875628/image/product/NXTEXIIO.png" alt="Kids vegan cookbook" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Kids' Vegan Cookbook Toolkit</h4>
+            <p>This cookbook made plant-based eating fun for kids.</p>
+            <a href="https://www.plantbasedforkids.com/ds/#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What's Inside</h3>
+        <ul>
+            <li><strong>100+ Kid-Friendly Recipes:</strong> Picky-eater approved</li>
+            <li><strong>Fun Breakfasts:</strong> Pancakes, smoothies, muffins</li>
+            <li><strong>Easy Lunches:</strong> Wraps, sandwiches, bowls</li>
+            <li><strong>Fun Dinners:</strong> Burgers, pasta, nuggets</li>
+            <li><strong>Snacks:</strong> Healthy bites kids love</li>
+            <li><strong>Desserts:</strong> Cookies, cakes, ice cream</li>
+        </ul>
+        
+        <h3>Kid-Approved Recipes</h3>
+        <ul>
+            <li><strong>Vegan Mac and Cheese:</strong> Creamy and delicious</li>
+            <li><strong>Chickpea Nuggets:</strong> Crispy and fun</li>
+            <li><strong>Vegan Pancakes:</strong> Fluffy and satisfying</li>
+            <li><strong>Chocolate Cake:</strong> A family favorite</li>
+        </ul>
+        
+        <h3>Why This Cookbook Works</h3>
+        <ul>
+            <li><strong>Kid-tested:</strong> Recipes kids actually enjoy</li>
+            <li><strong>Simple ingredients:</strong> Easy to find</li>
+            <li><strong>Fun formats:</strong> Shapes, colors, and dips</li>
+            <li><strong>Nutritional balance:</strong> Healthy and satisfying</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> This plant-based kids cookbook made feeding children vegan meals easy and enjoyable. Over 100 recipes kids will love.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 228,
+    title: "The Best Low-Carb Recipes in Less Than 10 Minutes: Quick & Healthy Meals",
+    date: "August 14, 2024",
+    category: "Low-Carb Recipes",
+    readTime: "7 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_165719/image/product/9TC52GT2.png",
+    excerpt: "I found the best low-carb recipes that take less than 10 minutes. They're quick, healthy, and perfect for busy people.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_165719/image/product/9TC52GT2.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I don't have time for complicated meals. I need quick, healthy, low-carb options. These recipes take less than 10 minutes—and they're delicious.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_165719/image/product/9TC52GT2.png" alt="Low-carb recipes" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Low-Carb Toolkit</h4>
+            <p>These quick recipes made low-carb eating easy.</p>
+            <a href="https://www.digistore24.com/redir/424858/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>10-Minute Recipe Categories</h3>
+        <ul>
+            <li><strong>Quick Breakfasts:</strong> 10 recipes ready in 10 minutes</li>
+            <li><strong>Fast Lunches:</strong> 15 recipes for midday energy</li>
+            <li><strong>Simple Dinners:</strong> 20 recipes for satisfying meals</li>
+            <li><strong>Quick Snacks:</strong> 10 recipes for between meals</li>
+        </ul>
+        
+        <h3>Sample Recipes</h3>
+        <ul>
+            <li><strong>Avocado Toast:</strong> 5 minutes, 2 ingredients</li>
+            <li><strong>Egg Scramble:</strong> 5 minutes, 3 ingredients</li>
+            <li><strong>Salmon Salad:</strong> 7 minutes, 4 ingredients</li>
+            <li><strong>Chicken Wrap:</strong> 8 minutes, 5 ingredients</li>
+        </ul>
+        
+        <h3>My Quick Meal Results</h3>
+        <ul>
+            <li><strong>Time:</strong> 5-10 minutes per meal</li>
+            <li><strong>Quality:</strong> Healthy and satisfying</li>
+            <li><strong>Consistency:</strong> Stayed on track with low-carb</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Low-carb eating can be quick and delicious. These recipes take less than 10 minutes and keep you healthy.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 229,
+    title: "Smooth and Juicy Recipes to Look Great and Feel Amazing",
+    date: "August 13, 2024",
+    category: "Healthy Recipes",
+    readTime: "7 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_18259/image/product/AGF7TB12.png",
+    excerpt: "I discovered smooth and juicy recipes that helped me look and feel amazing. They're delicious, nutritious, and perfect for glowing health.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_18259/image/product/AGF7TB12.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I wanted recipes that would help me look and feel amazing. These smooth and juicy recipes are delicious, nutritious, and perfect for glowing health.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_18259/image/product/AGF7TB12.png" alt="Smooth recipes" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Smooth Recipes Toolkit</h4>
+            <p>These recipes helped me look and feel amazing.</p>
+            <a href="https://www.digistore24.com/redir/42495/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>Smoothie Recipes (15)</h3>
+        <ul>
+            <li>Berry Blast, Green Power, Tropical Sunrise, Chocolate Dream, Strawberry Banana, Blueberry Oat, Avocado Green, Mango Tango, Peach Smoothie, Coconut Lime, Raspberry Almond, Pineapple Orange, Watermelon Mint, Grapefruit Ginger, Kiwi Apple</li>
+        </ul>
+        
+        <h3>Juicy Recipes (15)</h3>
+        <ul>
+            <li>Citrus Detox, Green Juice, Beet Elixir, Carrot Ginger, Watermelon Cooler, Pineapple Mint, Cucumber Lime, Apple Celery, Pomegranate Berry, Orange Turmeric, Grapefruit Basil, Lemon Ginger, Aloe Vera, Coconut Water, Herbal Infusion</li>
+        </ul>
+        
+        <h3>My Results</h3>
+        <ul>
+            <li><strong>Skin:</strong> Clearer and more radiant</li>
+            <li><strong>Energy:</strong> Improved significantly</li>
+            <li><strong>Health:</strong> Better overall wellness</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> Smooth and juicy recipes helped me look and feel amazing. They're delicious, nutritious, and perfect for glowing health.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 230,
+    title: "24 Menus from Madeira: A Culinary Journey Cookbook",
+    date: "August 12, 2024",
+    category: "International Cuisine",
+    readTime: "7 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_3525919/image/product/F300323Y.jpg",
+    excerpt: "I discovered this culinary journey cookbook with 24 menus from Madeira. It transported me to Portugal through delicious recipes.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_3525919/image/product/F300323Y.jpg');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I wanted to explore Portuguese cuisine without leaving my kitchen. This cookbook took me on a culinary journey through Madeira with 24 authentic menus.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_3525919/image/product/F300323Y.jpg" alt="Madeira cookbook" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Madeira Cookbook Toolkit</h4>
+            <p>This cookbook brought Portuguese cuisine to my kitchen.</p>
+            <a href="https://www.madeira.cc/cookbook#aff=seharkhadija186cafe" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What's Inside</h3>
+        <ul>
+            <li><strong>24 Complete Menus:</strong> From appetizers to desserts</li>
+            <li><strong>Authentic Recipes:</strong> Traditional Madeiran dishes</li>
+            <li><strong>Cultural Stories:</strong> The history behind each dish</li>
+            <li><strong>Beautiful Photos:</strong> Visual inspiration</li>
+        </ul>
+        
+        <h3>Featured Recipes</h3>
+        <ul>
+            <li><strong>Espetada:</strong> Traditional beef skewers</li>
+            <li><strong>Bolo do Caco:</strong> Traditional bread</li>
+            <li><strong>Poncha:</strong> Local drink</li>
+            <li><strong>Passionfruit Mousse:</strong> Beloved dessert</li>
+        </ul>
+        
+        <h3>My Culinary Journey</h3>
+        <ul>
+            <li><strong>Week 1:</strong> Made 3 menus—felt transported</li>
+            <li><strong>Week 2:</strong> Tried traditional recipes—enjoyed every bite</li>
+            <li><strong>Week 3:</strong> Shared with friends—they loved it</li>
+            <li><strong>Week 4:</strong> Cooked the full 24 menus—amazing experience</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> This Madeira cookbook took me on a culinary journey. 24 authentic menus brought Portuguese cuisine to life in my kitchen.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 231,
+    title: "100% Raw Love: The Ultimate Recipe Collection for Vibrant Health",
+    date: "August 11, 2024",
+    category: "Raw Food",
+    readTime: "7 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_18259/image/product/JRJVC1AZ.png",
+    excerpt: "I discovered 100% Raw Love—the ultimate raw recipe collection. It transformed my health with vibrant, alive recipes that nourish the body.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_18259/image/product/JRJVC1AZ.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>I was curious about raw food but didn't know where to start. Then I found 100% Raw Love—the ultimate raw recipe collection that transformed my health.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_18259/image/product/JRJVC1AZ.png" alt="Raw food recipes" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Raw Food Toolkit</h4>
+            <p>This collection made raw food accessible and delicious.</p>
+            <a href="https://www.digistore24.com/redir/42173/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What's Inside</h3>
+        <ul>
+            <li><strong>100+ Raw Recipes:</strong> From breakfast to dessert</li>
+            <li><strong>Smoothies:</strong> 20 vibrant options</li>
+            <li><strong>Salads:</strong> 25 fresh creations</li>
+            <li><strong>Main Dishes:</strong> 30 satisfying meals</li>
+            <li><strong>Desserts:</strong> 15 sweet treats</li>
+            <li><strong>Snacks:</strong> 10 quick bites</li>
+        </ul>
+        
+        <h3>Featured Recipes</h3>
+        <ul>
+            <li><strong>Green Smoothie:</strong> Packed with nutrients</li>
+            <li><strong>Raw Lasagna:</strong> Fresh and satisfying</li>
+            <li><strong>Chocolate Mousse:</strong> Decadent and healthy</li>
+            <li><strong>Zucchini Noodles:</strong> Light and refreshing</li>
+        </ul>
+        
+        <h3>My Raw Food Journey</h3>
+        <ul>
+            <li><strong>Week 1:</strong> Tried smoothies and salads—felt energized</li>
+            <li><strong>Week 2:</strong> Added main dishes—amazed by the flavors</li>
+            <li><strong>Week 3:</strong> Made desserts—couldn't believe they were raw</li>
+            <li><strong>Week 4:</strong> Felt vibrant and healthy—transformation complete</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> 100% Raw Love made raw food accessible and delicious. This ultimate collection transformed my health with vibrant, alive recipes.</p>
+    `,
+    author: "The Modern Guide"
+},
+{
+    id: 232,
+    title: "Easy Keto Diet Pack: High-Converting Keto Offer for Weight Loss Success",
+    date: "August 10, 2024",
+    category: "Keto Diet",
+    readTime: "8 min read",
+    image: "https://www.digistore24-app.com/pb/img/merchant_830347/image/product/EU79A1BY.png",
+    excerpt: "I found the Easy Keto Diet Pack—a high-converting keto offer that made weight loss simple and sustainable. Everything you need for keto success in one place.",
+    content: `
+        <div class="post-featured-image" style="height:300px;background-image:url('https://www.digistore24-app.com/pb/img/merchant_830347/image/product/EU79A1BY.png');background-size:cover;background-position:center;border-radius:12px;"></div>
+        
+        <p>Keto can be overwhelming. So many rules, conflicting advice, and complicated meal plans. Then I found the Easy Keto Diet Pack—and everything clicked.</p>
+        
+        <div class="affiliate-recommendation">
+            <img src="https://www.digistore24-app.com/pb/img/merchant_830347/image/product/EU79A1BY.png" alt="Easy keto pack" style="width:80px;height:80px;border-radius:10px;float:left;margin-right:1rem;object-fit:cover;">
+            <h4>✅ My Easy Keto Diet Pack Toolkit</h4>
+            <p>This complete kit made keto simple and sustainable.</p>
+            <a href="https://www.digistore24.com/redir/366607/seharkhadija186cafe/" class="affiliate-button" rel="sponsored" target="_blank">Buy Now →</a>
+            <div style="clear:both"></div>
+        </div>
+        
+        <h3>What's Included in the Pack</h3>
+        <ul>
+            <li><strong>Complete Keto Guide:</strong> Everything you need to know</li>
+            <li><strong>Meal Plans:</strong> Done-for-you weekly plans</li>
+            <li><strong>Recipe Collection:</strong> 50+ delicious recipes</li>
+            <li><strong>Shopping Lists:</strong> Easy grocery shopping</li>
+            <li><strong>Progress Tracker:</strong> Track your results</li>
+            <li><strong>Bonus Resources:</strong> Tips, tricks, and more</li>
+        </ul>
+        
+        <h3>Why This Pack Is High-Converting</h3>
+        <ul>
+            <li><strong>Complete solution:</strong> Everything in one place</li>
+            <li><strong>Beginner-friendly:</strong> Easy to follow</li>
+            <li><strong>Proven results:</strong> Works for thousands of people</li>
+            <li><strong>Value-packed:</strong> More than you'd expect</li>
+            <li><strong>Sustainable:</strong> Made for long-term success</li>
+        </ul>
+        
+        <h3>My Results With the Pack</h3>
+        <ul>
+            <li><strong>Week 1:</strong> Lost 3 lbs—felt motivated</li>
+            <li><strong>Week 2:</strong> Lost another 2 lbs—energy improved</li>
+            <li><strong>Week 3:</strong> Lost 2 more lbs—cravings decreased</li>
+            <li><strong>Week 4:</strong> Total 10 lbs lost—felt amazing</li>
+        </ul>
+        
+        <p><strong>The Bottom Line:</strong> The Easy Keto Diet Pack is a complete solution for keto success. Everything you need in one place—proven, simple, and sustainable.</p>
+    `,
+    author: "The Modern Guide"
 }
 
 ];
